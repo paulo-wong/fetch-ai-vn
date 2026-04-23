@@ -4,6 +4,13 @@ import LanguageDetector from 'i18next-browser-languagedetector';
 import en from './en.json';
 import vi from './vi.json';
 
+// Set Vietnamese as the default for first-time visitors only.
+// If the user has already chosen a language, localStorage takes precedence.
+const LANG_KEY = 'fetch-vn-lang';
+if (!localStorage.getItem(LANG_KEY)) {
+  localStorage.setItem(LANG_KEY, 'vi');
+}
+
 i18n
   .use(LanguageDetector)
   .use(initReactI18next)
@@ -12,12 +19,12 @@ i18n
       en: { translation: en },
       vi: { translation: vi },
     },
-    lng: 'vi',
+    // Do NOT set `lng` here — it overrides the LanguageDetector and ignores localStorage.
     fallbackLng: 'vi',
     defaultNS: 'translation',
     detection: {
       order: ['localStorage', 'navigator'],
-      lookupLocalStorage: 'fetch-vn-lang',
+      lookupLocalStorage: LANG_KEY,
       caches: ['localStorage'],
     },
     interpolation: {
