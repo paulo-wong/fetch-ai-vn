@@ -1,0 +1,64 @@
+name: fetch-ai
+region: sgp
+services:
+  - name: web
+    github:
+      repo: paulo-wong/fetch-ai
+      branch: main
+      deploy_on_push: true
+    build_command: npm install -g pnpm && pnpm install && pnpm run build
+    run_command: node dist/index.js
+    environment_slug: node-js
+    instance_count: 1
+    instance_size_slug: apps-s-1vcpu-0.5gb
+    http_port: 8080
+    health_check:
+      http_path: /
+      initial_delay_seconds: 30
+      period_seconds: 30
+      timeout_seconds: 10
+      success_threshold: 1
+      failure_threshold: 3
+    envs:
+      - key: NODE_ENV
+        value: production
+        scope: RUN_AND_BUILD_TIME
+      - key: PORT
+        value: "8080"
+        scope: RUN_TIME
+      - key: DATABASE_URL
+        scope: RUN_TIME
+        type: SECRET
+      - key: JWT_SECRET
+        scope: RUN_TIME
+        type: SECRET
+      - key: OPENAI_API_KEY
+        scope: RUN_TIME
+        type: SECRET
+      - key: VITE_APP_ID
+        value: ""
+        scope: BUILD_TIME
+      - key: OAUTH_SERVER_URL
+        value: ""
+        scope: RUN_TIME
+      - key: VITE_OAUTH_PORTAL_URL
+        value: ""
+        scope: BUILD_TIME
+      - key: OWNER_OPEN_ID
+        value: ""
+        scope: RUN_TIME
+      - key: OWNER_NAME
+        value: "Fetch Technology"
+        scope: RUN_TIME
+      - key: BUILT_IN_FORGE_API_URL
+        value: ""
+        scope: RUN_TIME
+      - key: BUILT_IN_FORGE_API_KEY
+        value: ""
+        scope: RUN_TIME
+      - key: VITE_FRONTEND_FORGE_API_KEY
+        value: ""
+        scope: BUILD_TIME
+      - key: VITE_FRONTEND_FORGE_API_URL
+        value: ""
+        scope: BUILD_TIME
