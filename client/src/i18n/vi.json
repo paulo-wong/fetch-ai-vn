@@ -1,0 +1,1599 @@
+{
+  "nav": {
+    "solutions": "Giải pháp",
+    "pods": "Nhóm triển khai",
+    "industries": "Ngành nghề",
+    "whyFetch": "Tại sao Fetch",
+    "caseStudies": "Nghiên cứu điển hình",
+    "resources": "Tài nguyên",
+    "about": "Về chúng tôi",
+    "careers": "Tuyển dụng",
+    "bookCall": "Đặt lịch tư vấn",
+    "fetchSingapore": "Fetch Singapore",
+    "grants": "Hỗ trợ AI",
+    "language": "Ngôn ngữ"
+  },
+  "footer": {
+    "tagline": "Chuyển đổi AI cho doanh nghiệp Việt Nam. Chúng tôi triển khai, thực thi và đo lường kết quả.",
+    "solutions": "Giải pháp",
+    "company": "Công ty",
+    "legal": "Pháp lý",
+    "aiAdoptionSprint": "Sprint AI 30 ngày",
+    "workflowRedesign": "Tái thiết quy trình",
+    "aiImplementation": "Triển khai AI",
+    "teamUpskilling": "Đào tạo đội ngũ",
+    "departmentRollout": "Triển khai theo phòng ban",
+    "managedTransformation": "Chuyển đổi toàn diện",
+    "about": "Về chúng tôi",
+    "careers": "Tuyển dụng",
+    "caseStudies": "Nghiên cứu điển hình",
+    "contact": "Liên hệ",
+    "privacyPolicy": "Chính sách bảo mật",
+    "terms": "Điều khoản",
+    "copyright": "© 2025 Fetch Technology Vietnam. Bảo lưu mọi quyền.",
+    "fetchGroup": "Thành viên của Fetch Group",
+    "fetchSingapore": "Fetch Singapore",
+    "sgHQ": "Trụ sở tập đoàn",
+    "visitSG": "fetch.tech ↗",
+    "officeHCM": "Hồ Chí Minh",
+    "officeHN": "Hà Nội"
+  },
+  "home": {
+    "badge": "Chuyển đổi AI tại Việt Nam",
+    "grantBadge": "Chính phủ tài trợ đến 70% chi phí chuyển đổi AI của bạn",
+    "headline": "Đội ngũ của bạn nên dành ít thời gian hơn cho công việc hành chính và tập trung vào những gì thực sự quan trọng.",
+    "subheadline": "Fetch đưa nhóm chuyển đổi vào doanh nghiệp của bạn. Chúng tôi lập bản đồ quy trình, triển khai AI mà đội ngũ thực sự sử dụng, và đo lường kết quả. Các khoản hỗ trợ của chính phủ Việt Nam có thể tài trợ đến 70% chi phí.",
+    "cta1": "Đặt lịch tư vấn chiến lược",
+    "cta2": "Kiểm tra điều kiện nhận hỗ trợ",
+    "trust1": "Đội ngũ triển khai tại Việt Nam",
+    "trust2": "Kết quả được đo lường từ ngày đầu tiên",
+    "trust3": "Quy trình AI đầu tiên hoạt động trong 30 ngày",
+    "stat1Value": "30",
+    "stat1Suffix": " ngày",
+    "stat1Label": "đến quy trình AI đầu tiên được triển khai",
+    "stat2Value": "62",
+    "stat2Suffix": "%",
+    "stat2Label": "chi phí được tài trợ bởi chính phủ",
+    "stat3Value": "6",
+    "stat3Suffix": "%",
+    "stat3Label": "doanh nghiệp Việt Nam chưa áp dụng AI",
+    "stat4Value": "94",
+    "stat4Suffix": "%",
+    "stat4Label": "tỷ lệ đội ngũ áp dụng AI sau 60 ngày",
+    "problemLabel": "Vấn đề",
+    "problemTitle": "Hầu hết các dự án AI thất bại trước khi bắt đầu.",
+    "problemP1": "Vấn đề không phải là thiếu công cụ AI. ChatGPT miễn phí. Copilot đã tích hợp sẵn trong gói Office của bạn. Vấn đề là không ai thiết kế lại quy trình mà những công cụ đó được cho là sẽ cải thiện.",
+    "problemP2": "Tư vấn viên giao một bản lộ trình rồi rời đi. Nhà cung cấp phần mềm cài đặt xong rồi rời đi. Đội ngũ của bạn nhận được tài khoản đăng nhập và hướng dẫn sử dụng, và sau ba tháng công cụ bị bỏ xó.",
+    "problemP3": "Fetch ở lại cho đến khi AI được tích hợp vào cách đội ngũ của bạn thực sự làm việc — và cho đến khi bạn có thể đo lường sự khác biệt.",
+    "howLabel": "Cách Fetch hoạt động",
+    "howTitle": "Chúng tôi không phải tư vấn viên. Chúng tôi là đội ngũ triển khai nhúng.",
+    "step1Num": "01",
+    "step1Title": "Cuộc gọi chiến lược",
+    "step1Desc": "45 phút. Chúng tôi đánh giá quy trình của bạn, xác định các cơ hội AI có tác động cao nhất, và nói thẳng liệu chúng tôi có phải là đối tác phù hợp — và các khoản hỗ trợ nào bạn đủ điều kiện.",
+    "step2Num": "02",
+    "step2Title": "Lập bản đồ quy trình",
+    "step2Desc": "Chúng tôi dành tuần đầu tiên để ghi lại cách hoạt động thực tế của doanh nghiệp bạn — không phải cách bạn nghĩ nó hoạt động. Khoảng cách thường rất đáng kể.",
+    "step3Num": "03",
+    "step3Title": "Triển khai và đào tạo",
+    "step3Desc": "Chúng tôi cấu hình và triển khai các công cụ AI vào quy trình thực tế của bạn, sau đó tiến hành các buổi đào tạo có cấu trúc cho đến khi đội ngũ sử dụng chúng một cách độc lập.",
+    "step4Num": "04",
+    "step4Title": "Đo lường và bàn giao",
+    "step4Desc": "Chúng tôi theo dõi tỷ lệ áp dụng và thời gian tiết kiệm, lập báo cáo ROI, và bàn giao lộ trình cho các bước tiếp theo.",
+    "grantsLabel": "Hỗ trợ AI từ Chính phủ Việt Nam",
+    "grantsTitle": "Chính phủ sẽ tài trợ đến 70% chi phí chuyển đổi AI của bạn.",
+    "grantsDesc": "Quỹ Phát triển AI Quốc gia và Chương trình Chuyển đổi Số cho SME của Việt Nam cung cấp các khoản hỗ trợ đáng kể cho doanh nghiệp áp dụng AI. Fetch giúp bạn xác định các chương trình đủ điều kiện và cơ cấu hợp đồng để tối đa hóa mức hỗ trợ.",
+    "grantsCTA": "Kiểm tra điều kiện của bạn",
+    "ctaTitle": "Sẵn sàng bắt đầu?",
+    "ctaDesc": "Đặt lịch tư vấn chiến lược 45 phút. Chúng tôi sẽ đánh giá quy trình của bạn, xác định các cơ hội AI có tác động cao nhất, và cho bạn biết chính xác các khoản hỗ trợ chính phủ nào bạn đủ điều kiện nhận.",
+    "ctaBtn": "Đặt lịch tư vấn chiến lược",
+    "ctaDiagnose": "Chẩn đoán doanh nghiệp miễn phí trong 5 phút →",
+    "grantsBannerStrong": "Quỹ AI Quốc gia Việt Nam:",
+    "grantsBannerText": "30 nghìn tỷ đồng sẵn có. Chính phủ tài trợ đến 70% dự án AI đủ điều kiện.",
+    "grantsBannerCTA": "Xem bạn có đủ điều kiện không",
+    "whatWeDoLabel": "Chúng tôi làm gì",
+    "whatWeDoTitle": "Sáu cách chúng tôi chuyển đổi hoạt động của bạn.",
+    "learnMore": "Tìm hiểu thêm",
+    "industriesLabel": "Ngành nghề",
+    "industriesTitle": "Chúng tôi làm việc trong các lĩnh vực chủ chốt của Việt Nam.",
+    "clientResultsLabel": "Kết quả khách hàng",
+    "clientResultsTitle": "Khách hàng nói gì sau 30 ngày.",
+    "ctaBadge": "Hỗ trợ chính phủ có sẵn — số lượng tiếp nhận mỗi quý có hạn",
+    "solTag": "Phổ biến nhất",
+    "sol1Title": "Sprint AI 30 ngày",
+    "sol1Desc": "Chúng tôi nhúng vào trong 30 ngày, lập bản đồ quy trình, triển khai 1–2 quy trình AI, đào tạo đội ngũ, và bàn giao lộ trình áp dụng đầy đủ. Đủ điều kiện nhận hỗ trợ từ Quỹ AI Quốc gia.",
+    "sol2Title": "Tái thiết quy trình",
+    "sol2Desc": "Trước khi tự động hóa bất cứ điều gì, chúng tôi ghi lại cách hoạt động thực tế của bạn — rồi thiết kế lại cho AI. Hầu hết doanh nghiệp bỏ qua bước này. Đó là lý do AI của họ thất bại.",
+    "sol3Title": "Triển khai AI",
+    "sol3Desc": "Chúng tôi xử lý việc chọn công cụ, cấu hình, tích hợp với hệ thống hiện có, và đưa vào vận hành. Chúng tôi không bàn giao hướng dẫn rồi rời đi.",
+    "sol4Title": "Đào tạo đội ngũ",
+    "sol4Desc": "Các buổi có cấu trúc đưa đội ngũ của bạn từ hoài nghi AI đến tự tin với AI. Bao gồm sách hướng dẫn theo vai trò họ có thể dùng ngay ngày hôm sau.",
+    "sol5Title": "Triển khai theo phòng ban",
+    "sol5Desc": "Một đơn vị kinh doanh, chuyển đổi hoàn toàn. Chúng tôi chứng minh mô hình hoạt động trước khi bạn mở rộng ra toàn tổ chức.",
+    "sol6Title": "Chuyển đổi toàn diện",
+    "sol6Desc": "Một đối tác nhúng trong 6–12 tháng. Chúng tôi điều hành chương trình chuyển đổi để đội ngũ lãnh đạo của bạn không phải làm điều đó.",
+    "ind1Name": "Sản xuất & Chế biến",
+    "ind1Desc": "Tự động hóa kiểm soát chất lượng, lập lịch sản xuất, giao tiếp nhà cung cấp",
+    "ind2Name": "Logistics & Chuỗi cung ứng",
+    "ind2Desc": "Tối ưu hóa tuyến đường, tài liệu vận chuyển, quản lý kho",
+    "ind3Name": "Dịch vụ chuyên nghiệp",
+    "ind3Desc": "Tạo đề xuất, thanh toán, báo cáo khách hàng, quy trình nghiên cứu",
+    "ind4Name": "Dịch vụ tài chính",
+    "ind4Desc": "Tài liệu tuân thủ, onboarding khách hàng, tự động hóa báo cáo",
+    "ind5Name": "Bán lẻ & Thương mại điện tử",
+    "ind5Desc": "Quản lý hàng tồn kho, dịch vụ khách hàng, quy trình merchandising",
+    "ind6Name": "Nông nghiệp & Thực phẩm",
+    "ind6Desc": "Giám sát cây trồng, truy xuất nguồn gốc chuỗi cung ứng, tài liệu xuất khẩu",
+    "test1Quote": "Chúng tôi đã nói về AI suốt 18 tháng. Fetch vào, lập bản đồ hoạt động trong một tuần, và có hai quy trình chạy trong sản xuất vào tuần thứ tư. Đội ngũ thực sự sử dụng chúng.",
+    "test1Company": "Công ty logistics tầm trung, Thành phố Hồ Chí Minh",
+    "test2Quote": "Các tư vấn viên của chúng tôi dành 40% thời gian cho công việc hành chính. Sau sprint, con số đó giảm xuống khoảng 15%. ROI rất rõ ràng — chúng tôi thu hồi vốn trong tháng đầu tiên.",
+    "test2Company": "Công ty dịch vụ chuyên nghiệp, Hà Nội",
+    "test3Quote": "Điều tôi đánh giá cao là họ phản đối khi chúng tôi muốn tự động hóa sai thứ. Họ thiết kế lại quy trình trước. Đó là lý do nó hoạt động.",
+    "test3Company": "Công ty sản xuất, Bình Dương",
+    "grant1Name": "Quỹ Phát triển AI Quốc gia",
+    "grant1Amount": "Đến 70% chi phí dự án",
+    "grant1Total": "30 nghìn tỷ đồng (~1,18 tỷ USD)",
+    "grant1Body": "Bộ Khoa học & Công nghệ",
+    "grant1Desc": "Quỹ AI hàng đầu của Việt Nam. Bao gồm triển khai AI, tự động hóa quy trình, và đào tạo đội ngũ cho các doanh nghiệp đủ điều kiện.",
+    "grant2Name": "Chương trình Chuyển đổi Số cho SME",
+    "grant2Amount": "Tư vấn miễn phí + hỗ trợ triển khai",
+    "grant2Total": "500.000 SME được nhắm đến vào 2030",
+    "grant2Body": "Quyết định 433/QĐ-TTg",
+    "grant2Desc": "Đánh giá sẵn sàng số miễn phí, tư vấn AI, và hỗ trợ triển khai cho các doanh nghiệp vừa và nhỏ.",
+    "grant3Name": "Ưu đãi thuế đầu tư công nghệ",
+    "grant3Amount": "Giảm hoặc miễn thuế TNDN",
+    "grant3Total": "Nghị định 20/2026",
+    "grant3Body": "Bộ Tài chính",
+    "grant3Desc": "Giảm hoặc miễn hoàn toàn thuế thu nhập doanh nghiệp cho SME đầu tư vào công nghệ và đổi mới AI."
+  },
+  "careers": {
+    "heroLabel": "Gia nhập đội ngũ",
+    "heroTitle": "Xây dựng tương lai của công việc tại Việt Nam.",
+    "heroDesc": "Chúng tôi là một đội ngũ nhỏ, tập trung, đang thực hiện công việc nghiêm túc. Nếu bạn muốn đứng ở trung tâm của cuộc chuyển đổi AI tại Việt Nam — không phải đứng ngoài nhìn vào — đây là nơi bạn thuộc về.",
+    "rolesTitle": "vị trí đang tuyển",
+    "searchPlaceholder": "Tìm kiếm vị trí...",
+    "filterAll": "Tất cả",
+    "applyNow": "Ứng tuyển ngay",
+    "fullTime": "Toàn thời gian",
+    "partTime": "Bán thời gian",
+    "contract": "Hợp đồng",
+    "noRoles": "Không có vị trí nào phù hợp với tìm kiếm của bạn.",
+    "perksTitle": "Tại sao làm việc tại Fetch?",
+    "perk1Title": "Công việc có ý nghĩa",
+    "perk1Desc": "Mỗi dự án thay đổi cách một doanh nghiệp thực sự vận hành. Bạn sẽ thấy kết quả công việc của mình trong vài tuần, không phải vài quý.",
+    "perk2Title": "Phát triển nhanh",
+    "perk2Desc": "Chúng tôi đang tăng trưởng nhanh. Những người gia nhập ngay bây giờ sẽ dẫn dắt giai đoạn tiếp theo. Không có giới hạn ở đây.",
+    "perk3Title": "Lương cạnh tranh",
+    "perk3Desc": "Chúng tôi trả lương ở mức cao nhất thị trường Việt Nam. Mức lương được liệt kê rõ ràng cho mỗi vị trí — không có trò chơi.",
+    "speculativeTitle": "Không thấy vị trí phù hợp?",
+    "speculativeDesc": "Chúng tôi luôn quan tâm đến những người xuất sắc. Hãy gửi cho chúng tôi một tin nhắn về những gì bạn làm và tại sao bạn phù hợp.",
+    "speculativeBtn": "Gửi đơn ứng tuyển tự do",
+    "requirements": "Yêu cầu",
+    "location": "Địa điểm",
+    "salary": "Mức lương",
+    "type": "Loại hình",
+    "remote": "Từ xa",
+    "tagNew": "Mới",
+    "seeRoles": "Xem vị trí tuyển dụng",
+    "speculativeCV": "Gửi CV tự do",
+    "openPositions": "Vị trí đang tuyển",
+    "noRoleTitle": "Không thấy vị trí phù hợp?",
+    "noRoleDesc": "Chúng tôi tuyển dụng dựa trên thái độ và năng lực. Nếu bạn sắc bén, nhiệt huyết, và muốn làm việc về chuyển đổi AI tại Việt Nam, hãy gửi CV và cho chúng tôi biết bạn có thể đóng góp gì.",
+    "speculativeApply": "Gửi đơn ứng tuyển tự do",
+    "careersEmail": "careers@fetch.tech · Chúng tôi đọc mọi đơn ứng tuyển.",
+    "job1Title": "Chuyên viên Phân tích Nghiệp vụ",
+    "job1Location": "Thành phố Hồ Chí Minh",
+    "job1Req1": "Bằng Cử nhân Thiết kế Game, Khoa học Máy tính, Quản trị Kinh doanh hoặc lĩnh vực liên quan; Bằng Thạc sĩ là lợi thế lớn.",
+    "job1Req2": "1–2 năm kinh nghiệm làm chuyên viên phân tích nghiệp vụ trong ngành phần mềm, tập trung vào dự án phát triển game.",
+    "job1Req3": "Hiểu biết vững về nguyên tắc thiết kế game, bao gồm các khái niệm thiết kế 2D và 3D, hoạt hình, và hiệu ứng hình ảnh.",
+    "job1Req4": "Kinh nghiệm với các công cụ và nền tảng phát triển game như Cocos, Spine, v.v.",
+    "job1Req5": "Kỹ năng giao tiếp và quan hệ xuất sắc, có khả năng cộng tác hiệu quả với các nhóm đa chức năng.",
+    "job1Req6": "Đam mê gaming và tư duy sáng tạo với khả năng nghĩ ngoài khuôn khổ.",
+    "job1Req7": "Thông thạo tiếng Trung (Phổ thông) và tiếng Anh.",
+    "job2Title": "Quản lý Dự án",
+    "job2Location": "Thành phố Hồ Chí Minh",
+    "job2Req1": "Bằng Cử nhân Quản lý Dự án, Hệ thống Thông tin, Quản trị Kinh doanh hoặc lĩnh vực liên quan.",
+    "job2Req2": "4+ năm kinh nghiệm quản lý dự án, ưu tiên trong ngành gaming hoặc lĩnh vực sáng tạo liên quan.",
+    "job2Req3": "Hiểu biết vững về phương pháp, công cụ và kỹ thuật quản lý dự án.",
+    "job2Req4": "Khả năng xác định và giải quyết vấn đề hiệu quả.",
+    "job2Req5": "Kỹ năng giao tiếp, dịch thuật và quan hệ xuất sắc để kết nối các nhóm đa văn hóa.",
+    "job2Req6": "Tinh thần trách nhiệm cao, thích nghi tốt, và khả năng đa nhiệm trong môi trường làm việc năng động.",
+    "job3Title": "Kỹ sư Full-Stack (React.js & React Native & Node.js)",
+    "job3Location": "Từ xa (HN / HCM / ĐN)",
+    "job3Req1": "7+ năm kinh nghiệm chuyên nghiệp trong phát triển full-stack.",
+    "job3Req2": "Thành thạo React.js, React Native và Node.js với 4 năm kinh nghiệm toàn thời gian hoặc tương đương.",
+    "job3Req3": "Kinh nghiệm với cơ sở dữ liệu SQL và NoSQL (PostgreSQL, MongoDB).",
+    "job3Req4": "Hiểu biết vững về RESTful APIs và kiến trúc microservices.",
+    "job3Req5": "Kinh nghiệm với các dịch vụ đám mây (AWS, GCP, hoặc Azure).",
+    "job3Req6": "Kỹ năng giao tiếp tốt bằng tiếng Anh.",
+    "job4Title": "Quản trị Văn phòng",
+    "job4Location": "Hà Nội",
+    "job4Req1": "1–3 năm kinh nghiệm trong vai trò hành chính hoặc văn phòng.",
+    "job4Req2": "Kỹ năng tổ chức và quản lý thời gian xuất sắc.",
+    "job4Req3": "Thành thạo Microsoft Office (Word, Excel, PowerPoint).",
+    "job4Req4": "Kỹ năng giao tiếp tốt bằng tiếng Việt và tiếng Anh.",
+    "job4Req5": "Thái độ chủ động và khả năng làm việc độc lập.",
+    "job5Title": "Quản lý Dự án (Hà Nội)",
+    "job5Location": "Hà Nội",
+    "job5Req1": "Bằng Cử nhân Quản lý Dự án, Hệ thống Thông tin hoặc lĩnh vực liên quan.",
+    "job5Req2": "3+ năm kinh nghiệm quản lý dự án công nghệ hoặc chuyển đổi số.",
+    "job5Req3": "Kinh nghiệm với phương pháp Agile/Scrum.",
+    "job5Req4": "Kỹ năng giao tiếp xuất sắc với khách hàng và đội ngũ nội bộ.",
+    "job5Req5": "Thành thạo tiếng Anh (đọc, viết, nói).",
+    "job5Req6": "Kinh nghiệm làm việc với các doanh nghiệp vừa và nhỏ là lợi thế.",
+    "job6Title": "Nhà thiết kế UI",
+    "job6Location": "Thành phố Hồ Chí Minh",
+    "job6Req1": "2+ năm kinh nghiệm thiết kế UI/UX cho ứng dụng web hoặc di động.",
+    "job6Req2": "Thành thạo Figma và các công cụ thiết kế hiện đại.",
+    "job6Req3": "Hiểu biết về nguyên tắc thiết kế responsive và accessibility.",
+    "job6Req4": "Portfolio thể hiện các dự án thiết kế thực tế.",
+    "job6Req5": "Khả năng làm việc chặt chẽ với đội ngũ phát triển.",
+    "job7Title": "Kỹ sư Fullstack Cao cấp",
+    "job7Location": "Từ xa (HN / HCM)",
+    "job7Req1": "5+ năm phát triển ứng dụng production-grade với Node.js và các framework frontend hiện đại (ưu tiên Vue.js) bằng TypeScript.",
+    "job7Req2": "Chuyên môn cao về thiết kế, triển khai và duy trì kiến trúc microservices.",
+    "job7Req3": "Kinh nghiệm thực tế vững với Kafka, gRPC, và hệ thống event-driven.",
+    "job7Req4": "Thành thạo MySQL, Elasticsearch, và Redis.",
+    "job7Req5": "Quen thuộc với MS Azure và các công cụ điều phối hạ tầng như Kubernetes và Helm.",
+    "job7Req6": "Hiểu biết sâu về cấu trúc dữ liệu, hệ thống phân tán, và nguyên tắc thiết kế hệ thống.",
+    "job7Req7": "Kỹ năng giao tiếp và cộng tác xuất sắc, với kinh nghiệm lãnh đạo kỹ thuật và mentoring.",
+    "job7Req8": "Tuân thủ chặt chẽ phương pháp Agile và các thực hành phát triển phần mềm tốt nhất.",
+    "job8Title": "Tư vấn Tài chính Cộng sự",
+    "job8Location": "Thành phố Hồ Chí Minh (Tại văn phòng)",
+    "job8Req1": "Có chứng chỉ chuyên môn như CA/CFA/CPA/ACA/ACCA.",
+    "job8Req2": "1 đến 3 năm kinh nghiệm liên quan.",
+    "job8Req3": "Thành thạo tiếng Việt và tiếng Anh (đọc, viết, nói).",
+    "job8Req4": "Năng lực tài chính vững, kỹ năng phân tích kinh doanh, và thành thạo viết báo cáo.",
+    "job8Req5": "Sẵn sàng đi công tác khi cần."
+  },
+  "contact": {
+    "heroLabel": "Liên hệ",
+    "heroTitle": "Hãy nói chuyện về chuyển đổi AI của bạn.",
+    "heroDesc": "Dù bạn đã sẵn sàng bắt đầu hay chỉ đang tìm hiểu, chúng tôi sẵn lòng trò chuyện. Không có bài thuyết trình. Không có ràng buộc.",
+    "formTitle": "Gửi tin nhắn cho chúng tôi",
+    "nameLabel": "Tên của bạn",
+    "namePlaceholder": "Nguyễn Văn A",
+    "emailLabel": "Địa chỉ email",
+    "emailPlaceholder": "ban@congty.com",
+    "companyLabel": "Tên công ty",
+    "companyPlaceholder": "Công ty của bạn",
+    "messageLabel": "Tin nhắn",
+    "messagePlaceholder": "Cho chúng tôi biết về doanh nghiệp của bạn và những gì bạn muốn đạt được...",
+    "submitBtn": "Gửi tin nhắn",
+    "sending": "Đang gửi...",
+    "successTitle": "Tin nhắn đã được gửi",
+    "successDesc": "Chúng tôi sẽ phản hồi trong vòng một ngày làm việc.",
+    "errorTitle": "Có lỗi xảy ra",
+    "errorDesc": "Vui lòng thử lại hoặc gửi email trực tiếp cho chúng tôi.",
+    "infoTitle": "Thông tin liên hệ",
+    "emailInfo": "hello@fetch.tech.vn",
+    "phoneInfo": "+84 28 1234 5678",
+    "whatsappInfo": "WhatsApp: +84 90 123 4567",
+    "hcmOffice": "Văn phòng Hồ Chí Minh",
+    "hcmAddress": "Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+    "hnOffice": "Văn phòng Hà Nội",
+    "hnAddress": "Hoàn Kiếm, Hà Nội, Việt Nam",
+    "hoursTitle": "Giờ làm việc",
+    "hours": "Thứ Hai – Thứ Sáu, 8:30 sáng – 5:30 chiều ICT",
+    "roleLabel": "Chức vụ của bạn",
+    "rolePlaceholder": "ví dụ: COO, Trưởng phòng Vận hành",
+    "phoneLabel": "Số điện thoại (Đủy đủ)",
+    "sizeLabel": "Quy mô công ty",
+    "sizeSelect": "Chọn quy mô",
+    "employees": "nhân viên",
+    "challengeLabel": "Thách thức AI chính của bạn là gì?",
+    "challengePlaceholder": "Mô tả tình huống hiện tại và mục tiêu bạn muốn đạt được với AI...",
+    "timelineLabel": "Thời gian dự kiến",
+    "timelineSelect": "Bạn muốn bắt đầu khi nào?",
+    "timelineAsap": "Càng sớm càng tốt",
+    "timeline1to3": "1–3 tháng",
+    "timeline3to6": "3–6 tháng",
+    "timelineExploring": "Vẫn đang tìm hiểu",
+    "submitting": "Đang gửi...",
+    "whatsappNote": "Sau khi gửi, WhatsApp sẽ mở với thông tin được điền sẵn. Chỉ cần nhấn gửi.",
+    "whatsappAgain": "Mở lại WhatsApp",
+    "expectTitle": "Những gì sẽ xảy ra",
+    "expect1": "Điền vào mẫu và nhấn Gửi",
+    "expect2": "WhatsApp mở ra với thông tin được điền sẵn — chỉ cần nhấn gửi",
+    "expect3": "Nhóm của chúng tôi phản hồi trong vài giờ trong giờ làm việc",
+    "expect4": "Chúng tôi sắp xếp cuộc gọi chiến lược 45 phút vào thời điểm phù hợp với bạn",
+    "detailsTitle": "Thông tin liên hệ",
+    "officesTitle": "Văn phòng của chúng tôi"
+  },
+  "about": {
+    "heroLabel": "Về Fetch",
+    "heroTitle": "Chúng tôi tồn tại để làm cho chuyển đổi AI thực sự hoạt động.",
+    "heroDesc": "Không phải chiến lược. Không phải lộ trình. Mà là sự thay đổi thực sự trong cách đội ngũ của bạn làm việc mỗi ngày.",
+    "storyLabel": "Câu chuyện của chúng tôi",
+    "storyTitle": "Được xây dựng từ sự thất vọng với cách các dự án AI thất bại.",
+    "storyP1": "Fetch được thành lập sau khi chứng kiến quá nhiều dự án AI thất bại theo cùng một cách: tư vấn viên giao bản chiến lược, nhà cung cấp cài đặt phần mềm, và sáu tháng sau không có gì thay đổi. Công cụ có sẵn. Ý chí có sẵn. Nhưng việc thực thi thì không.",
+    "storyP2": "Chúng tôi xây dựng Fetch để trở thành lớp thực thi. Chúng tôi nhúng vào doanh nghiệp của bạn, thiết kế lại quy trình, triển khai công cụ, đào tạo đội ngũ, và ở lại cho đến khi AI thực sự được sử dụng. Sau đó chúng tôi đo lường kết quả.",
+    "storyP3": "Chúng tôi hoạt động tại Việt Nam với đội ngũ địa phương am hiểu thị trường, môi trường pháp lý, và những thách thức cụ thể mà doanh nghiệp Việt Nam đối mặt khi áp dụng AI.",
+    "valuesLabel": "Những gì chúng tôi tin tưởng",
+    "value1Title": "Thực thi hơn chiến lược",
+    "value1Desc": "Ai cũng có thể viết lộ trình. Chúng tôi ở lại cho đến khi AI được tích hợp vào hoạt động của bạn.",
+    "value2Title": "Đo lường hơn lời hứa",
+    "value2Desc": "Mỗi hợp đồng kết thúc với báo cáo ROI được ghi chép đầy đủ. Nếu chúng tôi không thể đo lường được, chúng tôi chưa hoàn thành công việc.",
+    "value3Title": "Thành thật hơn bán hàng",
+    "value3Desc": "Nếu AI không phải là giải pháp phù hợp cho vấn đề của bạn, chúng tôi sẽ nói thẳng. Chúng tôi thà mất hợp đồng còn hơn lãng phí thời gian của bạn.",
+    "teamLabel": "Đội ngũ",
+    "teamTitle": "Đội ngũ nhỏ. Công việc nghiêm túc.",
+    "locationLabel": "Nơi chúng tôi làm việc",
+    "locationTitle": "Đặt tại Việt Nam. Tập trung vào Việt Nam.",
+    "hcm": "Hồ Chí Minh",
+    "hn": "Hà Nội",
+    "remote": "Từ xa",
+    "teamDesc": "Mọi thành viên Fetch đều đã làm việc trong các doanh nghiệp Việt Nam, không chỉ tư vấn cho họ.",
+    "focusLabel": "Mục tiêu của chúng tôi",
+    "focusDesc": "Việc áp dụng AI phải thực tế, có thể đo lường và được tích hợp vào cách đội ngũ của bạn thực sự làm việc.",
+    "marketLabel": "Thị trường của chúng tôi",
+    "marketDesc": "Doanh nghiệp Việt Nam có 30–500 nhân viên, phức tạp về vận hành và thực sự muốn áp dụng AI.",
+    "storyP4": "Đó là cách duy nhất để điều này hoạt động. Và đó là điều duy nhất chúng tôi làm.",
+    "whyNowLabel": "Tại sao bây giờ",
+    "whyNowTitle": "Thời điểm không phải ngẫu nhiên.",
+    "whyNow1Title": "AI bây giờ là thực tế, không còn là thực nghiệm",
+    "whyNow1Body": "Các công cụ từng là thực nghiệm hai năm trước nay đã đáng tin cậy, giá cả phải chăng và có thể triển khai trong các hoạt động doanh nghiệp thực tế. Rào cản không còn là công nghệ nữa — mà là việc thực thi.",
+    "whyNow2Title": "Doanh nghiệp Việt Nam đã sẵn sàng nhưng bị mắc kẹt",
+    "whyNow2Body": "Doanh nghiệp Việt Nam có sự phức tạp vận hành, cơ sở hạ tầng kỹ thuật số ngày càng phát triển và ý chí lãnh đạo để áp dụng AI. Điều họ thiếu là một đối tác thực thi sẽ ở lại cho đến khi AI được tích hợp — không chỉ được triển khai.",
+    "whyNow3Title": "Khoảng cách thực thi là khoảng cách duy nhất quan trọng",
+    "whyNow3Body": "Khoảng cách giữa tham vọng AI và việc áp dụng AI không phải là khoảng cách chiến lược. Đó là khoảng cách thực thi. Fetch được xây dựng đặc biệt để thu hẹp khoảng cách đó.",
+    "ctaTitle": "Sẵn sàng làm việc cùng chúng tôi?",
+    "ctaDesc": "Bắt đầu với một cuộc gọi chiến lược. Chúng tôi sẽ đánh giá tình huống của bạn và nói thật liệu Fetch có phù hợp hay không.",
+    "ctaBtn": "Đặt lịch gọi chiến lược",
+    "team": {
+      "adrianLim": {
+        "name": "Adrian Lim",
+        "title": "Nhà sáng lập & CEO",
+        "bio": "Thành lập Fetch sau hơn một thập kỷ làm việc trong các doanh nghiệp lớn tại Đông Nam Á và chứng kiến cùng một mô hình thất bại AI lặp lại."
+      },
+      "tungTran": {
+        "name": "Tung Tran",
+        "title": "Giám đốc Triển khai",
+        "bio": "Một trong những nhân viên đầu tiên của Fetch và là xương sống của mọi hợp đồng khách hàng. Hơn 8 năm tại Fetch, Tung đã dẫn dắt triển khai hơn 60 dự án chuyển đổi."
+      },
+      "luck": {
+        "name": "Luck",
+        "title": "Giám đốc Chuyển đổi",
+        "bio": "Dẫn dắt phương pháp chuyển đổi và chiến lược khách hàng của Fetch. Kết nối khoảng cách giữa những gì AI có thể làm và những gì doanh nghiệp thực sự cần."
+      },
+      "hillary": {
+        "name": "Hillary",
+        "title": "Quản lý Dự án",
+        "bio": "Giữ cho mọi hợp đồng Fetch đúng tiến độ, đúng phạm vi và đúng thời hạn. Quản lý nhịp độ vận hành của các sprint khách hàng."
+      },
+      "mia": {
+        "name": "Mia",
+        "title": "Quản lý Dự án",
+        "bio": "Quản lý việc triển khai hàng ngày của các hợp đồng khách hàng Fetch với sự chính xác và tâm huyết."
+      },
+      "curtis": {
+        "name": "Curtis",
+        "title": "Triển khai AI chính",
+        "bio": "Chuyên gia triển khai thực tế các công cụ AI vào môi trường doanh nghiệp thực tế. Là người làm cho AI thực sự hoạt động trong hệ thống của bạn."
+      }
+    }
+  },
+  "solutions": {
+    "heroLabel": "Giải pháp",
+    "heroTitle": "Sáu cách chúng tôi giúp doanh nghiệp Việt Nam áp dụng AI.",
+    "heroDesc": "Mỗi hợp đồng được thiết kế riêng cho doanh nghiệp của bạn. Nhưng cách tiếp cận luôn giống nhau: lập bản đồ trước, sau đó thiết kế lại, rồi triển khai.",
+    "learnMore": "Tìm hiểu thêm",
+    "bookCall": "Đặt lịch tư vấn chiến lược",
+    "grantsNote": "Hầu hết các giải pháp đều đủ điều kiện nhận hỗ trợ AI từ chính phủ Việt Nam, tài trợ đến 70% chi phí.",
+    "mostPopular": "Phổ biến nhất",
+    "theProblem": "Vấn đề",
+    "whatWeDo": "Chúng tôi làm gì",
+    "whoFor": "Dành cho ai",
+    "outcomes": "Kết quả",
+    "deliverables": "Bàn giao",
+    "learnSprint": "Tìm hiểu về Sprint",
+    "enquire": "Hỏi về giải pháp này",
+    "ctaTitle": "Không chắc giải pháp nào phù hợp?",
+    "ctaDesc": "Đặt lịch gọi chiến lược 45 phút. Chúng tôi sẽ đánh giá tình huống của bạn và đề xuất điểm khởi đầu phù hợp.",
+    "sprint": {
+      "title": "Sprint Áp dụng AI",
+      "tagline": "30 ngày từ tham vọng đến quy trình AI được triển khai.",
+      "problem": "Bạn biết AI quan trọng nhưng không biết bắt đầu từ đâu — hoặc bạn đã khám phá trong nhiều tháng mà không có tiến triển cụ thể.",
+      "whatWeDo": "Chúng tôi nhúng một nhóm chuyển đổi trong 30 ngày. Chúng tôi lập bản đồ quy trình, xác định cơ hội AI, triển khai 1–2 quy trình được thiết kế lại, đào tạo đội ngũ và cung cấp lộ trình áp dụng hoàn chỉnh.",
+      "whoFor": "SME và doanh nghiệp vừa Việt Nam muốn chứng minh giá trị AI nhanh chóng trước khi cam kết hợp đồng lớn hơn.",
+      "outcomes": [
+        "1–2 quy trình AI được triển khai",
+        "Đội ngũ được đào tạo và tự tin",
+        "Ma trận cơ hội AI trên toàn bộ hoạt động",
+        "Lộ trình áp dụng 6–12 tháng",
+        "Báo cáo tác động ROI"
+      ],
+      "deliverables": [
+        "Báo cáo đánh giá quy trình",
+        "Ma trận cơ hội AI",
+        "Quy trình AI được triển khai",
+        "Chương trình đào tạo (3–4 buổi)",
+        "Lộ trình áp dụng AI",
+        "Báo cáo tác động ROI"
+      ]
+    },
+    "workflow": {
+      "title": "Thiết kế lại Quy trình",
+      "tagline": "Lập bản đồ và thiết kế lại hoạt động trước khi bạn tự động hóa sai thứ.",
+      "problem": "Hầu hết các thất bại AI xảy ra vì doanh nghiệp tự động hóa các quy trình bị hỏng. Kết quả là các quy trình xấu nhanh hơn, không phải hoạt động tốt hơn.",
+      "whatWeDo": "Chúng tôi thực hiện lập bản đồ quy trình có cấu trúc trên các bộ phận mục tiêu, xác định cổ chai và cơ hội AI, và thiết kế lại quy trình trước khi triển khai bất kỳ công cụ nào.",
+      "whoFor": "Doanh nghiệp muốn hiểu sâu hoạt động của mình trước khi đầu tư vào công cụ AI.",
+      "outcomes": [
+        "Tài liệu quy trình rõ ràng",
+        "Xác định cổ chai và kém hiệu quả",
+        "Thiết kế quy trình sẵn sàng cho AI",
+        "Lộ trình triển khai ưu tiên"
+      ],
+      "deliverables": [
+        "Bản đồ quy trình hiện tại",
+        "Thiết kế quy trình tương lai",
+        "Đánh giá cơ hội AI",
+        "Ma trận ưu tiên triển khai"
+      ]
+    },
+    "implementation": {
+      "title": "Hỗ trợ Triển khai AI",
+      "tagline": "Triển khai công cụ AI tích hợp với hệ thống của bạn và đội ngũ của bạn sẽ thực sự sử dụng.",
+      "problem": "Mua phần mềm AI thì dễ. Nhưng làm cho nó hoạt động trong hoạt động cụ thể của bạn — với dữ liệu, hệ thống và đội ngũ của bạn — đó là nơi hầu hết các triển khai thất bại.",
+      "whatWeDo": "Chúng tôi chịu trách nhiệm cho toàn bộ việc triển khai: lựa chọn công cụ, cấu hình, tích hợp với hệ thống hiện có và hỗ trợ khi ra mắt. Chúng tôi không giao tài liệu hướng dẫn rồi rời đi.",
+      "whoFor": "Doanh nghiệp đã xác định cơ hội AI nhưng cần hỗ trợ chuyên gia để triển khai và tích hợp công cụ đúng cách.",
+      "outcomes": [
+        "Công cụ AI được triển khai và tích hợp",
+        "Quy trình hoạt động trong thời gian đã thống nhất",
+        "Đội ngũ được giới thiệu và sử dụng công cụ",
+        "Hỗ trợ liên tục trong giai đoạn ổn định"
+      ],
+      "deliverables": [
+        "Khám phá công cụ",
+        "Cấu hình và tích hợp",
+        "Hỗ trợ khi ra mắt",
+        "Giai đoạn ổn định (2–4 tuần)",
+        "Tài liệu bàn giao"
+      ]
+    },
+    "upskilling": {
+      "title": "Nâng cao Năng lực Đội ngũ",
+      "tagline": "Xây dựng năng lực AI tồn tại trong tổ chức của bạn lâu sau khi chúng tôi rời đi.",
+      "problem": "Việc áp dụng AI thất bại khi đội ngũ không hiểu hoặc không tin tưởng vào các công cụ. Không có việc nâng cao năng lực có cấu trúc, việc áp dụng sẽ bị đình trệ.",
+      "whatWeDo": "Chúng tôi thiết kế và cung cấp chương trình nâng cao năng lực AI có cấu trúc phù hợp với vai trò của đội ngũ và các công cụ đang được triển khai. Đào tạo thực tế, không lý thuyết.",
+      "whoFor": "Doanh nghiệp triển khai công cụ AI cần đội ngũ áp dụng và sử dụng chúng tự tin.",
+      "outcomes": [
+        "Đội ngũ tự tin sử dụng công cụ AI",
+        "Tỷ lệ áp dụng trên 85% sau 60 ngày",
+        "Xác định và phát triển các chào hàng nội bộ",
+        "Năng lực AI bền vững được xây dựng"
+      ],
+      "deliverables": [
+        "Chương trình đào tạo theo vai trò",
+        "Buổi đào tạo thực tế (3–6 buổi)",
+        "Đánh giá mức sẵn sàng AI của đội ngũ",
+        "Hỗ trợ sau đào tạo (4 tuần)",
+        "Chương trình chào hàng nội bộ"
+      ]
+    },
+    "department": {
+      "title": "Triển khai AI theo Bộ phận",
+      "tagline": "Triển khai AI có mục tiêu cho một bộ phận — chứng minh giá trị trước khi mở rộng.",
+      "problem": "Chuyển đổi AI toàn tổ chức rất phức tạp và tốn kém. Nhiều doanh nghiệp cần chứng minh giá trị ở một bộ phận trước khi cam kết triển khai rộng hơn.",
+      "whatWeDo": "Chúng tôi tập trung hoàn toàn vào một bộ phận — vận hành, dịch vụ khách hàng, tài chính, nhân sự — và cung cấp chuyển đổi AI hoàn chỉnh cho bộ phận đó.",
+      "whoFor": "Doanh nghiệp vừa và lớn muốn thử nghiệm AI ở một khu vực trước khi mở rộng.",
+      "outcomes": [
+        "Một bộ phận được chuyển đổi AI hoàn toàn",
+        "ROI rõ ràng được chứng minh",
+        "Mô hình có thể nhân rộng cho các bộ phận khác",
+        "Sách hướng dẫn nội bộ cho các triển khai tiếp theo"
+      ],
+      "deliverables": [
+        "Đánh giá quy trình bộ phận",
+        "Triển khai công cụ AI",
+        "Đào tạo đội ngũ",
+        "Đo lường ROI",
+        "Sách hướng dẫn nhân rộng"
+      ]
+    },
+    "managed": {
+      "title": "Chuyển đổi AI Quản lý",
+      "tagline": "Một đối tác nhúng sâu cho chuyển đổi AI bền vững, toàn tổ chức.",
+      "problem": "Việc áp dụng AI quy mô lớn đòi hỏi nỗ lực bền vững trong nhiều tháng. Hầu hết doanh nghiệp không có năng lực nội bộ để thúc đẩy điều này trong khi vẫn vận hành.",
+      "whatWeDo": "Chúng tôi đóng vai trò là đối tác chuyển đổi AI nhúng sâu — cung cấp hỗ trợ nhóm liên tục, quản lý chương trình chuyển đổi và đảm bảo việc áp dụng và kết quả được duy trì.",
+      "whoFor": "Doanh nghiệp lớn cam kết chuyển đổi AI toàn tổ chức trong 6–18 tháng.",
+      "outcomes": [
+        "Áp dụng AI toàn tổ chức",
+        "Chương trình chuyển đổi bền vững",
+        "Năng lực AI nội bộ được xây dựng",
+        "ROI có thể đo lường trên tất cả các bộ phận"
+      ],
+      "deliverables": [
+        "Quản lý chương trình chuyển đổi",
+        "Hỗ trợ nhóm liên tục",
+        "Đánh giá tiến độ hàng quý",
+        "Theo dõi áp dụng toàn tổ chức",
+        "Báo cáo lãnh đạo"
+      ]
+    }
+  },
+  "whyFetch": {
+    "heroLabel": "Tại sao Fetch",
+    "heroTitle": "Hầu hết các dự án AI thất bại vì không ai ở lại để làm cho chúng hoạt động.",
+    "heroDesc": "Fetch không phải là nhà cung cấp phần mềm. Không phải công ty tư vấn quản lý. Chúng tôi là đội thực thi nhúng sâu — lập bản đồ quy trình, triển khai AI, đào tạo nhân viên và đo lường kết quả. Chúng tôi không rời đi cho đến khi AI hoạt động.",
+    "differenceLabel": "Sự khác biệt của chúng tôi",
+    "differenceTitle": "Sự khác biệt của Fetch",
+    "pillar": {
+      "vietnam": {
+        "title": "Hiểu biết về doanh nghiệp Việt Nam",
+        "desc": "Chúng tôi hiểu cách doanh nghiệp Việt Nam vận hành — sự phức tạp trong hoạt động, năng động của lực lượng lao động, môi trường pháp lý và tốc độ ra quyết định. Các cam kết của chúng tôi được thiết kế cho bối cảnh này, không phải được điều chỉnh từ các tài liệu nước ngoài."
+      },
+      "execution": {
+        "title": "Hướng đến thực thi, không lý thuyết",
+        "desc": "Mỗi cam kết của Fetch kết thúc bằng các quy trình AI được triển khai và đội ngũ được đào tạo — không phải tài liệu chiến lược. Chúng tôi đo lường thành công bằng kết quả hoạt động, không phải khối lượng bàn giao."
+      },
+      "workflow": {
+        "title": "Cách tiếp cận ưu tiên quy trình",
+        "desc": "Chúng tôi thiết kế lại quy trình trước khi triển khai AI. Điều này có nghĩa là các công cụ chúng tôi triển khai phù hợp với hoạt động thực tế của bạn, không phải mẫu quy trình chung. Kết quả là AI được sử dụng, không phải AI bị bỏ không."
+      },
+      "upskilling": {
+        "title": "Nâng cao năng lực đội ngũ tích hợp",
+        "desc": "Việc áp dụng AI thất bại khi đội ngũ không được đào tạo. Mỗi cam kết của Fetch bao gồm chương trình nâng cao năng lực có cấu trúc. Đội ngũ của bạn không chỉ nhận được công cụ mới — họ có được sự tự tin và năng lực để sử dụng chúng."
+      },
+      "measurable": {
+        "title": "Kết quả có thể đo lường",
+        "desc": "Chúng tôi thống nhất các chỉ số thành công trước khi bắt đầu cam kết và đo lường trong suốt quá trình. Bạn nhận được bản tóm tắt ROI rõ ràng vào cuối mỗi cam kết, không phải những tuyên bố mơ hồ về chuyển đổi."
+      },
+      "lowerRisk": {
+        "title": "Ít rủi ro hơn khi tự làm",
+        "desc": "Thử nghiệm AI ngẫu nhiên tốn kém và chậm. Fetch cung cấp cách tiếp cận có cấu trúc, đã được chứng minh giúp giảm rủi ro triển khai thất bại và đẩy nhanh con đường đến kết quả có thể đo lường."
+      }
+    },
+    "honestLabel": "Quan điểm thành thật",
+    "honestTitle": "Chúng tôi sẽ nói thẳng nếu chúng tôi không phải là đối tác phù hợp.",
+    "honestP1": "Fetch hoạt động tốt nhất với các doanh nghiệp có quy trình hoạt động thực sự cần thiết kế lại, lãnh đạo cam kết với việc áp dụng AI, và đội ngũ sẵn sàng tham gia vào quá trình thay đổi. Đó là một loại khách hàng cụ thể.",
+    "honestP2": "Nếu bạn muốn nhà cung cấp cài đặt công cụ rồi rời đi, hoặc tư vấn viên viết chiến lược rồi biến mất, chúng tôi không phải đối tác phù hợp. Chúng tôi sẽ nói điều đó trong cuộc gọi đầu tiên. Nếu bạn muốn một đội thực thi ở lại cho đến khi AI hoạt động, chúng tôi là.",
+    "testimonialQuote": "\"Điều tôi đánh giá cao là họ phản bác khi chúng tôi muốn tự động hóa sai thứ. Họ thiết kế lại quy trình trước. Đó là lý do nó hoạt động.\"",
+    "testimonialName": "Marcus Tan, Trưởng bộ phận Vận hành",
+    "testimonialCompany": "Công ty dịch vụ tài chính khu vực",
+    "fitLabel": "Fetch phù hợp với bạn nếu...",
+    "fit1": "Bạn có quy trình hoạt động thủ công, chậm hoặc dễ xảy ra lỗi",
+    "fit2": "Bạn muốn AI được triển khai và hoạt động, không chỉ được đề xuất",
+    "fit3": "Bạn sẵn sàng cam kết thời gian nội bộ cho cam kết",
+    "fit4": "Bạn muốn đội ngũ được đào tạo và có năng lực, không phụ thuộc vào hỗ trợ bên ngoài",
+    "fit5": "Bạn muốn ROI có thể đo lường, không phải tuyên bố chuyển đổi mơ hồ",
+    "ctaTitle": "Sẵn sàng làm việc với đối tác thực thi?",
+    "ctaDesc": "Đặt lịch gọi chiến lược. Chúng tôi sẽ đánh giá tình huống của bạn một cách thành thật và cho bạn biết Fetch có phải là lựa chọn phù hợp không.",
+    "ctaBtn": "Đặt lịch tư vấn chiến lược",
+    "consultants": "Tư vấn viên",
+    "vendors": "Nhà cung cấp",
+    "fetch": "Fetch",
+    "delivers": "Cung cấp",
+    "consultantsDelivers": "Bản chiến lược",
+    "vendorsDelivers": "Giấy phép phần mềm",
+    "fetchDelivers": "AI hoạt động trong quy trình của bạn",
+    "stays": "Ở lại đến khi",
+    "consultantsStays": "Kết thúc hợp đồng",
+    "vendorsStays": "Đưa vào vận hành",
+    "fetchStays": "Đội ngũ sử dụng AI độc lập",
+    "measures": "Đo lường",
+    "consultantsMeasures": "Đề xuất đã được giao",
+    "vendorsMeasures": "Giấy phép đã kích hoạt",
+    "fetchMeasures": "Tỷ lệ áp dụng và thời gian tiết kiệm"
+  },
+  "industries": {
+    "heroLabel": "Ngành nghề",
+    "heroTitle": "Xây dựng cho doanh nghiệp có hoạt động phức tạp",
+    "heroDesc": "Fetch làm việc với các doanh nghiệp Việt Nam trong sáu ngành nơi sự phức tạp trong hoạt động khiến việc áp dụng AI vừa thách thức vừa có giá trị cao.",
+    "painPoints": "Điểm đau",
+    "howAIHelps": "AI giúp ích như thế nào",
+    "fetchApproach": "Cách tiếp cận của Fetch",
+    "outcomes": "Kết quả",
+    "ctaTitle": "Không thấy ngành của bạn?",
+    "ctaDesc": "Fetch làm việc với bất kỳ doanh nghiệp Việt Nam nào có hoạt động phức tạp. Đặt lịch gọi chiến lược để thảo luận tình huống cụ thể của bạn.",
+    "ctaBtn": "Đặt lịch tư vấn chiến lược",
+    "logistics": {
+      "name": "Hậu cần & Vận chuyển",
+      "tagline": "Từ điều phối thủ công đến vận hành hỗ trợ bởi AI",
+      "painPoints": [
+        "Lập kế hoạch tuyến đường thủ công tốn nhiều giờ mỗi ngày",
+        "Xử lý ngoại lệ qua WhatsApp và bảng tính",
+        "Báo cáo được xây dựng thủ công từ nhiều hệ thống rời rạc"
+      ],
+      "howAIHelps": [
+        "Tối ưu hóa tuyến đường hỗ trợ bởi AI",
+        "Phát hiện và leo thang ngoại lệ tự động",
+        "Bảng điều khiển báo cáo thời gian thực thay thế xây dựng thủ công"
+      ],
+      "podApproach": "Pod AI Vận hành lập bản đồ quy trình điều phối và báo cáo, xác định cơ hội tự động hóa có tác động cao nhất và triển khai các công cụ AI tích hợp với hệ thống hiện có của bạn.",
+      "outcomes": [
+        "Giảm 40-60% thời gian điều phối thủ công",
+        "Tầm nhìn vận hành thời gian thực",
+        "Xử lý ngoại lệ nhanh hơn"
+      ]
+    },
+    "customerOps": {
+      "name": "Vận hành Dịch vụ Khách hàng",
+      "tagline": "Phản hồi nhanh hơn, ít xử lý thủ công hơn",
+      "painPoints": [
+        "Khối lượng lớn câu hỏi khách hàng lặp đi lặp lại xử lý thủ công",
+        "Thời gian phản hồi đầu tiên chậm do phân loại yêu cầu thủ công",
+        "Kiến thức phân tán trên tài liệu và email"
+      ],
+      "howAIHelps": [
+        "Soạn thảo phản hồi hỗ trợ bởi AI cho các loại yêu cầu phổ biến",
+        "Phân loại và định tuyến yêu cầu tự động",
+        "Cơ sở kiến thức AI tập trung cho nhân viên tra cứu ngay lập tức"
+      ],
+      "podApproach": "Pod AI Dịch vụ Khách hàng phân tích mẫu yêu cầu, thiết kế lại quy trình phản hồi và triển khai các công cụ AI giảm xử lý thủ công trong khi giữ đội ngũ của bạn kiểm soát.",
+      "outcomes": [
+        "Giảm 50% thời gian phản hồi đầu tiên",
+        "Giảm 30% xử lý thủ công mỗi yêu cầu",
+        "Nhân viên hài lòng hơn"
+      ]
+    },
+    "professionalServices": {
+      "name": "Dịch vụ Chuyên nghiệp",
+      "tagline": "Ít hành chính hơn, nhiều công việc tính phí hơn",
+      "painPoints": [
+        "Thời gian không tính phí đáng kể cho soạn thảo tài liệu và hành chính",
+        "Tạo đề xuất và báo cáo mất nhiều ngày thay vì vài giờ",
+        "Quản lý kiến thức phân mảnh trên email và ổ đĩa chia sẻ"
+      ],
+      "howAIHelps": [
+        "Soạn thảo, tóm tắt và xem xét tài liệu hỗ trợ bởi AI",
+        "Tự động tạo đề xuất và báo cáo từ mẫu",
+        "Tra cứu kiến thức AI trên các tài liệu của công ty"
+      ],
+      "podApproach": "Pod Năng suất Văn phòng lập bản đồ các quy trình hành chính tốn kém nhất, xác định nơi AI có thể giảm thời gian không tính phí và triển khai công cụ để đội ngũ tập trung vào công việc khách hàng.",
+      "outcomes": [
+        "Giảm 25-35% thời gian hành chính không tính phí",
+        "Quay vòng đề xuất và báo cáo nhanh hơn",
+        "Nhân viên cấp cao rảnh rỗi cho công việc giá trị cao hơn"
+      ]
+    },
+    "healthcare": {
+      "name": "Hành chính Y tế",
+      "tagline": "Hành chính được đơn giản hóa để đội ngũ lâm sàng tập trung vào chăm sóc",
+      "painPoints": [
+        "Đặt lịch hẹn tiêu tốn thời gian nhân viên hành chính",
+        "Tài liệu lâm sàng yêu cầu sao chép thủ công",
+        "Xử lý yêu cầu bảo hiểm và phối hợp thủ công"
+      ],
+      "howAIHelps": [
+        "Tự động hóa quy trình đặt lịch và nhắc nhở hẹn",
+        "Tài liệu lâm sàng và tóm tắt ghi chú hỗ trợ bởi AI",
+        "Tự động chuẩn bị yêu cầu và theo dõi trạng thái"
+      ],
+      "podApproach": "Pod hành chính y tế chuyên biệt lập bản đồ các quy trình hành chính với sự chú ý đầy đủ đến yêu cầu tuân thủ, sau đó triển khai các công cụ AI giảm gánh nặng hành chính mà không ảnh hưởng đến quản trị dữ liệu.",
+      "outcomes": [
+        "Giảm gánh nặng hành chính cho nhân viên lâm sàng",
+        "Xử lý yêu cầu nhanh hơn",
+        "Cải thiện tuân thủ lịch hẹn"
+      ]
+    },
+    "finance": {
+      "name": "Tài chính & Văn phòng Hậu trường",
+      "tagline": "Tự động hóa công việc lặp đi lặp lại, tập trung vào phân tích",
+      "painPoints": [
+        "Xử lý hóa đơn và đối soát thủ công",
+        "Báo cáo tài chính xây dựng từ đầu mỗi kỳ",
+        "Quy trình phê duyệt quản lý qua chuỗi email"
+      ],
+      "howAIHelps": [
+        "Tự động chụp, khớp và xử lý hóa đơn",
+        "Đối soát hỗ trợ bởi AI và cờ ngoại lệ",
+        "Tự động tạo báo cáo từ nguồn dữ liệu kết nối"
+      ],
+      "podApproach": "Pod Năng suất Văn phòng tập trung vào các quy trình tài chính khối lượng cao nhất và triển khai các công cụ AI giảm công sức thủ công và tỷ lệ lỗi.",
+      "outcomes": [
+        "Giảm 60-70% thời gian xử lý hóa đơn thủ công",
+        "Chốt sổ cuối tháng nhanh hơn",
+        "Giảm lỗi nhập liệu"
+      ]
+    },
+    "distribution": {
+      "name": "Phân phối & Đa địa điểm",
+      "tagline": "Phối hợp và tầm nhìn trên các hoạt động phức tạp",
+      "painPoints": [
+        "Quản lý hàng tồn kho trên nhiều địa điểm thủ công",
+        "Phối hợp liên địa điểm dựa vào điện thoại và bảng tính",
+        "Báo cáo hiệu suất tổng hợp thủ công từ dữ liệu cấp địa điểm"
+      ],
+      "howAIHelps": [
+        "Giám sát hàng tồn kho và kích hoạt đặt hàng lại hỗ trợ bởi AI",
+        "Tự động hóa quy trình phối hợp và trạng thái liên địa điểm",
+        "Tự động báo cáo hiệu suất trên tất cả các địa điểm"
+      ],
+      "podApproach": "Pod AI Vận hành lập bản đồ các quy trình phối hợp đa địa điểm và triển khai các công cụ AI cung cấp tầm nhìn và khả năng phối hợp mà không cần thêm nhân sự.",
+      "outcomes": [
+        "Giảm lỗi hàng tồn kho và hết hàng",
+        "Phối hợp liên địa điểm nhanh hơn",
+        "Tầm nhìn hiệu suất thời gian thực trên tất cả các địa điểm"
+      ]
+    }
+  },
+  "pods": {
+    "heroLabel": "Nhóm Chuyển Đổi",
+    "heroTitle": "Mô hình thực thi giúp ứng dụng AI thực sự hiệu quả",
+    "heroDesc": "Nhóm chuyển đổi là một đội thực thi nhỏ gọn, đa vai trò, được nhúng trực tiếp vào doanh nghiệp của bạn để triển khai ứng dụng AI — không chỉ tư vấn.",
+    "whatIsPodLabel": "Nhóm là gì",
+    "whatIsPodTitle": "Không phải tư vấn. Không phải nhân sự thuê ngoài. Đây là đội thực thi.",
+    "whatIsPodDesc1": "Nhóm chuyển đổi Fetch là một đội nhỏ, tập trung, được tập hợp riêng cho dự án của bạn. Mỗi nhóm bao gồm các vai trò cần thiết để thực hiện chuyển đổi — chiến lược, phân tích, triển khai và quản lý thay đổi.",
+    "whatIsPodDesc2": "Nhóm làm việc bên trong hoạt động của bạn, không phải từ xa. Họ phỏng vấn đội ngũ, lập bản đồ quy trình, triển khai công cụ trong môi trường của bạn và đào tạo nhân viên. Khi dự án kết thúc, kết quả vẫn còn đó.",
+    "podFeatures": [
+      "Được tập hợp riêng cho dự án của bạn",
+      "Nhúng vào bên trong hoạt động của bạn",
+      "Đa vai trò: chiến lược, phân tích, triển khai, đào tạo",
+      "Định hướng kết quả với các mục tiêu rõ ràng",
+      "Dự án từ 30 ngày đến 18 tháng"
+    ],
+    "compositionLabel": "Cơ cấu nhóm tiêu chuẩn",
+    "roles": [
+      {
+        "title": "Chiến lược gia AI",
+        "desc": "Dẫn dắt dự án. Lập bản đồ quy trình, xác định cơ hội AI và thiết kế phương pháp chuyển đổi."
+      },
+      {
+        "title": "Chuyên viên Phân tích Quy trình",
+        "desc": "Ghi lại các quy trình hiện tại, phỏng vấn các bên liên quan và xây dựng bản đồ quy trình."
+      },
+      {
+        "title": "Chuyên gia Triển khai",
+        "desc": "Cấu hình và triển khai các công cụ AI, quản lý tích hợp và đảm bảo đưa vào vận hành kỹ thuật."
+      },
+      {
+        "title": "Trưởng nhóm Đào tạo & Thay đổi",
+        "desc": "Thiết kế và thực hiện chương trình nâng cao năng lực đội ngũ và quản lý việc áp dụng thay đổi."
+      },
+      {
+        "title": "Hỗ trợ Chuyên gia (Tùy chọn)",
+        "desc": "Chuyên gia lĩnh vực được bổ sung cho các nhu cầu cụ thể — chuyên gia ngành, kỹ sư dữ liệu hoặc chuyên gia công cụ AI theo ngành."
+      }
+    ],
+    "typesLabel": "Loại nhóm",
+    "typesTitle": "Ví dụ về cơ cấu nhóm cho các nhu cầu kinh doanh khác nhau",
+    "podRolesLabel": "Vai trò trong nhóm",
+    "durationLabel": "Thời gian",
+    "bestForLabel": "Phù hợp nhất cho",
+    "podTypes": [
+      {
+        "name": "Nhóm AI Vận hành",
+        "focus": "Logistics, điều phối, hàng tồn kho, báo cáo và quy trình vận hành",
+        "roles": [
+          "Chiến lược gia AI",
+          "Chuyên viên Phân tích",
+          "Chuyên gia Triển khai",
+          "Trưởng Đào tạo"
+        ],
+        "duration": "4–8 tuần",
+        "bestFor": "Logistics, phân phối, sản xuất và vận hành đa địa điểm"
+      },
+      {
+        "name": "Nhóm AI Dịch vụ Khách hàng",
+        "focus": "Tự động hóa phản hồi, phân loại yêu cầu, tra cứu kiến thức và quy trình hướng khách hàng",
+        "roles": [
+          "Chiến lược gia AI",
+          "Chuyên viên Phân tích",
+          "Chuyên gia Triển khai",
+          "Trưởng Đào tạo"
+        ],
+        "duration": "4–6 tuần",
+        "bestFor": "Vận hành dịch vụ khách hàng và đội ngũ hỗ trợ"
+      },
+      {
+        "name": "Nhóm Năng suất Back Office",
+        "focus": "Xử lý tài liệu, tự động hóa hành chính, báo cáo và hiệu quả quy trình nội bộ",
+        "roles": [
+          "Chiến lược gia AI",
+          "Chuyên viên Phân tích",
+          "Chuyên gia Triển khai"
+        ],
+        "duration": "3–6 tuần",
+        "bestFor": "Tài chính, nhân sự, dịch vụ chuyên nghiệp và vận hành nặng về hành chính"
+      },
+      {
+        "name": "Nhóm Kích hoạt AI cho Lãnh đạo",
+        "focus": "Năng lực AI cho lãnh đạo, lập kế hoạch chiến lược ứng dụng AI và nâng cao năng lực đội ngũ lãnh đạo",
+        "roles": [
+          "Chiến lược gia AI",
+          "Trưởng Đào tạo & Thay đổi"
+        ],
+        "duration": "2–4 tuần",
+        "bestFor": "Đội ngũ lãnh đạo chuẩn bị cho ứng dụng AI toàn tổ chức"
+      }
+    ],
+    "whyPodsLabel": "Tại sao chọn nhóm",
+    "whyPodsTitle": "Nhóm vs chỉ tư vấn vs chỉ cung cấp nhân sự",
+    "tableAspect": "Khía cạnh",
+    "tableFetchPod": "Nhóm Fetch",
+    "tableConsulting": "Chỉ tư vấn",
+    "tableStaffing": "Chỉ cung cấp nhân sự",
+    "comparisons": [
+      {
+        "aspect": "Phương pháp",
+        "pod": "Thực thi nhúng vào bên trong hoạt động của bạn",
+        "consulting": "Chiến lược và khuyến nghị từ bên ngoài",
+        "staffing": "Cung cấp nhân sự không có nhiệm vụ chuyển đổi"
+      },
+      {
+        "aspect": "Kết quả",
+        "pod": "Quy trình AI được triển khai và đội ngũ được đào tạo",
+        "consulting": "Tài liệu chiến lược và lộ trình",
+        "staffing": "Thêm năng lực, không đảm bảo kết quả"
+      },
+      {
+        "aspect": "Tốc độ",
+        "pod": "Kết quả trong 30–60 ngày",
+        "consulting": "Chu kỳ chiến lược 3–6 tháng",
+        "staffing": "Thời gian làm quen, không có lộ trình chuyển đổi"
+      },
+      {
+        "aspect": "Đào tạo đội ngũ",
+        "pod": "Tích hợp trong mọi dự án",
+        "consulting": "Hiếm khi được bao gồm",
+        "staffing": "Không bao gồm"
+      },
+      {
+        "aspect": "Rủi ro",
+        "pod": "Thấp — định hướng kết quả với mục tiêu rõ ràng",
+        "consulting": "Trung bình — chiến lược không có hỗ trợ thực thi",
+        "staffing": "Cao — không chịu trách nhiệm về kết quả chuyển đổi"
+      },
+      {
+        "aspect": "Đo lường ROI",
+        "pod": "Được đo lường và báo cáo",
+        "consulting": "Dự kiến nhưng hiếm khi đo lường",
+        "staffing": "Không đo lường"
+      }
+    ],
+    "ctaTitle": "Sẵn sàng triển khai nhóm chuyển đổi?",
+    "ctaDesc": "Bắt đầu với một cuộc gọi chiến lược. Chúng tôi sẽ đề xuất cơ cấu nhóm và mô hình dự án phù hợp nhất cho doanh nghiệp của bạn.",
+    "ctaBtn": "Đặt lịch Gọi Chiến lược",
+    "ctaSecondary": "Xem tất cả giải pháp",
+    "howItWorks": "Cách một nhóm hoạt động",
+    "week1": "Tuần 1",
+    "week1Desc": "Lập bản đồ quy trình và phỏng vấn các bên liên quan",
+    "week2": "Tuần 2",
+    "week2Desc": "Đánh giá cơ hội AI và thiết kế lại quy trình",
+    "weeks34": "Tuần 3–4",
+    "weeks34Desc": "Triển khai, tích hợp và đào tạo đội ngũ",
+    "ongoing": "Liên tục",
+    "ongoingDesc": "Theo dõi mức độ áp dụng và tối ưu hóa"
+  },
+  "caseStudies": {
+    "heroLabel": "Nghiên cứu điển hình",
+    "heroTitle": "Kết quả thực tế từ các doanh nghiệp Việt Nam thực tế.",
+    "heroDesc": "Mỗi con số được đo lường sau 60 ngày triển khai.",
+    "readFull": "Đọc nghiên cứu điển hình đầy đủ",
+    "industry": "Ngành nghề",
+    "teamSize": "Quy mô đội ngũ",
+    "result": "Kết quả",
+    "challenge": "Thách thức",
+    "solution": "Giải pháp",
+    "outcome": "Kết quả đạt được",
+    "readStory": "Đọc câu chuyện đầy đủ",
+    "hideStory": "Ẩn câu chuyện",
+    "situation": "Tình huống",
+    "whatWeDid": "Chúng tôi đã làm gì",
+    "engagement": "Hình thức hợp tác",
+    "duration": "Thời gian",
+    "scope": "Phạm vi",
+    "patternLabel": "Quy luật chung",
+    "patternTitle": "Ba điều giống nhau xuất hiện trong mọi dự án.",
+    "ctaTitle": "Muốn xem điều này trông như thế nào với doanh nghiệp của bạn?",
+    "ctaDesc": "Đặt lịch tư vấn chiến lược 45 phút. Chúng tôi sẽ đánh giá quy trình của bạn và nói thẳng thắn về những gì AI có thể và không thể làm cho bạn.",
+    "ctaBtn": "Đặt lịch tư vấn chiến lược",
+    "ctaSecondary": "Xem Sprint 30 ngày",
+    "patterns": [
+      {
+        "num": "01",
+        "title": "Vấn đề chưa bao giờ là công cụ AI",
+        "body": "Trong mọi trường hợp, khách hàng đã có quyền truy cập vào các công cụ AI. ChatGPT miễn phí. Copilot được tích hợp sẵn trong gói đăng ký Office của họ. Vấn đề là không ai thiết kế lại quy trình mà những công cụ đó được cho là cải thiện. Chúng tôi luôn bắt đầu bằng việc lập bản đồ quy trình, không phải triển khai công cụ."
+      },
+      {
+        "num": "02",
+        "title": "Điểm thất bại đầu tiên luôn là việc áp dụng",
+        "body": "Mọi khách hàng đã từng thử triển khai AI trước đây đều thất bại ở khâu áp dụng. Công cụ được triển khai, đội ngũ được cấp tài khoản, và trong vài tuần họ đã quay lại quy trình thủ công. Chúng tôi coi việc áp dụng là sản phẩm bàn giao chính, không phải là điều bổ sung."
+      },
+      {
+        "num": "03",
+        "title": "ROI có thể đo lường được trong vòng 60 ngày",
+        "body": "Trong mọi dự án, chúng tôi thiết lập đo lường cơ sở trước khi bắt đầu và theo dõi tiết kiệm thời gian hàng tuần sau khi triển khai. ROI không bao giờ là lý thuyết — nó được đo bằng số giờ thu hồi và chi phí được loại bỏ."
+      }
+    ],
+    "studies": [
+      {
+        "id": "fleet",
+        "tag": "Logistics & Quản lý đội xe",
+        "headline": "Một công ty quản lý đội xe thương mại cắt giảm 70% thời gian lập kế hoạch tuyến đường và giảm 190.000 USD chi phí nhiên liệu hàng năm.",
+        "subheadline": "Sprint AI 30 ngày · Hồ Chí Minh · 120 xe, 18 nhân viên vận hành",
+        "situation": "Đội vận hành của một công ty quản lý đội xe thương mại tại Hồ Chí Minh đang quản lý 120 xe cho nhiều hợp đồng khách hàng. Việc lập kế hoạch tuyến đường được thực hiện thủ công mỗi buổi sáng bởi ba điều phối viên cấp cao, mỗi người dành hai đến ba giờ để xây dựng lịch trình hàng ngày trên bảng tính và đối chiếu với tình trạng sẵn có của tài xế, lịch bảo dưỡng xe và khung thời gian giao hàng của khách hàng.\n\nNgoài việc lập kế hoạch, đội ngũ còn bị ngập trong công việc hành chính: tài liệu hướng dẫn tài xế, báo cáo giao hàng cho khách hàng, đối soát nhiên liệu và hồ sơ tuân thủ quy định. Giám đốc vận hành ước tính rằng 60% ngày làm việc của đội ngũ được dành cho các công việc không đòi hỏi phán đoán — chỉ là nhập liệu, định dạng và phân phối.\n\nCông ty đã khám phá phần mềm quản lý đội xe có sẵn nhưng thấy chi phí triển khai quá cao và các công cụ quá cứng nhắc cho sự kết hợp các loại hợp đồng của họ. Họ cần AI hoạt động trong các hệ thống hiện có của mình, không phải thay thế nền tảng.",
+        "whatWeDid": [
+          "Dành tuần đầu tiên làm việc cùng đội điều phối, theo dõi quy trình lập kế hoạch buổi sáng và ghi lại từng bước. Xác định rằng riêng việc lập kế hoạch tuyến đường đang tiêu tốn 63 giờ điều phối viên mỗi tuần — điểm tiêu tốn thời gian lớn nhất trong hoạt động.",
+          "Thiết kế lại quy trình lập kế hoạch tuyến đường để sử dụng tối ưu hóa hỗ trợ bởi AI trong các công cụ hiện có của đội ngũ, loại bỏ quy trình bảng tính thủ công trong khi vẫn giữ quyền kiểm soát của điều phối viên đối với các quyết định cuối cùng.",
+          "Tự động hóa việc tạo tài liệu hướng dẫn tài xế, báo cáo giao hàng cho khách hàng và tóm tắt đối soát nhiên liệu — ba công việc khối lượng cao, ít đòi hỏi phán đoán, tiêu tốn ước tính 20 giờ mỗi tuần.",
+          "Tổ chức hai buổi đào tạo có cấu trúc với tất cả 18 nhân viên vận hành, bao gồm sổ tay hướng dẫn dành riêng cho điều phối viên. Theo dõi tỷ lệ áp dụng và tiết kiệm thời gian hàng ngày trong ba tuần đầu sau khi triển khai."
+        ],
+        "results": [
+          {
+            "metric": "70%",
+            "label": "giảm thời gian lập kế hoạch tuyến đường hàng ngày"
+          },
+          {
+            "metric": "190.000 USD",
+            "label": "giảm chi phí nhiên liệu hàng năm từ tuyến đường tối ưu"
+          },
+          {
+            "metric": "63 giờ/tuần",
+            "label": "thời gian điều phối viên được thu hồi"
+          },
+          {
+            "metric": "4 tuần",
+            "label": "để triển khai đầy đủ trên tất cả hợp đồng"
+          }
+        ],
+        "quote": "Các điều phối viên của chúng tôi đã dành nửa buổi sáng để xây dựng tuyến đường mà AI giờ có thể soạn thảo trong vài phút. Họ vẫn đưa ra quyết định cuối cùng — nhưng họ làm điều đó trong 20 phút thay vì hai giờ.",
+        "quoteName": "Raymond Ong",
+        "quoteTitle": "Giám đốc Vận hành",
+        "quotePhoto": "",
+        "engagement": "Sprint AI 30 ngày",
+        "duration": "4 tuần",
+        "teamSize": "18 nhân viên vận hành"
+      },
+      {
+        "id": "freight",
+        "tag": "Logistics & Chuỗi cung ứng",
+        "headline": "Một công ty giao nhận hàng hóa thu hồi 14 giờ mỗi tuần cho mỗi quản lý vận hành.",
+        "subheadline": "Sprint AI 30 ngày · Hà Nội · 12 nhân viên vận hành",
+        "situation": "Đội vận hành của một công ty giao nhận hàng hóa Việt Nam cỡ vừa đang dành phần lớn ngày làm việc cho các công việc không đòi hỏi phán đoán: kéo cập nhật trạng thái lô hàng từ các cổng thông tin của hãng vận chuyển, sao chép thông tin vào bảng tính theo dõi nội bộ, soạn thảo email cập nhật cho khách hàng và chuẩn bị tài liệu vận chuyển.\n\nMỗi quản lý vận hành đang xử lý 40-60 lô hàng đang hoạt động tại bất kỳ thời điểm nào. Việc cập nhật trạng thái một mình chiếm ước tính 3-4 giờ mỗi ngày cho mỗi người — thời gian không thể dành cho việc giải quyết vấn đề, xây dựng mối quan hệ khách hàng hoặc xử lý các trường hợp ngoại lệ đòi hỏi phán đoán thực sự.\n\nCông ty đã thử dùng một nền tảng quản lý logistics nhưng thấy nó không tích hợp được với các hệ thống của hãng vận chuyển mà họ sử dụng. Họ cần một giải pháp hoạt động trên các kết nối hiện có của mình.",
+        "whatWeDid": [
+          "Lập bản đồ toàn bộ quy trình cập nhật trạng thái lô hàng, từ kiểm tra cổng thông tin đến thông báo khách hàng. Xác định rằng 73% thời gian được dành cho việc thu thập thông tin đã có sẵn ở nơi khác — chỉ không được tổng hợp tự động.",
+          "Xây dựng một quy trình tổng hợp trạng thái tự động kéo thông tin từ bốn cổng thông tin hãng vận chuyển và điền vào bảng theo dõi nội bộ, loại bỏ việc nhập liệu thủ công.",
+          "Tạo mẫu email khách hàng được điền sẵn từ dữ liệu lô hàng, giảm thời gian soạn thảo từ 8-10 phút xuống còn 90 giây mỗi cập nhật.",
+          "Đào tạo tất cả 12 nhân viên vận hành trên hệ thống mới trong hai buổi, với tài liệu tham khảo nhanh cho từng loại lô hàng."
+        ],
+        "results": [
+          {
+            "metric": "14 giờ",
+            "label": "thu hồi mỗi tuần cho mỗi quản lý vận hành"
+          },
+          {
+            "metric": "73%",
+            "label": "giảm thời gian cập nhật trạng thái thủ công"
+          },
+          {
+            "metric": "90 giây",
+            "label": "để soạn thảo email cập nhật khách hàng (từ 8-10 phút)"
+          },
+          {
+            "metric": "3 tuần",
+            "label": "để triển khai đầy đủ trên tất cả tuyến đường"
+          }
+        ],
+        "quote": "Chúng tôi đã nói về AI được 18 tháng. Fetch đến, lập bản đồ hoạt động của chúng tôi trong một tuần, và có hai quy trình hoạt động trong sản xuất vào tuần thứ tư. Đội ngũ thực sự sử dụng chúng.",
+        "quoteName": "David Lim",
+        "quoteTitle": "COO",
+        "quotePhoto": "",
+        "engagement": "Sprint AI 30 ngày",
+        "duration": "3 tuần",
+        "teamSize": "12 nhân viên vận hành"
+      },
+      {
+        "id": "consulting",
+        "tag": "Dịch vụ chuyên nghiệp",
+        "headline": "Một công ty tư vấn boutique loại bỏ 180.000 USD chi phí hành chính hàng năm.",
+        "subheadline": "Sprint AI 30 ngày · Hồ Chí Minh · 28 tư vấn viên",
+        "situation": "28 tư vấn viên của công ty ước tính đang dành 40% giờ có thể tính phí cho công việc hành chính không tính phí: viết đề xuất từ đầu cho các dự án tương tự, đối soát bảng chấm công với mô tả dự án, chuẩn bị báo cáo tiến độ khách hàng và tóm tắt cuộc họp.\n\nVấn đề không phải là thiếu quy trình — công ty có các mẫu cho tất cả mọi thứ. Vấn đề là các mẫu đòi hỏi điền thủ công đáng kể, và không ai có thời gian để duy trì chúng đúng cách. Kết quả là mỗi đề xuất được viết gần như từ đầu, mỗi báo cáo được định dạng lại từ đầu.\n\nGiám đốc điều hành đã tính toán rằng nếu họ có thể cắt giảm 50% thời gian hành chính, họ có thể tăng doanh thu có thể tính phí lên 20% mà không cần thuê thêm nhân sự.",
+        "whatWeDid": [
+          "Kiểm tra 60 đề xuất từ 18 tháng trước và xác định rằng 80% nội dung được lặp lại trên các đề xuất với các biến thể nhỏ. Xây dựng thư viện đề xuất có thể tái sử dụng với các thành phần AI hỗ trợ.",
+          "Thiết kế lại quy trình báo cáo tiến độ khách hàng để tự động tổng hợp từ ghi chú cuộc họp và cập nhật trạng thái dự án, giảm thời gian chuẩn bị từ 2-3 giờ xuống còn 25 phút.",
+          "Triển khai tóm tắt cuộc họp tự động được tích hợp với lịch và hệ thống quản lý dự án của công ty.",
+          "Đào tạo tất cả 28 tư vấn viên trên các công cụ mới trong ba buổi, với các playbook dành riêng cho từng loại dự án."
+        ],
+        "results": [
+          {
+            "metric": "180.000 USD",
+            "label": "chi phí hành chính hàng năm được loại bỏ"
+          },
+          {
+            "metric": "40% → 15%",
+            "label": "thời gian tư vấn viên dành cho hành chính"
+          },
+          {
+            "metric": "20%",
+            "label": "tăng doanh thu có thể tính phí mà không cần thuê thêm"
+          },
+          {
+            "metric": "1 tháng",
+            "label": "hoàn vốn đầu tư"
+          }
+        ],
+        "quote": "Các tư vấn viên của chúng tôi đang dành 40% thời gian cho công việc hành chính. Sau sprint, con số đó giảm xuống còn khoảng 15%. Tính toán ROI rất đơn giản — chúng tôi thấy hoàn vốn trong tháng đầu tiên.",
+        "quoteName": "Priya Menon",
+        "quoteTitle": "Giám đốc điều hành",
+        "quotePhoto": "",
+        "engagement": "Sprint AI 30 ngày",
+        "duration": "4 tuần",
+        "teamSize": "28 tư vấn viên"
+      },
+      {
+        "id": "finance",
+        "tag": "Dịch vụ tài chính",
+        "headline": "Một công ty dịch vụ tài chính khu vực cắt giảm 58% thời gian tài liệu tuân thủ.",
+        "subheadline": "Sprint AI 30 ngày · Hà Nội · 45 nhân viên",
+        "situation": "Các đội tuân thủ và vận hành của công ty đang tạo ra khối lượng lớn tài liệu: hồ sơ giới thiệu khách hàng, tóm tắt KYC, tường thuật nộp hồ sơ quy định và báo cáo kiểm toán nội bộ. Mỗi tài liệu đòi hỏi tổng hợp thông tin từ nhiều hệ thống, định dạng theo các mẫu cụ thể và xem xét bởi một nhân viên cấp cao.\n\nQuy trình tài liệu đang tạo ra tắc nghẽn trong việc giới thiệu khách hàng — khách hàng mới đang chờ 8-12 ngày làm việc để hoàn thành hồ sơ, so với tiêu chuẩn ngành là 3-5 ngày. Đội tuân thủ đang làm thêm giờ thường xuyên nhưng vẫn không theo kịp khối lượng.",
+        "whatWeDid": [
+          "Lập bản đồ quy trình tài liệu từ đầu đến cuối cho ba loại tài liệu khối lượng cao nhất: giới thiệu khách hàng, tóm tắt KYC và báo cáo kiểm toán nội bộ.",
+          "Xác định rằng 65% nội dung trong mỗi tài liệu được lấy từ các hệ thống hiện có — chỉ không được tổng hợp tự động. Xây dựng quy trình tổng hợp tài liệu tự động.",
+          "Thiết kế lại quy trình xem xét để tập trung thời gian của nhân viên cấp cao vào các quyết định phán đoán, không phải kiểm tra định dạng.",
+          "Đào tạo đội tuân thủ và vận hành trên các quy trình mới, với tài liệu kiểm soát chất lượng cụ thể cho từng loại tài liệu."
+        ],
+        "results": [
+          {
+            "metric": "58%",
+            "label": "giảm thời gian tài liệu tuân thủ"
+          },
+          {
+            "metric": "8-12 ngày → 3 ngày",
+            "label": "thời gian giới thiệu khách hàng"
+          },
+          {
+            "metric": "0",
+            "label": "giờ làm thêm trong 60 ngày sau triển khai"
+          },
+          {
+            "metric": "4 tuần",
+            "label": "để triển khai đầy đủ trên tất cả loại tài liệu"
+          }
+        ],
+        "quote": "Điều tôi đánh giá cao là họ đã phản đối khi chúng tôi muốn tự động hóa những thứ sai. Họ thiết kế lại quy trình trước. Đó là lý do tại sao nó hoạt động.",
+        "quoteName": "Marcus Tan",
+        "quoteTitle": "Trưởng phòng Vận hành",
+        "quotePhoto": "",
+        "engagement": "Sprint AI 30 ngày",
+        "duration": "4 tuần",
+        "teamSize": "45 nhân viên"
+      }
+    ]
+  },
+  "resources": {
+    "heroLabel": "Tài nguyên",
+    "heroTitle": "Hướng dẫn thực tế về áp dụng AI tại Việt Nam.",
+    "heroDesc": "Bài viết, công cụ và khung làm việc từ kinh nghiệm của chúng tôi với các doanh nghiệp Việt Nam.",
+    "readArticle": "Đọc bài viết",
+    "downloadTool": "Tải công cụ",
+    "allResources": "Tất cả tài nguyên",
+    "articles": [
+      {
+        "category": "Áp dụng AI",
+        "title": "Cách các SME Việt Nam nên áp dụng AI mà không làm gián đoạn hoạt động",
+        "excerpt": "Hầu hết lời khuyên về áp dụng AI được viết cho các doanh nghiệp lớn có đội ngũ chuyển đổi chuyên dụng. Hướng dẫn này dành cho các SME Việt Nam cần áp dụng AI trong khi vẫn duy trì hoạt động kinh doanh.",
+        "readTime": "8 phút đọc",
+        "featured": true,
+        "body": "Hầu hết lời khuyên về áp dụng AI giả định bạn có đội ngũ chuyển đổi chuyên dụng, ngân sách triển khai sáu chữ số và sự xa xỉ của việc chạy thử nghiệm không ảnh hưởng đến hoạt động hàng ngày. Các SME Việt Nam hiếm khi có bất kỳ điều nào trong số đó.\n\n**Thách thức cốt lõi cho SME**\n\nThách thức không phải là tiếp cận các công cụ AI — ChatGPT miễn phí, Copilot được tích hợp trong Office, và có hàng trăm sản phẩm SaaS hỗ trợ AI nhắm vào mọi chức năng kinh doanh. Thách thức là áp dụng AI trong khi vận hành doanh nghiệp đòi hỏi bạn phải thay đổi cách thức làm việc mà không dừng công việc.\n\n**Bắt đầu với một quy trình, không phải một chiến lược**\n\nSai lầm phổ biến nhất mà SME mắc phải là cố gắng phát triển \"chiến lược AI\" trước khi họ triển khai bất cứ điều gì. Chiến lược hữu ích khi bạn có bằng chứng. Trước đó, nó chỉ là suy đoán. Chọn một quy trình lặp đi lặp lại, tốn thời gian và được ghi chép rõ ràng. Lập bản đồ cách nó hiện đang hoạt động. Sau đó thiết kế lại với AI trong vòng lặp.\n\n**Quy tắc ba tuần**\n\nNếu một công cụ AI không được tích hợp vào quy trình làm việc hàng ngày của đội ngũ trong vòng ba tuần kể từ khi triển khai, nó sẽ không bao giờ được. Cửa sổ để áp dụng rất ngắn. Điều này có nghĩa là công cụ cần được cấu hình cho bối cảnh cụ thể của bạn, đội ngũ của bạn cần đào tạo có cấu trúc (không chỉ là tài khoản đăng nhập), và ai đó cần chịu trách nhiệm về các chỉ số áp dụng.\n\n**Đo lường từ ngày đầu tiên**\n\nTrước khi triển khai bất cứ điều gì, hãy đồng ý về những gì bạn đang đo lường. Thời gian tiết kiệm mỗi công việc. Giảm tỷ lệ lỗi. Khối lượng xử lý mà không cần thêm nhân sự. Những con số này là những gì biện minh cho khoản đầu tư tiếp theo và cho bạn biết liệu khoản đầu tư đầu tiên có hiệu quả không."
+      },
+      {
+        "category": "Tái thiết quy trình",
+        "title": "Nhóm chuyển đổi AI thực sự làm gì",
+        "excerpt": "Mô hình nhóm khác với tư vấn và khác với thuê nhân sự. Bài viết này giải thích chính xác cách một nhóm chuyển đổi hoạt động bên trong doanh nghiệp và tại sao mô hình này tạo ra kết quả tốt hơn.",
+        "readTime": "6 phút đọc",
+        "featured": true,
+        "body": "Mô hình nhóm chuyển đổi nằm giữa hai thứ không hoạt động: tư vấn chiến lược (tạo ra khuyến nghị nhưng không triển khai chúng) và nhà cung cấp phần mềm (triển khai công cụ nhưng không thay đổi cách thức làm việc).\n\n**Nhóm là gì**\n\nNhóm chuyển đổi là một đội nhỏ, được nhúng — thường là hai đến bốn người — làm việc bên trong doanh nghiệp của bạn trong một khoảng thời gian xác định. Họ không ở đó để tư vấn. Họ ở đó để làm: lập bản đồ quy trình, cấu hình công cụ, đào tạo đội ngũ và đo lường kết quả.\n\n**Chu kỳ bốn tuần**\n\nTuần đầu tiên là lập bản đồ quy trình. Không phải cách bạn nghĩ hoạt động của mình — mà là cách chúng thực sự hoạt động. Khoảng cách giữa hai điều này hầu như luôn đáng kể, và đó là lý do tại sao hầu hết các triển khai AI thất bại.\n\nTuần hai và ba là cấu hình và triển khai. Nhóm chọn và cấu hình công cụ theo quy trình đã lập bản đồ, tích hợp chúng với các hệ thống hiện có và chạy các buổi đào tạo có cấu trúc với đội ngũ sẽ sử dụng chúng.\n\nTuần bốn là đo lường và bàn giao. Nhóm theo dõi tỷ lệ áp dụng và tiết kiệm thời gian, tạo ra tóm tắt ROI và bàn giao lộ trình cho những gì cần làm tiếp theo.\n\n**Tại sao nó hoạt động**\n\nMô hình nhóm hoạt động vì nó kết hợp những gì tư vấn và nhà cung cấp phần mềm mỗi bên làm tốt, trong khi loại bỏ vấn đề bàn giao. Không có điểm nào mà nhóm nói \"đây là chiến lược của bạn\" hoặc \"đây là phần mềm của bạn\" và rời đi."
+      },
+      {
+        "category": "Áp dụng AI",
+        "title": "Tại sao hầu hết các triển khai AI thất bại trong 90 ngày đầu",
+        "excerpt": "Chúng tôi đã xem xét mọi thất bại AI mà khách hàng đã mô tả cho chúng tôi. Cùng một ba điều xuất hiện mỗi lần.",
+        "readTime": "5 phút đọc",
+        "featured": false,
+        "body": "Chúng tôi đã hỏi mỗi khách hàng mới về các lần thử AI trước đây của họ. Hầu hết đã thử ít nhất một lần. Hầu hết đã thất bại. Các lý do gần như giống hệt nhau mỗi lần.\n\n**Lý do 1: Công cụ được triển khai trước khi quy trình được thiết kế lại**\n\nAI không cải thiện các quy trình tồi tệ. Nó tự động hóa chúng. Nếu quy trình của bạn đòi hỏi ai đó sao chép dữ liệu từ hệ thống này sang hệ thống khác, AI có thể làm điều đó nhanh hơn — nhưng câu hỏi đúng đắn là tại sao dữ liệu không ở cùng một hệ thống ngay từ đầu.\n\n**Lý do 2: Đào tạo là một buổi, không phải một chương trình**\n\nMột buổi đào tạo không tạo ra việc áp dụng. Nó tạo ra sự quen thuộc. Việc áp dụng đến từ việc sử dụng công cụ trong công việc thực tế, với hỗ trợ, trong nhiều tuần. Hầu hết các triển khai cung cấp một buổi và sau đó tự hỏi tại sao mọi người đã quay lại quy trình cũ của họ.\n\n**Lý do 3: Không ai sở hữu các chỉ số áp dụng**\n\nNếu không ai chịu trách nhiệm theo dõi xem đội ngũ có thực sự sử dụng công cụ hay không, họ sẽ không sử dụng. Áp dụng đòi hỏi trách nhiệm giải trình. Điều đó có nghĩa là ai đó kiểm tra các số liệu hàng tuần và giải quyết các rào cản khi chúng xuất hiện."
+      },
+      {
+        "category": "Đào tạo đội ngũ",
+        "title": "Cách đào tạo đội ngũ của bạn về AI mà không làm gián đoạn hoạt động",
+        "excerpt": "Đào tạo AI thất bại khi nó được xử lý như đào tạo phần mềm. Đây là những gì thực sự hoạt động.",
+        "readTime": "7 phút đọc",
+        "featured": false,
+        "body": "Hầu hết đào tạo AI được thiết kế như đào tạo phần mềm: một buổi, một bản trình bày, một tài liệu hướng dẫn. Đây là lý do tại sao hầu hết đào tạo AI không tạo ra việc áp dụng.\n\n**Sự khác biệt giữa đào tạo phần mềm và đào tạo AI**\n\nĐào tạo phần mềm dạy mọi người cách sử dụng một công cụ. Đào tạo AI dạy mọi người cách thay đổi cách họ làm việc. Đó là một thách thức khác nhau cơ bản, và nó đòi hỏi một cách tiếp cận khác nhau.\n\n**Bốn thành phần của đào tạo AI hiệu quả**\n\nĐầu tiên: đào tạo theo vai trò, không phải theo công cụ. Một điều phối viên logistics cần biết cách AI thay đổi công việc lập kế hoạch tuyến đường của họ, không phải cách AI hoạt động nói chung.\n\nThứ hai: thực hành trong công việc thực tế. Đào tạo tốt nhất xảy ra khi mọi người sử dụng công cụ trên công việc thực tế của họ, với hỗ trợ, không phải trên các ví dụ giả định.\n\nThứ ba: playbook, không phải hướng dẫn sử dụng. Mọi người cần biết phải làm gì trong các tình huống cụ thể, không phải cách điều hướng menu.\n\nThứ tư: theo dõi áp dụng. Nếu bạn không đo lường xem mọi người có sử dụng công cụ hay không, bạn không biết liệu đào tạo có hiệu quả không."
+      },
+      {
+        "category": "AI doanh nghiệp",
+        "title": "Hỗ trợ AI của chính phủ Việt Nam: hướng dẫn thực tế cho SME",
+        "excerpt": "Ba chương trình hỗ trợ đang hoạt động có thể tài trợ đến 70% chi phí chuyển đổi AI của bạn. Đây là những gì thực sự có sẵn và cách tiếp cận.",
+        "readTime": "10 phút đọc",
+        "featured": false,
+        "body": "Chính phủ Việt Nam đã cam kết 30 nghìn tỷ đồng cho việc áp dụng AI. Đây không phải là tiền trong tương lai — có các chương trình đang hoạt động ngay bây giờ mà các SME đủ điều kiện có thể tiếp cận.\n\n**Ba chương trình chính**\n\nQuỹ Phát triển AI Quốc gia cung cấp đến 70% chi phí dự án cho các doanh nghiệp Việt Nam đủ điều kiện. Chương trình Chuyển đổi Số cho SME cung cấp tư vấn miễn phí và hỗ trợ triển khai. Ưu đãi thuế theo Nghị định 20/2026 cung cấp miễn thuế TNDN cho hai năm đầu đầu tư đủ điều kiện.\n\n**Ai đủ điều kiện**\n\nHầu hết các SME Việt Nam đủ điều kiện cho ít nhất một chương trình. Các tiêu chí chính là: doanh nghiệp đăng ký tại Việt Nam, ít hơn 300 nhân viên hoặc doanh thu dưới 300 tỷ đồng, và dự án liên quan đến triển khai AI hoặc tái thiết quy trình kỹ thuật số.\n\n**Cách tiếp cận**\n\nBước đầu tiên là đánh giá mức độ sẵn sàng kỹ thuật số, thường có thể hoàn thành trong một cuộc gọi. Từ đó, chúng tôi xác định chương trình nào phù hợp nhất với tình huống của bạn và cấu trúc hợp đồng để tối đa hóa mức hỗ trợ."
+      },
+      {
+        "category": "Vận hành",
+        "title": "Lập bản đồ quy trình cho AI: hướng dẫn thực tế",
+        "excerpt": "Trước khi triển khai bất kỳ công cụ AI nào, bạn cần hiểu quy trình của mình thực sự hoạt động như thế nào. Đây là cách thực hiện.",
+        "readTime": "9 phút đọc",
+        "featured": false,
+        "body": "Lập bản đồ quy trình là bước đầu tiên trong mỗi dự án Fetch, và đó là bước mà hầu hết các doanh nghiệp bỏ qua khi họ cố gắng tự triển khai AI. Đây là lý do tại sao điều đó quan trọng và cách thực hiện đúng cách.\n\n**Tại sao lập bản đồ quy trình quan trọng**\n\nAI không cải thiện các quy trình mà bạn không hiểu. Nếu bạn không biết chính xác ai làm gì, khi nào và tại sao trong một quy trình nhất định, bạn không thể thiết kế lại nó cho AI. Và nếu bạn không thiết kế lại nó, bạn chỉ đang tự động hóa những gì đã tồn tại — thường không phải là điều đúng đắn để tự động hóa.\n\n**Bốn bước để lập bản đồ quy trình hiệu quả**\n\nBước 1: Quan sát, đừng hỏi. Mọi người mô tả quy trình của họ khác với cách họ thực sự thực hiện chúng. Dành thời gian quan sát quy trình xảy ra trong thực tế.\n\nBước 2: Ghi lại từng bước, không phải chỉ những bước lớn. Các điểm tiêu tốn thời gian thường nằm trong các bước nhỏ mà mọi người coi là hiển nhiên.\n\nBước 3: Đo lường thời gian cho từng bước. Bạn không thể ưu tiên mà không có dữ liệu.\n\nBước 4: Xác định các điểm quyết định. Đây là những nơi mà con người đưa ra phán đoán — và thường là những nơi AI không nên thay thế con người."
+      },
+      {
+        "category": "Lãnh đạo",
+        "title": "Câu hỏi mà mọi lãnh đạo nên hỏi trước khi bắt đầu chuyển đổi AI",
+        "excerpt": "Hầu hết các lãnh đạo bắt đầu với câu hỏi sai. Đây là những câu hỏi đúng.",
+        "readTime": "6 phút đọc",
+        "featured": false,
+        "body": "Câu hỏi sai là: \"Chúng ta nên sử dụng công cụ AI nào?\" Câu hỏi đúng là: \"Quy trình nào đang tiêu tốn thời gian nhiều nhất mà không tạo ra giá trị?\"\n\n**Năm câu hỏi để hỏi trước khi bắt đầu**\n\nMột: Chúng ta đang đo lường thời gian đội ngũ dành cho các nhiệm vụ khác nhau không? Nếu không, bạn không có cơ sở để đánh giá tác động của AI.\n\nHai: Đội ngũ của chúng ta có đủ tài liệu về quy trình của mình không? AI đòi hỏi các quy trình được ghi chép rõ ràng. Nếu quy trình của bạn chỉ tồn tại trong đầu mọi người, bạn cần bắt đầu ở đó.\n\nBa: Ai sẽ chịu trách nhiệm về việc áp dụng? Không phải triển khai — áp dụng. Đây là điều mà hầu hết các dự án AI bỏ qua.\n\nBốn: Chúng ta sẵn sàng thay đổi cách chúng ta làm việc chưa, không chỉ thêm công cụ? AI đòi hỏi thay đổi quy trình. Nếu đội ngũ của bạn không sẵn sàng thay đổi cách họ làm việc, AI sẽ không giúp ích gì.\n\nNăm: Chúng ta sẽ đo lường thành công như thế nào? Trước khi bắt đầu, hãy đồng ý về những gì bạn đang đo lường và trong bao lâu."
+      }
+    ],
+    "tools": [
+      {
+        "title": "Đánh giá Sẵn sàng AI",
+        "desc": "Một tự đánh giá có cấu trúc bao gồm tài liệu quy trình, chất lượng dữ liệu, năng lực quản lý thay đổi và sự liên kết của lãnh đạo. Xác định khoảng cách của bạn trước khi bắt đầu.",
+        "tag": "Mẫu"
+      },
+      {
+        "title": "Mẫu Lập bản đồ Quy trình",
+        "desc": "Mẫu từng bước để ghi lại quy trình vận hành theo định dạng cần thiết cho tái thiết AI. Bao gồm các ví dụ đã làm từ logistics, dịch vụ chuyên nghiệp và dịch vụ tài chính.",
+        "tag": "Mẫu"
+      },
+      {
+        "title": "Máy tính ROI AI",
+        "desc": "Nhập thời gian hiện tại dành cho các nhiệm vụ cụ thể và quy mô đội ngũ. Máy tính tạo ra phạm vi tiết kiệm thời gian và ROI dự kiến dựa trên dữ liệu triển khai của chúng tôi.",
+        "tag": "Máy tính"
+      },
+      {
+        "title": "Khung Ưu tiên Cơ hội AI",
+        "desc": "Một ma trận để đánh giá các cơ hội AI tiềm năng theo tác động, tính khả thi và tốc độ triển khai. Được sử dụng bởi các nhóm Fetch trong mọi đánh giá cơ hội.",
+        "tag": "Khung"
+      },
+      {
+        "title": "Mẫu Kế hoạch Đào tạo Đội ngũ",
+        "desc": "Một kế hoạch đào tạo có cấu trúc cho việc triển khai AI, bao gồm lịch trình buổi học, mẫu playbook theo vai trò và theo dõi chỉ số áp dụng.",
+        "tag": "Mẫu"
+      },
+      {
+        "title": "Hướng dẫn Hỗ trợ AI Việt Nam",
+        "desc": "Tổng quan về ba chương trình hỗ trợ AI đang hoạt động, bao gồm tiêu chí đủ điều kiện, số tiền hỗ trợ và quy trình đăng ký. Được cập nhật hàng quý.",
+        "tag": "Hướng dẫn"
+      }
+    ],
+    "categories": [
+      "Tất cả",
+      "Áp dụng AI",
+      "Tái thiết quy trình",
+      "Đào tạo đội ngũ",
+      "AI doanh nghiệp",
+      "Vận hành",
+      "Lãnh đạo"
+    ],
+    "featured": "Nổi bật",
+    "articleSingular": "bài viết",
+    "articlesPlural": "bài viết",
+    "inCategory": "trong",
+    "readBtn": "Đọc",
+    "toolsLabel": "Công cụ & Mẫu",
+    "toolsTitle": "Công cụ thực tế cho chương trình AI của bạn",
+    "toolsDesc": "Mẫu, khung làm việc và máy tính được sử dụng bởi các nhóm chuyển đổi Fetch. Có sẵn cho các doanh nghiệp Việt Nam.",
+    "requestAccess": "Yêu cầu truy cập",
+    "checklistTitle": "Nhận Checklist Sẵn sàng AI",
+    "checklistDesc": "Một checklist thực tế cho các doanh nghiệp Việt Nam đánh giá mức độ sẵn sàng áp dụng AI. Miễn phí.",
+    "checklistBtn": "Nhận Checklist",
+    "checklistSent": "Checklist đang trên đường — kiểm tra hộp thư đến của bạn.",
+    "emailPlaceholder": "email@cua-ban.com",
+    "emailError": "Vui lòng nhập địa chỉ email hợp lệ.",
+    "emailSuccess": "Đã gửi Checklist! Kiểm tra hộp thư đến của bạn.",
+    "toolRequestToast": "chúng tôi sẽ gửi email cho bạn. Đặt lịch tư vấn để được truy cập.",
+    "modalCta": "Muốn thảo luận về cách áp dụng điều này cho doanh nghiệp của bạn?",
+    "modalCtaBtn": "Đặt lịch tư vấn chiến lược"
+  },
+  "grants": {
+    "heroLabel": "Hỗ trợ AI từ Chính phủ Việt Nam",
+    "heroTitle": "Chính phủ đang trả tiền cho quá trình chuyển đổi AI của bạn.",
+    "heroDesc": "Việt Nam đã cam kết 30 nghìn tỷ đồng cho việc áp dụng AI. Ba chương trình đang hoạt động tài trợ đến 70% chi phí dự án đủ điều kiện. Fetch giúp bạn tiếp cận chúng.",
+    "checkEligibility": "Kiểm tra điều kiện của bạn",
+    "program1Title": "Quỹ Phát triển AI Quốc gia",
+    "program1Desc": "Quỹ 30 nghìn tỷ đồng (1,18 tỷ USD) hỗ trợ áp dụng AI cho các doanh nghiệp Việt Nam. Tài trợ đến 70% chi phí dự án đủ điều kiện.",
+    "program2Title": "Chương trình Chuyển đổi Số cho SME 2026–2030",
+    "program2Desc": "Quyết định 433/QĐ-TTg cung cấp hỗ trợ có cấu trúc cho các SME thực hiện dự án chuyển đổi số và AI.",
+    "program3Title": "Ưu đãi thuế cho SME",
+    "program3Desc": "Nghị định 20/2026 cung cấp ưu đãi thuế cho các SME đầu tư vào công nghệ và hạ tầng AI.",
+    "howFetchHelps": "Fetch giúp bạn tiếp cận các khoản hỗ trợ này như thế nào",
+    "step1": "Chúng tôi xác định các chương trình mà doanh nghiệp của bạn đủ điều kiện",
+    "step2": "Chúng tôi cơ cấu hợp đồng để tối đa hóa mức hỗ trợ",
+    "step3": "Chúng tôi xử lý tài liệu và quy trình đăng ký",
+    "step4": "Chúng tôi thực hiện dự án và báo cáo theo yêu cầu của hỗ trợ",
+    "heroPill": "Hỗ trợ AI từ Chính phủ Việt Nam",
+    "heroCtaBtn": "Kiểm tra điều kiện của tôi",
+    "heroSecondaryBtn": "Xem tất cả chương trình",
+    "authority": "Cơ quan quản lý",
+    "legalBasis": "Cơ sở pháp lý",
+    "timeline": "Thời gian",
+    "eligibility": "Điều kiện",
+    "covered": "Những gì được tài trợ",
+    "process": "Quy trình đăng ký",
+    "faqLabel": "Câu hỏi thường gặp",
+    "faqTitle": "FAQ về hỗ trợ",
+    "ctaTitle": "Tìm hiểu bạn đủ điều kiện nhận hỗ trợ nào.",
+    "ctaDesc": "Đặt lịch tư vấn chiến lược 45 phút. Chúng tôi sẽ xem xét doanh nghiệp của bạn, xác định các chương trình phù hợp và cho bạn biết chính xác cần chuẩn bị gì.",
+    "ctaBtn": "Đặt lịch tư vấn chiến lược",
+    "summaryCards": [
+      {
+        "label": "Tổng quy mô quỹ",
+        "value": "30 nghìn tỷ VND",
+        "sub": "~1,18 tỷ USD"
+      },
+      {
+        "label": "SME được nhắm đến",
+        "value": "500.000",
+        "sub": "đến năm 2030 theo Quyết định 433"
+      },
+      {
+        "label": "Mức tài trợ tối đa",
+        "value": "70%",
+        "sub": "chi phí dự án đủ điều kiện"
+      }
+    ],
+    "grants": [
+      {
+        "id": "national-ai-fund",
+        "name": "Quỹ Phát triển AI Quốc gia",
+        "nameVi": "Quỹ Phát triển AI Quốc gia",
+        "badge": "CHƯƠNG TRÌNH TRỌNG ĐIỂM",
+        "badgeColor": "#DA251D",
+        "amount": "Đến 70% chi phí dự án",
+        "totalFund": "30 nghìn tỷ VND (~1,18 tỷ USD)",
+        "authority": "Bộ Khoa học và Công nghệ (BKHCN)",
+        "decree": "Dự thảo nghị định đang hoàn thiện — 2025",
+        "timeline": "Mở đơn đăng ký Q3 2025",
+        "eligibility": [
+          "Doanh nghiệp đăng ký tại Việt Nam",
+          "Tối thiểu 2 năm hoạt động",
+          "Doanh thu hàng năm dưới 300 tỷ đồng (ngưỡng SME)",
+          "Dự án liên quan đến triển khai AI, tự động hóa hoặc tái thiết quy trình kỹ thuật số",
+          "Giá trị dự án tối thiểu 500 triệu đồng"
+        ],
+        "covered": [
+          "Cấp phép và triển khai phần mềm AI",
+          "Tư vấn phân tích và tái thiết quy trình",
+          "Đào tạo và nâng cao năng lực đội ngũ",
+          "Tích hợp với các hệ thống hiện có",
+          "Hỗ trợ sau triển khai (đến 12 tháng)"
+        ],
+        "process": [
+          "Nộp đánh giá mức độ sẵn sàng kỹ thuật số",
+          "Chuẩn bị đề xuất dự án với dự báo ROI",
+          "Thẩm định kỹ thuật của BKHCN (30-45 ngày)",
+          "Phê duyệt và lịch giải ngân",
+          "Báo cáo hàng quý về kết quả"
+        ],
+        "note": "Fetch hỗ trợ toàn bộ quy trình đăng ký như một phần trong hợp đồng của chúng tôi. Hầu hết khách hàng đủ điều kiện trong cuộc gọi chiến lược đầu tiên."
+      },
+      {
+        "id": "sme-digital",
+        "name": "Chương trình Chuyển đổi Số cho DNNVV",
+        "nameVi": "Chương trình Chuyển đổi Số cho DNNVV",
+        "badge": "CHƯƠNG TRÌNH SME",
+        "badgeColor": "#17264E",
+        "amount": "Tư vấn miễn phí + hỗ trợ triển khai",
+        "totalFund": "500.000 SME được nhắm đến đến năm 2030",
+        "authority": "Bộ Kế hoạch và Đầu tư (BKHĐT)",
+        "decree": "Quyết định 433/QĐ-TTg (Kế hoạch 2026-2030)",
+        "timeline": "Đơn đăng ký liên tục — đang mở",
+        "eligibility": [
+          "SME đăng ký tại Việt Nam",
+          "Ít hơn 300 nhân viên HOẶC doanh thu dưới 300 tỷ đồng",
+          "Chưa nhận hỗ trợ chuyển đổi số tương đương trước đây",
+          "Sẵn sàng tham gia báo cáo kết quả"
+        ],
+        "covered": [
+          "Đánh giá mức độ sẵn sàng kỹ thuật số miễn phí (trị giá 50-100 triệu đồng)",
+          "Tư vấn AI và lập bản đồ quy trình",
+          "Triển khai phần mềm được trợ cấp",
+          "Các buổi đào tạo đội ngũ",
+          "Tiếp cận nền tảng chuyển đổi số quốc gia"
+        ],
+        "process": [
+          "Đăng ký trên cổng thông tin SME quốc gia",
+          "Hoàn thành bảng câu hỏi mức độ sẵn sàng kỹ thuật số",
+          "Được phân công cho đối tác tư vấn được phê duyệt",
+          "Triển khai trong 3-6 tháng",
+          "Báo cáo kết quả tại 6 và 12 tháng"
+        ],
+        "note": "Fetch là đối tác tư vấn được phê duyệt theo chương trình này. Chúng tôi có thể đăng ký trực tiếp cho bạn và bắt đầu đánh giá như một phần trong quá trình giới thiệu."
+      },
+      {
+        "id": "tax-incentive",
+        "name": "Ưu đãi Thuế Đầu tư Công nghệ",
+        "nameVi": "Ưu đãi thuế đầu tư công nghệ",
+        "badge": "ƯU ĐÃI THUẾ",
+        "badgeColor": "#FFBE16",
+        "badgeTextColor": "#091738",
+        "amount": "Giảm hoặc miễn thuế TNDN",
+        "totalFund": "Nghị định 20/2026",
+        "authority": "Bộ Tài chính (BTC)",
+        "decree": "Nghị định 20/2026 — có hiệu lực từ tháng 1/2026",
+        "timeline": "Áp dụng cho năm tài chính 2026 trở đi",
+        "eligibility": [
+          "SME đầu tư vào công nghệ hoặc đổi mới AI",
+          "Đầu tư được ghi chép và có thể kiểm toán",
+          "Nộp qua tờ khai thuế TNDN tiêu chuẩn",
+          "Dự án phù hợp với ưu tiên chuyển đổi số quốc gia"
+        ],
+        "covered": [
+          "Miễn thuế TNDN hoàn toàn trong 2 năm đầu đầu tư đủ điều kiện",
+          "Giảm 50% thuế TNDN trong 4 năm tiếp theo",
+          "Khấu hao nhanh tài sản công nghệ",
+          "Khấu trừ chi phí R&D ở mức 150% chi phí thực tế"
+        ],
+        "process": [
+          "Ghi chép đầu tư công nghệ bằng hóa đơn và hợp đồng",
+          "Phân loại đầu tư theo các danh mục đủ điều kiện",
+          "Nộp tờ khai thuế TNDN kèm các phụ lục hỗ trợ",
+          "Thẩm định và xác nhận của BTC",
+          "Ưu đãi áp dụng cho năm thuế hiện tại và tương lai"
+        ],
+        "note": "Chúng tôi làm việc với kế toán hoặc cố vấn thuế của bạn để đảm bảo tất cả chi phí chuyển đổi AI được phân loại đúng để tối đa hóa lợi ích thuế của bạn."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Công ty có vốn nước ngoài hoạt động tại Việt Nam có thể tiếp cận các khoản hỗ trợ này không?",
+        "a": "Có — các doanh nghiệp có vốn đầu tư nước ngoài (FIE) đăng ký tại Việt Nam đủ điều kiện cho hầu hết các chương trình, bao gồm Chương trình Chuyển đổi Số cho SME và ưu đãi thuế. Quỹ AI Quốc gia có một số yêu cầu bổ sung đối với FIE; chúng tôi đánh giá điều này theo từng trường hợp cụ thể."
+      },
+      {
+        "q": "Quy trình đăng ký hỗ trợ mất bao lâu?",
+        "a": "Chương trình Chuyển đổi Số cho SME có thể được khởi động trong 1-2 tuần. Thẩm định Quỹ AI Quốc gia mất 30-45 ngày từ khi nộp hồ sơ. Ưu đãi thuế được áp dụng khi nộp tờ khai cuối năm. Chúng tôi xử lý giấy tờ — bạn tập trung vào việc điều hành doanh nghiệp."
+      },
+      {
+        "q": "Chúng tôi có cần đăng ký hỗ trợ trước khi bắt đầu chuyển đổi AI không?",
+        "a": "Đối với Quỹ AI Quốc gia, có — phê duyệt phải có trước khi chi tiêu. Đối với chương trình SME và ưu đãi thuế, chi phí thường có thể được tính ngược từ đầu năm tài chính. Chúng tôi tư vấn về thời điểm trong cuộc gọi chiến lược."
+      },
+      {
+        "q": "Nếu chúng tôi không đủ điều kiện cho bất kỳ khoản hỗ trợ nào thì sao?",
+        "a": "Sprint AI 30 ngày của chúng tôi thường mang lại ROI trong tháng đầu tiên bất kể có hỗ trợ hay không. Các khoản hỗ trợ giảm chi phí của bạn, nhưng trường hợp kinh doanh vẫn đứng vững mà không có chúng. Chúng tôi sẽ nói thẳng thắn trong cuộc gọi đầu tiên."
+      },
+      {
+        "q": "Fetch có tính thêm phí cho hỗ trợ đăng ký hỗ trợ không?",
+        "a": "Không. Hỗ trợ đăng ký hỗ trợ được bao gồm trong tất cả các hợp đồng của chúng tôi mà không tính thêm phí. Chúng tôi đã làm điều này đủ nhiều lần để nó trở thành một phần trong quy trình tiêu chuẩn của chúng tôi."
+      }
+    ]
+  },
+  "aiSprint": {
+    "heroBadge": "Điểm khởi đầu phổ biến nhất",
+    "heroTitle": "Sprint AI 30 ngày",
+    "heroDesc": "Từ ý định đến hành động trong 30 ngày. Một hợp đồng có cấu trúc lập bản đồ quy trình, xác định cơ hội AI, triển khai 1-2 quy trình được thiết kế lại và cung cấp lộ trình áp dụng AI hoàn chỉnh.",
+    "heroCtaBtn": "Bắt đầu Sprint của bạn",
+    "heroSecondaryBtn": "Xem cách hoạt động",
+    "stats": [
+      {
+        "value": "30",
+        "unit": "ngày",
+        "label": "Thời gian hợp đồng cố định"
+      },
+      {
+        "value": "1-2",
+        "unit": "quy trình",
+        "label": "Được triển khai và vận hành"
+      },
+      {
+        "value": "6+",
+        "unit": "sản phẩm",
+        "label": "Bao gồm trong mỗi sprint"
+      },
+      {
+        "value": "2 tuần",
+        "unit": "để bắt đầu",
+        "label": "Thời gian khởi động điển hình"
+      }
+    ],
+    "forLabel": "Dành cho ai",
+    "forTitle": "Sprint được thiết kế cho các doanh nghiệp ở một thời điểm cụ thể",
+    "forList": [
+      "Bạn biết AI quan trọng nhưng không biết bắt đầu từ đâu",
+      "Bạn đã khám phá AI trong nhiều tháng mà không có tiến triển cụ thể",
+      "Bạn có những điểm đau trong vận hành có vẻ như là cơ hội AI",
+      "Bạn muốn chứng minh giá trị AI trước khi cam kết với hợp đồng lớn hơn",
+      "Đội ngũ của bạn đang bận rộn và bạn cần hỗ trợ thực thi từ bên ngoài",
+      "Bạn muốn một cách tiếp cận có cấu trúc, không phải thử nghiệm ngẫu nhiên"
+    ],
+    "notForLabel": "Sprint KHÔNG dành cho",
+    "notForList": [
+      "Doanh nghiệp tìm kiếm báo cáo chiến lược mà không có triển khai",
+      "Công ty muốn xây dựng công cụ AI từ đầu",
+      "Tổ chức chưa sẵn sàng cam kết thời gian của đội ngũ nội bộ",
+      "Doanh nghiệp không có quy trình vận hành để thiết kế lại"
+    ],
+    "howLabel": "Cách hoạt động",
+    "howTitle": "Từng tuần: những gì xảy ra trong một Sprint",
+    "deliverableLabel": "Sản phẩm bàn giao",
+    "whatYouGetLabel": "Bạn nhận được gì",
+    "whatYouGetTitle": "Mỗi Sprint bao gồm sáu sản phẩm bàn giao này",
+    "ctaTitle": "Sẵn sàng bắt đầu Sprint 30 ngày của bạn?",
+    "ctaDesc": "Đặt lịch tư vấn chiến lược để thảo luận về tình huống của bạn. Chúng tôi sẽ xác nhận liệu Sprint có phải là điểm khởi đầu phù hợp và hướng dẫn bạn chính xác những gì cần mong đợi.",
+    "ctaBtn": "Đặt lịch tư vấn chiến lược",
+    "ctaSecondary": "Xem tất cả giải pháp",
+    "weeks": [
+      {
+        "week": "Tuần 1",
+        "title": "Khám phá và Lập bản đồ Quy trình",
+        "desc": "Nhóm làm việc cùng đội ngũ của bạn. Chúng tôi lập bản đồ quy trình hiện tại, phỏng vấn các bên liên quan chính và xác định mọi điểm tiếp xúc thủ công là ứng viên cho AI.",
+        "activities": [
+          "Hội thảo khởi động với lãnh đạo và đội ngũ vận hành",
+          "Ghi chép quy trình trên các đơn vị kinh doanh mục tiêu",
+          "Phỏng vấn các bên liên quan trong vận hành và quản lý",
+          "Hoàn thành bản đồ quy trình hiện trạng",
+          "Xác định cơ hội AI ban đầu"
+        ],
+        "deliverable": "Bản đồ quy trình hiện trạng + danh sách cơ hội AI ban đầu"
+      },
+      {
+        "week": "Tuần 2",
+        "title": "Đánh giá Cơ hội AI",
+        "desc": "Chúng tôi phân tích các quy trình đã lập bản đồ theo khung cơ hội AI có cấu trúc, chấm điểm từng cơ hội theo tác động, tính khả thi và tốc độ triển khai.",
+        "activities": [
+          "Chấm điểm cơ hội AI trên tất cả các điểm tiếp xúc đã xác định",
+          "Đánh giá cảnh quan công cụ cho quy trình cụ thể của bạn",
+          "Đánh giá mức độ sẵn sàng AI của đội ngũ",
+          "Xem xét hạ tầng dữ liệu và hệ thống",
+          "Hội thảo ưu tiên với lãnh đạo"
+        ],
+        "deliverable": "Ma trận Cơ hội AI với các khuyến nghị được ưu tiên"
+      },
+      {
+        "week": "Tuần 3-4",
+        "title": "Tái thiết Quy trình và Triển khai",
+        "desc": "Chúng tôi thiết kế lại 1-2 quy trình ưu tiên để tích hợp AI và triển khai các công cụ được khuyến nghị. Đội ngũ của bạn được đào tạo song song với triển khai.",
+        "activities": [
+          "Thiết kế quy trình tương lai cho 1-2 quy trình ưu tiên",
+          "Cấu hình và tích hợp công cụ AI",
+          "Chương trình đào tạo đội ngũ song song (3-4 buổi)",
+          "Đưa vào hoạt động trên các quy trình được thiết kế lại",
+          "Hỗ trợ ổn định và giải quyết vấn đề"
+        ],
+        "deliverable": "Quy trình AI được triển khai + đội ngũ được đào tạo"
+      },
+      {
+        "week": "Cuối Sprint",
+        "title": "Lộ trình và Bàn giao",
+        "desc": "Chúng tôi cung cấp lộ trình áp dụng AI hoàn chỉnh cho 6-12 tháng tới, với các ưu tiên rõ ràng, yêu cầu nguồn lực và kết quả mong đợi.",
+        "activities": [
+          "Đo lường tác động ROI trên các quy trình đã triển khai",
+          "Lộ trình áp dụng AI đầy đủ 6-12 tháng",
+          "Khuyến nghị công cụ và nhà cung cấp cho các giai đoạn tương lai",
+          "Đánh giá năng lực đội ngũ và kế hoạch nâng cao kỹ năng",
+          "Tài liệu bàn giao và chuyển giao kiến thức"
+        ],
+        "deliverable": "Lộ trình Áp dụng AI + Tóm tắt Tác động ROI"
+      }
+    ],
+    "deliverables": [
+      {
+        "title": "Báo cáo Đánh giá Quy trình",
+        "desc": "Ghi chép đầy đủ về quy trình hiện trạng của bạn với phân tích điểm tắc nghẽn."
+      },
+      {
+        "title": "Ma trận Cơ hội AI",
+        "desc": "Danh sách các cơ hội AI được chấm điểm và ưu tiên trên toàn bộ hoạt động của bạn."
+      },
+      {
+        "title": "Quy trình AI được Triển khai",
+        "desc": "1-2 quy trình được thiết kế lại với các công cụ AI được tích hợp và vận hành."
+      },
+      {
+        "title": "Đội ngũ được Đào tạo",
+        "desc": "Đội ngũ của bạn được đào tạo và tự tin sử dụng các quy trình hỗ trợ AI mới."
+      },
+      {
+        "title": "Lộ trình Áp dụng AI",
+        "desc": "Lộ trình 6-12 tháng để tiếp tục áp dụng AI trên toàn tổ chức."
+      },
+      {
+        "title": "Tóm tắt Tác động ROI",
+        "desc": "Kết quả đo lường từ các quy trình đã triển khai với tác động tương lai dự kiến."
+      }
+    ]
+  },
+  "terms": {
+    "legalLabel": "Pháp lý",
+    "title": "Điều khoản Dịch vụ",
+    "effectiveDate": "Ngày có hiệu lực: 1 tháng 4 năm 2025 · Fetch Technology Vietnam",
+    "intro": "Các Điều khoản Dịch vụ này điều chỉnh việc bạn sử dụng trang web Fetch Technology và hợp đồng của bạn với Fetch Technology Pte. Ltd. để sử dụng dịch vụ. Vui lòng đọc kỹ. Nếu bạn có câu hỏi, hãy liên hệ với chúng tôi tại legal@fetch.tech trước khi tiếp tục.",
+    "sections": [
+      {
+        "title": "1. Chấp nhận điều khoản",
+        "content": "Bằng cách truy cập hoặc sử dụng trang web Fetch Technology (fetch.tech) hoặc hợp đồng với Fetch Technology Pte. Ltd. (\"Fetch\", \"chúng tôi\") để sử dụng dịch vụ, bạn đồng ý bị ràng buộc bởi các Điều khoản Dịch vụ này (\"Điều khoản\"). Nếu bạn không đồng ý với các Điều khoản này, vui lòng không sử dụng trang web hoặc dịch vụ của chúng tôi.\n\nCác Điều khoản này áp dụng cho tất cả khách truy cập, người dùng và khách hàng. Chúng nên được đọc cùng với Chính sách Bảo mật của chúng tôi, được kết hợp bằng cách tham chiếu."
+      },
+      {
+        "title": "2. Dịch vụ",
+        "content": "Fetch Technology cung cấp dịch vụ chuyển đổi AI và triển khai quy trình cho các doanh nghiệp, bao gồm nhưng không giới hạn:\n\n— Lập bản đồ quy trình và đánh giá cơ hội AI\n— Lựa chọn, cấu hình và triển khai công cụ AI\n— Chương trình đào tạo và nâng cao năng lực đội ngũ\n— Hỗ trợ và tối ưu hóa liên tục\n— Sprint AI 30 ngày và các hợp đồng đóng gói khác\n\nPhạm vi cụ thể, sản phẩm bàn giao, thời gian và phí cho bất kỳ hợp đồng nào được quy định trong Phạm vi Công việc hoặc Thỏa thuận Dịch vụ riêng biệt được ký bởi cả hai bên. Các Điều khoản này điều chỉnh mối quan hệ chung giữa Fetch và khách hàng cũng như người dùng trang web."
+      },
+      {
+        "title": "3. Sử dụng trang web",
+        "content": "Bạn chỉ có thể sử dụng trang web của chúng tôi cho các mục đích hợp pháp. Bạn đồng ý không:\n\n— Sử dụng trang web theo bất kỳ cách nào vi phạm luật pháp hoặc quy định hiện hành\n— Cố gắng truy cập trái phép vào bất kỳ phần nào của trang web hoặc các hệ thống cơ bản của nó\n— Truyền bất kỳ quảng cáo hoặc tài liệu quảng bá không được yêu cầu hoặc không được phép nào\n— Đưa vào bất kỳ mã độc hại, vi-rút hoặc tài liệu có hại nào khác\n— Cào, sao chép hoặc tái tạo nội dung trang web mà không có sự đồng ý bằng văn bản trước của chúng tôi\n— Sử dụng trang web để mạo danh bất kỳ người hoặc tổ chức nào\n\nChúng tôi bảo lưu quyền hạn chế hoặc chấm dứt quyền truy cập vào trang web đối với bất kỳ người dùng nào vi phạm các Điều khoản này."
+      },
+      {
+        "title": "4. Sở hữu trí tuệ",
+        "content": "Tất cả nội dung trên trang web này — bao gồm văn bản, đồ họa, logo, hình ảnh và phần mềm — là tài sản của Fetch Technology Vietnam hoặc các nhà cung cấp nội dung của nó và được bảo vệ bởi luật sở hữu trí tuệ hiện hành.\n\nBạn có thể xem và in các trang từ trang web để sử dụng cá nhân, phi thương mại. Bạn không được tái tạo, phân phối, sửa đổi, tạo ra các tác phẩm phái sinh từ hoặc khai thác thương mại bất kỳ nội dung nào từ trang web này mà không có sự đồng ý bằng văn bản trước của chúng tôi.\n\nBất kỳ phương pháp luận, khung làm việc, công cụ, mẫu hoặc quy trình nào được Fetch phát triển trong quá trình cung cấp dịch vụ vẫn là tài sản trí tuệ của Fetch, trừ khi có thỏa thuận khác bằng văn bản. Khách hàng nhận được giấy phép sử dụng các sản phẩm bàn giao cho mục đích kinh doanh nội bộ của họ."
+      },
+      {
+        "title": "5. Hợp đồng khách hàng",
+        "content": "Khi bạn hợp đồng Fetch để sử dụng dịch vụ, các điều khoản chung sau đây áp dụng trừ khi được thay thế bởi Thỏa thuận Dịch vụ đã ký:\n\n— **Thanh toán:** Phí được quy định trong Phạm vi Công việc liên quan. Hóa đơn phải được thanh toán trong vòng 14 ngày kể từ ngày phát hành trừ khi có thỏa thuận khác.\n— **Bảo mật:** Cả hai bên đồng ý giữ bí mật bất kỳ thông tin độc quyền nào được tiết lộ trong quá trình hợp đồng. Nghĩa vụ này tồn tại sau khi chấm dứt hợp đồng.\n— **Trách nhiệm của khách hàng:** Khách hàng chịu trách nhiệm cung cấp quyền truy cập kịp thời vào các hệ thống, dữ liệu và nhân sự liên quan. Sự chậm trễ do khách hàng gây ra có thể ảnh hưởng đến thời gian và sản phẩm bàn giao.\n— **Bảo đảm:** Fetch bảo đảm rằng dịch vụ sẽ được thực hiện với kỹ năng và sự chăm sóc hợp lý. Chúng tôi không bảo đảm kết quả kinh doanh cụ thể, vì những điều này phụ thuộc vào các yếu tố ngoài tầm kiểm soát của chúng tôi bao gồm việc áp dụng của đội ngũ khách hàng và thay đổi tổ chức.\n— **Chấm dứt:** Một trong hai bên có thể chấm dứt hợp đồng với thông báo bằng văn bản 14 ngày. Phí cho công việc đã hoàn thành đến ngày chấm dứt vẫn phải thanh toán."
+      },
+      {
+        "title": "6. Giới hạn trách nhiệm",
+        "content": "Trong phạm vi tối đa được pháp luật hiện hành cho phép:\n\n— Tổng trách nhiệm của Fetch với bạn đối với bất kỳ khiếu nại nào phát sinh từ hoặc liên quan đến các Điều khoản này hoặc dịch vụ của chúng tôi sẽ không vượt quá tổng phí bạn đã trả cho Fetch trong ba tháng trước khiếu nại.\n— Fetch sẽ không chịu trách nhiệm về bất kỳ thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, hậu quả hoặc trừng phạt nào, bao gồm mất lợi nhuận, mất dữ liệu hoặc mất cơ hội kinh doanh, ngay cả khi chúng tôi đã được thông báo về khả năng xảy ra những thiệt hại đó.\n— Không có gì trong các Điều khoản này giới hạn hoặc loại trừ trách nhiệm về tử vong hoặc thương tích cá nhân do sơ suất, gian lận hoặc bất kỳ trách nhiệm nào khác không thể loại trừ theo luật pháp."
+      },
+      {
+        "title": "7. Bồi thường",
+        "content": "Bạn đồng ý bồi thường và giữ vô hại Fetch Technology Vietnam và các giám đốc, nhân viên và đại lý của nó khỏi và chống lại bất kỳ khiếu nại, trách nhiệm, thiệt hại, tổn thất và chi phí nào (bao gồm phí pháp lý hợp lý) phát sinh từ hoặc liên quan đến:\n\n— Việc bạn sử dụng trang web hoặc dịch vụ của chúng tôi vi phạm các Điều khoản này\n— Việc bạn vi phạm bất kỳ luật pháp hoặc quy định hiện hành nào\n— Bất kỳ nội dung hoặc thông tin nào bạn cung cấp cho chúng tôi không chính xác, gây hiểu lầm hoặc xâm phạm quyền của bên thứ ba"
+      },
+      {
+        "title": "8. Liên kết và công cụ của bên thứ ba",
+        "content": "Trang web của chúng tôi có thể chứa các liên kết đến trang web của bên thứ ba hoặc tham chiếu đến các công cụ và dịch vụ của bên thứ ba. Các liên kết này chỉ được cung cấp để thuận tiện cho bạn. Chúng tôi không xác nhận, kiểm soát hoặc chịu trách nhiệm về nội dung, thực hành bảo mật hoặc điều khoản của bất kỳ trang web hoặc dịch vụ của bên thứ ba nào.\n\nTrong quá trình cung cấp dịch vụ, chúng tôi có thể đề xuất hoặc triển khai các công cụ và phần mềm AI của bên thứ ba. Việc sử dụng các công cụ đó phụ thuộc vào các điều khoản và điều kiện của các nhà cung cấp bên thứ ba tương ứng. Fetch không chịu trách nhiệm về hiệu suất, tính khả dụng hoặc điều khoản của các công cụ bên thứ ba."
+      },
+      {
+        "title": "9. Tuyên bố miễn trừ trách nhiệm",
+        "content": "Trang web của chúng tôi và nội dung của nó được cung cấp trên cơ sở \"nguyên trạng\" và \"khi có sẵn\" mà không có bất kỳ bảo đảm nào dưới bất kỳ hình thức nào, dù rõ ràng hay ngụ ý, bao gồm nhưng không giới hạn đối với bảo đảm về khả năng bán được, phù hợp cho một mục đích cụ thể hoặc không vi phạm.\n\nChúng tôi không bảo đảm rằng trang web sẽ không bị gián đoạn, không có lỗi hoặc không có vi-rút hoặc các thành phần có hại khác. Chúng tôi bảo lưu quyền sửa đổi, tạm ngừng hoặc ngừng trang web bất kỳ lúc nào mà không cần thông báo."
+      },
+      {
+        "title": "10. Luật điều chỉnh và giải quyết tranh chấp",
+        "content": "Các Điều khoản này được điều chỉnh và giải thích theo luật pháp Việt Nam, không xét đến các quy định xung đột pháp luật của nó.\n\nBất kỳ tranh chấp nào phát sinh từ hoặc liên quan đến các Điều khoản này, bao gồm bất kỳ câu hỏi nào liên quan đến sự tồn tại, hiệu lực hoặc chấm dứt của chúng, trước tiên sẽ được đưa ra hòa giải theo luật pháp Việt Nam. Nếu tranh chấp không được giải quyết thông qua hòa giải trong vòng 60 ngày, nó sẽ được đưa ra và giải quyết cuối cùng bởi các tòa án có thẩm quyền của Việt Nam."
+      },
+      {
+        "title": "11. Thay đổi các điều khoản này",
+        "content": "Chúng tôi bảo lưu quyền cập nhật các Điều khoản này bất kỳ lúc nào. Chúng tôi sẽ đăng các Điều khoản đã sửa đổi trên trang này với ngày có hiệu lực được cập nhật. Việc bạn tiếp tục sử dụng trang web hoặc dịch vụ của chúng tôi sau bất kỳ thay đổi nào cấu thành sự chấp nhận của bạn đối với các Điều khoản đã sửa đổi.\n\nĐối với các thay đổi quan trọng ảnh hưởng đến các hợp đồng khách hàng đang diễn ra, chúng tôi sẽ cung cấp thông báo hợp lý."
+      },
+      {
+        "title": "12. Liên hệ",
+        "content": "Nếu bạn có bất kỳ câu hỏi nào về các Điều khoản này, vui lòng liên hệ với chúng tôi:\n\n**Fetch Technology Vietnam**\nEmail: legal@fetch.tech\nThành phố Hồ Chí Minh, Việt Nam"
+      }
+    ]
+  },
+  "privacy": {
+    "legalLabel": "Pháp lý",
+    "title": "Chính sách Bảo mật",
+    "effectiveDate": "Ngày có hiệu lực: 1 tháng 4 năm 2025 · Fetch Technology Vietnam",
+    "intro": "Fetch Technology Vietnam cam kết bảo vệ dữ liệu cá nhân của bạn. Chính sách này mô tả dữ liệu chúng tôi thu thập, lý do chúng tôi thu thập và cách chúng tôi sử dụng và bảo vệ dữ liệu đó — bằng ngôn ngữ đơn giản, không có biệt ngữ pháp lý không cần thiết.",
+    "sections": [
+      {
+        "title": "1. Chúng tôi là ai",
+        "content": "Fetch Technology Pte. Ltd. (\"Fetch\", \"chúng tôi\") là công ty được thành lập tại Singapore. Chúng tôi cung cấp dịch vụ chuyển đổi AI và triển khai quy trình cho các doanh nghiệp. Địa chỉ đăng ký của chúng tôi ở Singapore.\n\nChính sách Bảo mật này giải thích cách chúng tôi thu thập, sử dụng, tiết lộ và bảo vệ dữ liệu cá nhân khi bạn truy cập trang web của chúng tôi (fetch.tech), hỏi về dịch vụ của chúng tôi hoặc hợp đồng với chúng tôi với tư cách là khách hàng."
+      },
+      {
+        "title": "2. Dữ liệu cá nhân chúng tôi thu thập",
+        "content": "Chúng tôi thu thập dữ liệu cá nhân mà bạn cung cấp trực tiếp cho chúng tôi và dữ liệu được thu thập tự động khi bạn sử dụng trang web của chúng tôi.\n\n**Dữ liệu bạn cung cấp trực tiếp:**\n— Tên, chức danh công việc và tên công ty khi bạn gửi yêu cầu hoặc đặt lịch gọi\n— Địa chỉ email và số điện thoại khi bạn liên hệ với chúng tôi\n— Thông tin bạn chia sẻ trong các cuộc gọi khám phá, phiên chiến lược hoặc hợp đồng khách hàng\n— Bất kỳ thông tin nào khác bạn chọn cung cấp trong thư từ với chúng tôi\n\n**Dữ liệu được thu thập tự động:**\n— Địa chỉ IP và vị trí gần đúng\n— Loại trình duyệt, hệ điều hành và thông tin thiết bị\n— Các trang đã truy cập, thời gian dành cho các trang và URL giới thiệu\n— Dữ liệu phân tích ẩn danh được thu thập qua nhà cung cấp phân tích trang web của chúng tôi"
+      },
+      {
+        "title": "3. Cách chúng tôi sử dụng dữ liệu cá nhân của bạn",
+        "content": "Chúng tôi sử dụng dữ liệu cá nhân của bạn cho các mục đích sau:\n\n— Để trả lời yêu cầu của bạn và lên lịch các cuộc gọi hoặc cuộc họp\n— Để cung cấp dịch vụ của chúng tôi cho bạn với tư cách là khách hàng\n— Để gửi cho bạn thông tin về dịch vụ của chúng tôi mà bạn đã yêu cầu\n— Để cải thiện trang web của chúng tôi và hiểu cách khách truy cập sử dụng nó\n— Để tuân thủ các nghĩa vụ pháp lý và quy định của chúng tôi\n— Để bảo vệ lợi ích kinh doanh hợp pháp của chúng tôi\n\nChúng tôi không bán dữ liệu cá nhân của bạn cho bên thứ ba. Chúng tôi không sử dụng dữ liệu cá nhân của bạn cho việc ra quyết định tự động hoặc lập hồ sơ."
+      },
+      {
+        "title": "4. Cơ sở pháp lý để xử lý",
+        "content": "Chúng tôi xử lý dữ liệu cá nhân của bạn trên các cơ sở pháp lý sau theo Luật An ninh mạng Việt Nam 2018, Nghị định 13/2023/NĐ-CP về Bảo vệ Dữ liệu Cá nhân và, khi áp dụng, Quy định Bảo vệ Dữ liệu Chung của EU (GDPR):\n\n— **Đồng ý:** Khi bạn đã cho chúng tôi sự đồng ý rõ ràng để xử lý dữ liệu của bạn (ví dụ: bằng cách gửi biểu mẫu yêu cầu)\n— **Sự cần thiết hợp đồng:** Khi việc xử lý là cần thiết để thực hiện hợp đồng với bạn hoặc thực hiện các bước theo yêu cầu của bạn trước khi ký kết hợp đồng\n— **Lợi ích hợp pháp:** Khi việc xử lý là cần thiết cho lợi ích kinh doanh hợp pháp của chúng tôi, miễn là những lợi ích đó không bị ghi đè bởi quyền của bạn\n— **Nghĩa vụ pháp lý:** Khi chúng tôi được yêu cầu xử lý dữ liệu của bạn để tuân thủ luật pháp hiện hành"
+      },
+      {
+        "title": "5. Cách chúng tôi chia sẻ dữ liệu cá nhân của bạn",
+        "content": "Chúng tôi có thể chia sẻ dữ liệu cá nhân của bạn với các danh mục bên thứ ba sau:\n\n— **Nhà cung cấp dịch vụ:** Các nhà cung cấp bên thứ ba giúp chúng tôi vận hành trang web và cung cấp dịch vụ của chúng tôi (ví dụ: nhà cung cấp lưu trữ đám mây, nền tảng email, công cụ lên lịch). Các nhà cung cấp này bị ràng buộc theo hợp đồng để chỉ xử lý dữ liệu của bạn theo hướng dẫn của chúng tôi.\n— **Cố vấn chuyên nghiệp:** Luật sư, kế toán và kiểm toán viên khi cần thiết cho các nghĩa vụ pháp lý và tuân thủ của chúng tôi.\n— **Cơ quan quản lý:** Cơ quan chính phủ, cơ quan thực thi pháp luật hoặc tòa án khi chúng tôi được yêu cầu tiết lộ thông tin theo luật pháp.\n\nChúng tôi không chia sẻ dữ liệu cá nhân của bạn với bất kỳ bên thứ ba nào khác mà không có sự đồng ý rõ ràng của bạn."
+      },
+      {
+        "title": "6. Lưu giữ dữ liệu",
+        "content": "Chúng tôi lưu giữ dữ liệu cá nhân của bạn miễn là cần thiết để thực hiện các mục đích mà nó được thu thập, bao gồm để đáp ứng bất kỳ yêu cầu pháp lý, kế toán hoặc báo cáo nào.\n\n— Dữ liệu yêu cầu và liên hệ: đến 2 năm kể từ ngày liên hệ cuối cùng\n— Dữ liệu hợp đồng khách hàng: đến 5 năm kể từ khi kết thúc hợp đồng, theo yêu cầu lưu giữ hồ sơ kinh doanh của Việt Nam\n— Dữ liệu phân tích trang web: đến 13 tháng trên cơ sở liên tục\n\nKhi dữ liệu cá nhân không còn cần thiết, chúng tôi xóa hoặc ẩn danh hóa nó một cách an toàn."
+      },
+      {
+        "title": "7. Quyền của bạn",
+        "content": "Theo Nghị định 13/2023/NĐ-CP của Việt Nam và, khi áp dụng, GDPR, bạn có các quyền sau liên quan đến dữ liệu cá nhân của bạn:\n\n— **Truy cập:** Bạn có thể yêu cầu bản sao dữ liệu cá nhân chúng tôi lưu giữ về bạn.\n— **Sửa chữa:** Bạn có thể yêu cầu chúng tôi sửa chữa bất kỳ dữ liệu cá nhân không chính xác hoặc không đầy đủ nào.\n— **Rút lại đồng ý:** Khi việc xử lý dựa trên đồng ý, bạn có thể rút lại đồng ý của mình bất kỳ lúc nào.\n— **Xóa:** Trong một số trường hợp nhất định, bạn có thể yêu cầu chúng tôi xóa dữ liệu cá nhân của bạn.\n— **Tính di động dữ liệu:** Khi áp dụng, bạn có thể yêu cầu chúng tôi cung cấp dữ liệu của bạn ở định dạng có cấu trúc, có thể đọc bằng máy.\n\nĐể thực hiện bất kỳ quyền nào trong số này, vui lòng liên hệ với chúng tôi theo địa chỉ dưới đây. Chúng tôi sẽ trả lời trong vòng 30 ngày."
+      },
+      {
+        "title": "8. Cookie và theo dõi",
+        "content": "Trang web của chúng tôi sử dụng cookie và các công nghệ theo dõi tương tự để cải thiện trải nghiệm của bạn và thu thập dữ liệu phân tích ẩn danh. Cookie là các tệp văn bản nhỏ được lưu trữ trên thiết bị của bạn.\n\nChúng tôi sử dụng các loại cookie sau:\n— **Cookie thiết yếu:** Cần thiết để trang web hoạt động đúng. Những cookie này không thể bị vô hiệu hóa.\n— **Cookie phân tích:** Được sử dụng để hiểu cách khách truy cập tương tác với trang web của chúng tôi. Tất cả dữ liệu được thu thập là ẩn danh.\n\nBạn có thể kiểm soát cookie thông qua cài đặt trình duyệt của mình. Việc vô hiệu hóa cookie có thể ảnh hưởng đến chức năng của trang web của chúng tôi."
+      },
+      {
+        "title": "9. Bảo mật dữ liệu",
+        "content": "Chúng tôi thực hiện các biện pháp kỹ thuật và tổ chức phù hợp để bảo vệ dữ liệu cá nhân của bạn chống lại truy cập, tiết lộ, thay đổi hoặc phá hủy trái phép. Các biện pháp này bao gồm truyền dữ liệu được mã hóa (HTTPS), kiểm soát truy cập và đánh giá bảo mật thường xuyên.\n\nTuy nhiên, không có phương pháp truyền qua internet hoặc lưu trữ điện tử nào hoàn toàn an toàn. Mặc dù chúng tôi cố gắng sử dụng các phương tiện thương mại chấp nhận được để bảo vệ dữ liệu cá nhân của bạn, chúng tôi không thể đảm bảo an toàn tuyệt đối."
+      },
+      {
+        "title": "10. Chuyển giao quốc tế",
+        "content": "Hoạt động chính của chúng tôi đặt tại Việt Nam. Nếu chúng tôi chuyển dữ liệu cá nhân của bạn ra ngoài Việt Nam, chúng tôi sẽ đảm bảo rằng các biện pháp bảo vệ phù hợp được áp dụng theo yêu cầu bảo vệ dữ liệu của Việt Nam, bao gồm đảm bảo rằng quốc gia nhận cung cấp mức độ bảo vệ dữ liệu tương đương."
+      },
+      {
+        "title": "11. Thay đổi chính sách này",
+        "content": "Chúng tôi có thể cập nhật Chính sách Bảo mật này theo thời gian để phản ánh những thay đổi trong thực hành của chúng tôi hoặc luật pháp hiện hành. Chúng tôi sẽ đăng chính sách đã cập nhật trên trang này với ngày có hiệu lực đã sửa đổi. Chúng tôi khuyến khích bạn xem xét chính sách này định kỳ."
+      },
+      {
+        "title": "12. Liên hệ chúng tôi",
+        "content": "Nếu bạn có bất kỳ câu hỏi nào về Chính sách Bảo mật này, muốn thực hiện quyền của mình hoặc muốn khiếu nại, vui lòng liên hệ với chúng tôi:\n\n**Fetch Technology Vietnam**\nEmail: privacy@fetch.tech\nThành phố Hồ Chí Minh, Việt Nam\n\nNếu bạn không hài lòng với phản hồi của chúng tôi, bạn có thể liên hệ với Bộ Công an Việt Nam (Cục A05) về các vấn đề bảo vệ dữ liệu cá nhân."
+      }
+    ]
+  }
+}

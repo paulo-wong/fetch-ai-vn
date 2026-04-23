@@ -1,175 +1,10 @@
 /* =============================================================
-   FETCH TECHNOLOGY VIETNAM — Careers Page
-   Design: Kinetic Authority (Vietnam edition)
-   Palette: Navy #17264E | Dark Navy #091738 | Amber #FFBE16 | Vietnam Red #DA251D
+   FETCH TECHNOLOGY VIETNAM — Careers Page (i18n)
    ============================================================= */
 import { useState } from "react";
-import { Link } from "wouter";
+import { useTranslation } from "react-i18next";
 import Layout from "@/components/Layout";
 import { MapPin, Clock, DollarSign, ChevronDown, ChevronUp, ArrowRight, Briefcase, Users, TrendingUp } from "lucide-react";
-
-const jobs = [
-  {
-    id: 1,
-    title: "Business Analyst",
-    location: "Ho Chi Minh City",
-    locTag: "HCM",
-    type: "Full time",
-    salary: "Up to 1,500 USD",
-    tag: "New",
-    remote: false,
-    requirements: [
-      "Bachelor's degree in Game Design, Computer Science, Business Administration, or related field; Master's degree is a big plus.",
-      "1–2 years of experience as a business analyst in the software industry, with a focus on game development projects.",
-      "Strong understanding of game design principles, including 2D and 3D design concepts, animation, and visual effects.",
-      "Experience with game development tools and platforms, such as Cocos, Spine, etc.",
-      "Excellent communication and interpersonal skills, with the ability to collaborate effectively with cross-functional teams.",
-      "Passion for gaming and a creative mindset with the ability to think outside the box.",
-      "Fluency in Chinese (Mandarin) and English.",
-    ],
-  },
-  {
-    id: 2,
-    title: "Project Manager",
-    location: "Ho Chi Minh City",
-    locTag: "HCM",
-    type: "Full time",
-    salary: "Up to 2,200 USD",
-    tag: "New",
-    remote: false,
-    requirements: [
-      "Bachelor's degree in Project Management, Information System, Business Administration or a related field.",
-      "4+ years of project management experience, preferably in the gaming industry or a related creative field.",
-      "Strong understanding of project management methodologies, tools, and techniques.",
-      "Ability to identify and resolve issues efficiently and effectively.",
-      "Excellent communication, translation, and interpersonal skills to bridge multicultural teams.",
-      "Strong sense of ownership, adaptability, and ability to multitask in a dynamic work environment.",
-    ],
-  },
-  {
-    id: 3,
-    title: "Full-Stack Engineer (React.js & React Native & Node.js)",
-    location: "Remote (HN / HCM / DN)",
-    locTag: "Remote",
-    type: "Full time",
-    salary: "Up to 4,500 USD",
-    tag: "New",
-    remote: true,
-    requirements: [
-      "7+ years of professional experience in full-stack development.",
-      "Strong proficiency in React.js, React Native and Node.js with 4 years of full-time experience or equivalent.",
-      "Solid understanding of RESTful APIs and asynchronous programming.",
-      "Experience with version control systems (e.g., Git).",
-      "Familiarity with CI/CD pipelines and cloud platforms (AWS, GCP, or Azure).",
-      "Excellent problem-solving skills and attention to detail.",
-      "Strong communication and collaboration abilities.",
-      "Good English both verbal and written.",
-    ],
-  },
-  {
-    id: 4,
-    title: "Project Manager",
-    location: "Hà Nội",
-    locTag: "HN",
-    type: "Full time",
-    salary: "Up to 2,500 USD",
-    tag: "New",
-    remote: false,
-    requirements: [
-      "Bachelor's degree in Computer Science, Information Technology, or a related field.",
-      "8+ years of experience in project management, with a proven track record of successfully managing projects.",
-      "Strong understanding of project management methodologies (Agile, Scrum) and tools (Jira, Trello).",
-      "Excellent leadership, problem-solving, and decision-making skills.",
-      "Proficiency in project management software and tools.",
-      "Strong organisational skills with the ability to handle multiple projects simultaneously.",
-      "Fluency in English (both written and spoken) is required.",
-      "Experience in the blockchain industry or blockchain-related products is a big plus.",
-      "PMP or other project management certifications are a plus.",
-    ],
-  },
-  {
-    id: 5,
-    title: "UI Designer",
-    location: "Hà Nội",
-    locTag: "HN",
-    type: "Full time",
-    salary: "Up to 1,500 USD",
-    tag: "New",
-    remote: false,
-    requirements: [
-      "3+ years of interactive experience design for App and PC/Mobile, with solid visual expression and rich UI/UX experience.",
-      "Experience with animation and motion graphics.",
-      "Experience in social network, e-commerce, or game industries.",
-      "UX thinking applied to UI design, with general knowledge and personal ideas about UX.",
-      "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, After Effects), Figma, and other design software.",
-      "Experience with HTML5 is a plus.",
-      "Independent in design, with innovation ability and clear design plan expression.",
-      "Hand-drawing ability is a plus.",
-    ],
-  },
-  {
-    id: 6,
-    title: "Office Administrator",
-    location: "Hà Nội",
-    locTag: "HN",
-    type: "Full time",
-    salary: "Up to 15,000,000 VND",
-    tag: "New",
-    remote: false,
-    requirements: [
-      "2+ years of work experience as an office administrator, office assistant or relevant role.",
-      "Driven, organised, proactive and detail-oriented.",
-      "Familiarity with office management procedures.",
-      "Experience in event planning and organising.",
-      "Experience in Employer Branding and marketing.",
-      "Good command of English.",
-      "Proven experience as an office administrator in an IT company is a plus.",
-    ],
-  },
-  {
-    id: 7,
-    title: "Senior Fullstack Engineer",
-    location: "Remote (HN / HCM)",
-    locTag: "Remote",
-    type: "Full time",
-    salary: "Up to 2,800 USD",
-    tag: null,
-    remote: true,
-    requirements: [
-      "5+ years developing production-grade applications with Node.js and modern frontend frameworks (preferably Vue.js) in TypeScript.",
-      "Strong expertise in designing, implementing, and maintaining microservices architectures.",
-      "Solid hands-on experience with Kafka, gRPC, and event-driven systems.",
-      "Proficiency in MySQL, Elasticsearch, and Redis.",
-      "Familiarity with MS Azure and infrastructure orchestration tools like Kubernetes and Helm.",
-      "Deep understanding of data structures, distributed systems, and system design principles.",
-      "Excellent communication and collaboration skills, with a track record of technical leadership and mentoring engineers.",
-      "Strong adherence to Agile methodologies and software development best practices.",
-    ],
-  },
-  {
-    id: 8,
-    title: "Associate Finance Consultant",
-    location: "Ho Chi Minh City (Onsite)",
-    locTag: "HCM",
-    type: "Full time",
-    salary: "Up to 25,000,000 VND",
-    tag: null,
-    remote: false,
-    requirements: [
-      "Hold professional qualifications such as CA/CFA/CPA/ACA/ACCA.",
-      "1 to 3 years of pertinent experience.",
-      "Demonstrate fluency in Vietnamese and English (reading, writing, and speaking).",
-      "Showcase robust financial acumen, business analytical skills, and adeptness in report writing.",
-      "Display willingness to travel whenever required.",
-    ],
-  },
-];
-
-const perks = [
-  { icon: DollarSign, title: "Competitive Pay", desc: "Market-rate salaries in USD or VND, reviewed annually with performance bonuses." },
-  { icon: TrendingUp, title: "Fast Growth", desc: "Work directly with clients across Vietnam and Southeast Asia. Promotions based on merit, not tenure." },
-  { icon: Users, title: "Great Team", desc: "A small, high-trust team where your work is visible and your ideas are heard from day one." },
-];
 
 const locTagColors: Record<string, string> = {
   HCM: "bg-amber-100 text-amber-800",
@@ -177,8 +12,9 @@ const locTagColors: Record<string, string> = {
   Remote: "bg-green-100 text-green-800",
 };
 
-function JobCard({ job }: { job: typeof jobs[0] }) {
+function JobCard({ job }: { job: { id: number; titleKey: string; location: string; locTag: string; typeKey: string; salary: string; tag: string | null; remote: boolean; requirementsKeys: string[] } }) {
   const [expanded, setExpanded] = useState(false);
+  const { t } = useTranslation();
 
   return (
     <div
@@ -187,49 +23,36 @@ function JobCard({ job }: { job: typeof jobs[0] }) {
     >
       <div className="p-6 md:p-8">
         <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4">
-          {/* Left */}
           <div className="flex-1">
             <div className="flex flex-wrap items-center gap-2 mb-3">
               {job.tag && (
-                <span
-                  className="text-xs font-bold px-2 py-0.5 rounded-full text-white"
-                  style={{ backgroundColor: "#DA251D" }}
-                >
-                  {job.tag}
+                <span className="text-xs font-bold px-2 py-0.5 rounded-full text-white" style={{ backgroundColor: "#DA251D" }}>
+                  {t(`careers.${job.tag}`)}
                 </span>
               )}
               <span className={`text-xs font-semibold px-2 py-0.5 rounded-full ${locTagColors[job.locTag] ?? "bg-gray-100 text-gray-700"}`}>
                 {job.locTag}
               </span>
               {job.remote && (
-                <span className="text-xs font-semibold px-2 py-0.5 rounded-full bg-purple-100 text-purple-700">Remote</span>
+                <span className="text-xs font-semibold px-2 py-0.5 rounded-full bg-purple-100 text-purple-700">{t("careers.remote")}</span>
               )}
             </div>
-            <h3 className="font-display font-bold text-xl text-[#17264E] mb-2">{job.title}</h3>
+            <h3 className="font-display font-bold text-xl text-[#17264E] mb-2">{t(`careers.${job.titleKey}`)}</h3>
             <div className="flex flex-wrap gap-4 text-sm text-gray-500">
-              <span className="flex items-center gap-1.5">
-                <MapPin className="w-4 h-4" />
-                {job.location}
-              </span>
-              <span className="flex items-center gap-1.5">
-                <Clock className="w-4 h-4" />
-                {job.type}
-              </span>
+              <span className="flex items-center gap-1.5"><MapPin className="w-4 h-4" />{job.location}</span>
+              <span className="flex items-center gap-1.5"><Clock className="w-4 h-4" />{t(`careers.${job.typeKey}`)}</span>
               <span className="flex items-center gap-1.5 font-semibold" style={{ color: "#FFBE16" }}>
-                <DollarSign className="w-4 h-4" />
-                {job.salary}
+                <DollarSign className="w-4 h-4" />{job.salary}
               </span>
             </div>
           </div>
-
-          {/* Right */}
           <div className="flex items-center gap-3 flex-shrink-0">
             <a
-              href="mailto:careers@fetch.tech"
+              href={`mailto:careers@fetch.tech?subject=${encodeURIComponent(t(`careers.${job.titleKey}`))}`}
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl font-semibold text-sm text-[#091738] transition-opacity hover:opacity-90"
               style={{ backgroundColor: "#FFBE16" }}
             >
-              Apply Now
+              {t("careers.applyNow")}
               <ArrowRight className="w-4 h-4" />
             </a>
             <button
@@ -240,16 +63,14 @@ function JobCard({ job }: { job: typeof jobs[0] }) {
             </button>
           </div>
         </div>
-
-        {/* Expandable requirements */}
         {expanded && (
           <div className="mt-6 pt-6 border-t border-gray-100">
-            <h4 className="font-semibold text-[#17264E] mb-3 text-sm uppercase tracking-wide">Requirements</h4>
+            <h4 className="font-semibold text-[#17264E] mb-3 text-sm uppercase tracking-wide">{t("careers.requirements")}</h4>
             <ul className="space-y-2">
-              {job.requirements.map((req, i) => (
+              {job.requirementsKeys.map((req, i) => (
                 <li key={i} className="flex items-start gap-2.5 text-gray-600 text-sm leading-relaxed">
                   <span className="w-1.5 h-1.5 rounded-full mt-2 flex-shrink-0" style={{ backgroundColor: "#FFBE16" }} />
-                  {req}
+                  {t(`careers.${req}`)}
                 </li>
               ))}
             </ul>
@@ -263,104 +84,125 @@ function JobCard({ job }: { job: typeof jobs[0] }) {
 export default function Careers() {
   const [locationFilter, setLocationFilter] = useState("All");
   const [search, setSearch] = useState("");
+  const { t } = useTranslation();
+
+  const jobs = [
+    {
+      id: 1, titleKey: "job1Title", location: t("careers.job1Location"), locTag: "HCM",
+      typeKey: "fullTime", salary: "Up to 1,500 USD", tag: "tagNew", remote: false,
+      requirementsKeys: ["job1Req1","job1Req2","job1Req3","job1Req4","job1Req5","job1Req6","job1Req7"],
+    },
+    {
+      id: 2, titleKey: "job2Title", location: t("careers.job2Location"), locTag: "HCM",
+      typeKey: "fullTime", salary: "Up to 2,200 USD", tag: "tagNew", remote: false,
+      requirementsKeys: ["job2Req1","job2Req2","job2Req3","job2Req4","job2Req5","job2Req6"],
+    },
+    {
+      id: 3, titleKey: "job3Title", location: t("careers.job3Location"), locTag: "Remote",
+      typeKey: "fullTime", salary: "Up to 4,500 USD", tag: "tagNew", remote: true,
+      requirementsKeys: ["job3Req1","job3Req2","job3Req3","job3Req4","job3Req5","job3Req6"],
+    },
+    {
+      id: 4, titleKey: "job4Title", location: t("careers.job4Location"), locTag: "HN",
+      typeKey: "fullTime", salary: "Up to 800 USD", tag: "tagNew", remote: false,
+      requirementsKeys: ["job4Req1","job4Req2","job4Req3","job4Req4","job4Req5"],
+    },
+    {
+      id: 5, titleKey: "job5Title", location: t("careers.job5Location"), locTag: "HN",
+      typeKey: "fullTime", salary: "Up to 2,500 USD", tag: "tagNew", remote: false,
+      requirementsKeys: ["job5Req1","job5Req2","job5Req3","job5Req4","job5Req5","job5Req6"],
+    },
+    {
+      id: 6, titleKey: "job6Title", location: t("careers.job6Location"), locTag: "HCM",
+      typeKey: "fullTime", salary: "Up to 1,200 USD", tag: null, remote: false,
+      requirementsKeys: ["job6Req1","job6Req2","job6Req3","job6Req4","job6Req5"],
+    },
+    {
+      id: 7, titleKey: "job7Title", location: t("careers.job7Location"), locTag: "Remote",
+      typeKey: "fullTime", salary: "Up to 2,800 USD", tag: null, remote: true,
+      requirementsKeys: ["job7Req1","job7Req2","job7Req3","job7Req4","job7Req5","job7Req6","job7Req7","job7Req8"],
+    },
+    {
+      id: 8, titleKey: "job8Title", location: t("careers.job8Location"), locTag: "HCM",
+      typeKey: "fullTime", salary: "Up to 25,000,000 VND", tag: null, remote: false,
+      requirementsKeys: ["job8Req1","job8Req2","job8Req3","job8Req4","job8Req5"],
+    },
+  ];
+
+  const perks = [
+    { icon: DollarSign, titleKey: "perk1Title", descKey: "perk1Desc" },
+    { icon: TrendingUp, titleKey: "perk2Title", descKey: "perk2Desc" },
+    { icon: Users, titleKey: "perk3Title", descKey: "perk3Desc" },
+  ];
 
   const locations = ["All", "HCM", "HN", "Remote"];
 
   const filtered = jobs.filter((j) => {
     const matchLoc = locationFilter === "All" || j.locTag === locationFilter;
-    const matchSearch = search === "" || j.title.toLowerCase().includes(search.toLowerCase());
+    const matchSearch = search === "" || t(`careers.${j.titleKey}`).toLowerCase().includes(search.toLowerCase());
     return matchLoc && matchSearch;
   });
 
   return (
     <Layout>
-      {/* ── HERO ── */}
-      <section
-        className="relative pt-32 pb-20 overflow-hidden"
-        style={{ backgroundColor: "#091738" }}
-      >
-        {/* Vietnam flag stripe accent */}
+      {/* HERO */}
+      <section className="relative pt-32 pb-20 overflow-hidden" style={{ backgroundColor: "#091738" }}>
         <div className="absolute top-0 left-0 right-0 h-1" style={{ backgroundColor: "#DA251D" }} />
-        <div className="absolute inset-0 opacity-5"
-          style={{ backgroundImage: "radial-gradient(circle at 70% 50%, #FFBE16 0%, transparent 60%)" }}
-        />
-
+        <div className="absolute inset-0 opacity-5" style={{ backgroundImage: "radial-gradient(circle at 70% 50%, #FFBE16 0%, transparent 60%)" }} />
         <div className="container relative z-10">
           <div className="max-w-3xl">
             <div className="inline-flex items-center gap-2 mb-6">
               <div className="w-8 h-px" style={{ backgroundColor: "#FFBE16" }} />
-              <span className="text-xs font-bold uppercase tracking-widest" style={{ color: "#FFBE16" }}>
-                Careers at Fetch Vietnam
-              </span>
+              <span className="text-xs font-bold uppercase tracking-widest" style={{ color: "#FFBE16" }}>{t("careers.heroLabel")}</span>
             </div>
-            <h1
-              className="font-display text-white mb-6"
-              style={{ fontSize: "clamp(2.4rem, 5vw, 4rem)", fontWeight: 800, lineHeight: 1.06 }}
-            >
-              Build the future of AI adoption in Vietnam.
+            <h1 className="font-display text-white mb-6" style={{ fontSize: "clamp(2.4rem, 5vw, 4rem)", fontWeight: 800, lineHeight: 1.06 }}>
+              {t("careers.heroTitle")}
             </h1>
-            <p className="text-white/65 text-lg leading-relaxed font-body mb-8 max-w-2xl">
-              We're a small team doing high-impact work — embedding AI into real businesses across Vietnam and Southeast Asia. If you want your work to matter from day one, you're in the right place.
-            </p>
+            <p className="text-white/65 text-lg leading-relaxed font-body mb-8 max-w-2xl">{t("careers.heroDesc")}</p>
             <div className="flex flex-wrap gap-3">
-              <a
-                href="#open-roles"
-                className="inline-flex items-center gap-2 px-6 py-3 rounded-xl font-bold text-[#091738] transition-opacity hover:opacity-90"
-                style={{ backgroundColor: "#FFBE16" }}
-              >
-                See Open Roles
+              <a href="#open-roles" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl font-bold text-[#091738] transition-opacity hover:opacity-90" style={{ backgroundColor: "#FFBE16" }}>
+                {t("careers.seeRoles")}
                 <ArrowRight className="w-4 h-4" />
               </a>
-              <a
-                href="mailto:careers@fetch.tech"
-                className="inline-flex items-center gap-2 px-6 py-3 rounded-xl font-bold text-white border border-white/20 hover:border-white/40 transition-colors"
-              >
-                Send Speculative CV
+              <a href="mailto:careers@fetch.tech" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl font-bold text-white border border-white/20 hover:border-white/40 transition-colors">
+                {t("careers.speculativeCV")}
               </a>
             </div>
           </div>
         </div>
       </section>
 
-      {/* ── PERKS ── */}
+      {/* PERKS */}
       <section className="py-16 bg-white">
         <div className="container">
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {perks.map(({ icon: Icon, title, desc }) => (
-              <div key={title} className="p-6 rounded-2xl bg-gray-50 border border-gray-100">
-                <div
-                  className="w-10 h-10 rounded-xl flex items-center justify-center mb-4"
-                  style={{ backgroundColor: "#FFBE16" }}
-                >
+            {perks.map(({ icon: Icon, titleKey, descKey }) => (
+              <div key={titleKey} className="p-6 rounded-2xl bg-gray-50 border border-gray-100">
+                <div className="w-10 h-10 rounded-xl flex items-center justify-center mb-4" style={{ backgroundColor: "#FFBE16" }}>
                   <Icon className="w-5 h-5 text-[#091738]" />
                 </div>
-                <h3 className="font-display font-bold text-[#17264E] mb-2">{title}</h3>
-                <p className="text-gray-500 text-sm leading-relaxed">{desc}</p>
+                <h3 className="font-display font-bold text-[#17264E] mb-2">{t(`careers.${titleKey}`)}</h3>
+                <p className="text-gray-500 text-sm leading-relaxed">{t(`careers.${descKey}`)}</p>
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      {/* ── OPEN ROLES ── */}
+      {/* OPEN ROLES */}
       <section id="open-roles" className="py-20" style={{ backgroundColor: "#F8F9FC" }}>
         <div className="container">
           <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-6 mb-10">
             <div>
-              <div className="section-label mb-3">Open Positions</div>
-              <h2
-                className="font-display text-[#17264E]"
-                style={{ fontSize: "clamp(1.8rem, 3.5vw, 2.5rem)", fontWeight: 800 }}
-              >
-                {filtered.length} role{filtered.length !== 1 ? "s" : ""} available
+              <div className="section-label mb-3">{t("careers.openPositions")}</div>
+              <h2 className="font-display text-[#17264E]" style={{ fontSize: "clamp(1.8rem, 3.5vw, 2.5rem)", fontWeight: 800 }}>
+                {filtered.length} {t("careers.rolesTitle")}
               </h2>
             </div>
-
-            {/* Filters */}
             <div className="flex flex-wrap gap-3">
               <input
                 type="text"
-                placeholder="Search roles..."
+                placeholder={t("careers.searchPlaceholder")}
                 value={search}
                 onChange={(e) => setSearch(e.target.value)}
                 className="px-4 py-2.5 rounded-xl border border-gray-200 text-sm bg-white focus:outline-none focus:border-amber-400 w-48"
@@ -371,23 +213,20 @@ export default function Careers() {
                     key={loc}
                     onClick={() => setLocationFilter(loc)}
                     className={`px-4 py-2.5 rounded-xl text-sm font-semibold border transition-colors ${
-                      locationFilter === loc
-                        ? "text-[#091738] border-transparent"
-                        : "bg-white text-gray-500 border-gray-200 hover:border-gray-300"
+                      locationFilter === loc ? "text-[#091738] border-transparent" : "bg-white text-gray-500 border-gray-200 hover:border-gray-300"
                     }`}
                     style={locationFilter === loc ? { backgroundColor: "#FFBE16", borderColor: "#FFBE16" } : {}}
                   >
-                    {loc}
+                    {loc === "All" ? t("careers.filterAll") : loc}
                   </button>
                 ))}
               </div>
             </div>
           </div>
-
           {filtered.length === 0 ? (
             <div className="text-center py-20 text-gray-400">
               <Briefcase className="w-12 h-12 mx-auto mb-4 opacity-30" />
-              <p className="text-lg">No roles match your filter. Try a different location or search term.</p>
+              <p className="text-lg">{t("careers.noRoles")}</p>
             </div>
           ) : (
             <div className="space-y-4">
@@ -399,27 +238,25 @@ export default function Careers() {
         </div>
       </section>
 
-      {/* ── SPECULATIVE CTA ── */}
+      {/* SPECULATIVE CTA */}
       <section className="py-20" style={{ backgroundColor: "#091738" }}>
         <div className="container text-center max-w-2xl mx-auto">
           <div className="w-12 h-12 rounded-2xl flex items-center justify-center mx-auto mb-6" style={{ backgroundColor: "#DA251D" }}>
             <Briefcase className="w-6 h-6 text-white" />
           </div>
           <h2 className="font-display font-bold text-white mb-4" style={{ fontSize: "clamp(1.8rem, 3.5vw, 2.5rem)" }}>
-            Don't see the right role?
+            {t("careers.noRoleTitle")}
           </h2>
-          <p className="text-white/60 text-lg leading-relaxed mb-8">
-            We hire for attitude and aptitude. If you're sharp, driven, and want to work on AI transformation in Vietnam, send us your CV and tell us what you'd bring.
-          </p>
+          <p className="text-white/60 text-lg leading-relaxed mb-8">{t("careers.noRoleDesc")}</p>
           <a
             href="mailto:careers@fetch.tech"
             className="inline-flex items-center gap-2 px-8 py-4 rounded-xl font-bold text-[#091738] transition-opacity hover:opacity-90"
             style={{ backgroundColor: "#FFBE16" }}
           >
-            Send Speculative Application
+            {t("careers.speculativeApply")}
             <ArrowRight className="w-5 h-5" />
           </a>
-          <p className="text-white/40 text-sm mt-4">careers@fetch.tech · We read every application.</p>
+          <p className="text-white/40 text-sm mt-4">{t("careers.careersEmail")}</p>
         </div>
       </section>
     </Layout>

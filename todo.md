@@ -59,4 +59,14 @@
 - [ ] Full audit: replace S$ currency with USD where appropriate
 - [ ] Full audit: check Contact page for SG address/number
 - [ ] Full audit: check About page for SG-specific content
-- [ ] Full audit: check all other pages (Solutions, Industries, Why Fetch, Case Studies, Resources, Pods, Grants)
+  - [ ] Full audit: check all other pages (Solutions, Industries, Why Fetch, Case Studies, Resources, Pods, Grants)
+
+## i18n / Language Selector (Apr 23)
+- [ ] Install i18next and react-i18next
+- [ ] Create translation files: en.json and vi.json for all pages
+- [ ] Set Vietnamese as default language (localStorage + browser)
+- [ ] Add language selector (VI | EN) to nav header
+- [ ] Translate Layout (nav links, footer)
+- [ ] Translate Home page
+- [ ] Translate all other pages (About, Solutions, Pods, Industries, Why Fetch, Case Studies, Resources, Careers, Contact, Grants)
+- [ ] Persist language choice in localStorage
