@@ -426,7 +426,7 @@ function Footer() {
             <ul className="space-y-2.5 mb-6">
               <li>
                 <Link href="/resources">
-                  <span className="text-white/60 text-sm hover:text-white transition-colors font-body cursor-pointer">{t("resources.articles")} & {t("resources.tools")}</span>
+                  <span className="text-white/60 text-sm hover:text-white transition-colors font-body cursor-pointer">{t("resources.articlesAndTools")}</span>
                 </Link>
               </li>
               <li>

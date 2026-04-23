@@ -715,6 +715,8 @@
   },
   "resources": {
     "heroLabel": "Resources & Insights",
+    "allResources": "Resources",
+    "articlesAndTools": "Articles & Tools",
     "heroTitle": "Practical guides for AI adoption",
     "heroDesc": "No hype. No theory. Practical insights for Vietnamese enterprises navigating AI adoption, workflow redesign, and operational transformation.",
     "categories": ["All", "AI Adoption", "Workflow Redesign", "Team Upskilling", "Enterprise AI", "Operations", "Leadership"],

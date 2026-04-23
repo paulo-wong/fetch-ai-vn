@@ -1057,7 +1057,8 @@
     "heroDesc": "Bài viết, công cụ và khung làm việc từ kinh nghiệm của chúng tôi với các doanh nghiệp Việt Nam.",
     "readArticle": "Đọc bài viết",
     "downloadTool": "Tải công cụ",
-    "allResources": "Tất cả tài nguyên",
+    "allResources": "Tài nguyên",
+    "articlesAndTools": "Bài viết & Công cụ",
     "articles": [
       {
         "category": "Áp dụng AI",
