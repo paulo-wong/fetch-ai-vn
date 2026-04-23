@@ -195,17 +195,17 @@ function Navbar() {
           </nav>
 
           <div className="hidden lg:flex items-center gap-3">
-            {/* Language toggle */}
+            {/* Fetch Group hub link */}
             <a
               href="https://fetch.tech"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-1 text-xs font-medium font-body px-3 py-2 rounded-sm transition-colors"
-              style={{ color: "rgba(255,255,255,0.45)", border: "1px solid rgba(255,255,255,0.12)" }}
-              title="View Singapore site"
+              className="flex items-center gap-1.5 text-xs font-medium font-body px-3 py-2 rounded-sm transition-colors hover:border-white/25"
+              style={{ color: "rgba(255,255,255,0.5)", border: "1px solid rgba(255,255,255,0.12)" }}
+              title="Fetch Singapore — Group HQ"
             >
               <Globe className="w-3 h-3" />
-              SG
+              Fetch Singapore ↗
             </a>
             <Link href="/grants">
               <span
@@ -391,10 +391,32 @@ function Footer() {
           </div>
         </div>
 
+        {/* Part of Fetch Group callout */}
+        <div className="border-t border-white/10 pt-8 pb-8">
+          <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+            <div>
+              <div className="text-white/30 text-xs uppercase tracking-widest font-semibold mb-2 font-body">Part of the Fetch Group</div>
+              <a
+                href="https://fetch.tech"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 group"
+              >
+                <span className="text-white/60 text-sm font-semibold font-body group-hover:text-white transition-colors">Fetch Singapore</span>
+                <span className="text-white/30 text-xs font-body">Group Headquarters</span>
+                <span className="text-white/40 text-xs group-hover:text-white/70 transition-colors">fetch.tech ↗</span>
+              </a>
+            </div>
+            <div className="text-white/25 text-xs font-body text-right">
+              <div>Fetch Technology Vietnam</div>
+              <div>Ho Chi Minh City · Hà Nội</div>
+            </div>
+          </div>
+        </div>
+
         <div className="border-t border-white/10 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-white/30 text-xs font-body">
-            &copy; {new Date().getFullYear()} Fetch Technology. All rights reserved. &nbsp;·&nbsp;
-            <a href="https://fetch.tech" className="hover:text-white/60 transition-colors">Singapore site ↗</a>
+            &copy; {new Date().getFullYear()} Fetch Technology. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             <Link href="/grants"><span className="text-white/30 text-xs hover:text-white/60 transition-colors font-body cursor-pointer">AI Grants</span></Link>
