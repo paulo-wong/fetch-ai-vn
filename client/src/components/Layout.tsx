@@ -96,7 +96,7 @@ function NavDropdown({
   return (
     <div ref={ref} className="relative">
       <button
-        className="flex items-center gap-1 px-2.5 py-2 text-xs font-medium transition-colors rounded-sm font-body"
+        className="flex items-center gap-1 px-2.5 py-2 text-xs font-medium transition-colors rounded-sm font-body whitespace-nowrap"
         style={{ color: isActive ? "#FFBE16" : "rgba(255,255,255,0.7)" }}
         onClick={() => setOpen(!open)}
         onMouseEnter={() => setOpen(true)}
@@ -238,7 +238,7 @@ function Navbar() {
               return (
                 <Link key={l.href} href={l.href}>
                   <span
-                    className="px-2.5 py-2 text-xs font-medium transition-colors rounded-sm font-body cursor-pointer"
+                    className="px-2.5 py-2 text-xs font-medium transition-colors rounded-sm font-body cursor-pointer whitespace-nowrap"
                     style={{ color: location === l.href ? "#FFBE16" : "rgba(255,255,255,0.7)" }}
                   >
                     {l.label}
