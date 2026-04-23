@@ -12,6 +12,7 @@ i18n
       en: { translation: en },
       vi: { translation: vi },
     },
+    lng: 'vi',
     fallbackLng: 'vi',
     defaultNS: 'translation',
     detection: {
