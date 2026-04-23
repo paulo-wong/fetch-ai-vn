@@ -53,10 +53,10 @@
     "stat1Label": "to first deployed AI workflow",
     "stat2Value": "62",
     "stat2Suffix": "%",
-    "stat2Label": "average reduction in manual task time",
+    "stat2Label": "of costs funded by government grants",
     "stat3Value": "6",
-    "stat3Suffix": "+",
-    "stat3Label": "industries served across Vietnam",
+    "stat3Suffix": "%",
+    "stat3Label": "of Vietnamese businesses yet to adopt AI",
     "stat4Value": "94",
     "stat4Suffix": "%",
     "stat4Label": "team adoption rate at 60 days",
@@ -69,7 +69,7 @@
     "howTitle": "We're not consultants. We're an embedded execution team.",
     "step1Num": "01",
     "step1Title": "Strategy call",
-    "step1Desc": "45 minutes. We assess your workflows, identify the highest-impact AI opportunities, and tell you honestly whether we're the right fit.",
+    "step1Desc": "45 minutes. We assess your workflows, identify the highest-impact AI opportunities, and tell you honestly whether we're the right fit — and which grants you qualify for.",
     "step2Num": "02",
     "step2Title": "Workflow mapping",
     "step2Desc": "We spend the first week documenting how your operations actually work — not how you think they work. The gap is usually significant.",
@@ -84,15 +84,9 @@
     "grantsDesc": "Vietnam's National AI Development Fund and SME Digital Transformation Program provide substantial grants for businesses adopting AI. Fetch helps you identify eligible programs and structure your engagement to maximise grant coverage.",
     "grantsCTA": "Check Your Eligibility",
     "ctaTitle": "Ready to start?",
-    "ctaDesc": "We'll review your workflows, identify the two or three highest-impact AI opportunities, and tell you exactly what a Fetch engagement would look like for your business.",
+    "ctaDesc": "Book a 45-minute strategy call. We'll assess your workflows, identify the highest-impact AI opportunities, and tell you exactly which government grants you qualify for.",
     "ctaBtn": "Book a Strategy Call",
     "ctaDiagnose": "Diagnose your business free in 5 minutes →",
-    "stat2Suffix": "%",
-    "stat2Label": "of costs funded by government grants",
-    "stat3Suffix": "%",
-    "stat3Label": "of Vietnamese businesses yet to adopt AI",
-    "stat4Suffix": "%",
-    "stat4Label": "team adoption rate at 60 days",
     "grantsBannerStrong": "Vietnam National AI Fund:",
     "grantsBannerText": "30 trillion VND available. Government funds up to 70% of eligible AI projects.",
     "grantsBannerCTA": "See if you qualify",
@@ -104,7 +98,6 @@
     "clientResultsLabel": "Client Results",
     "clientResultsTitle": "What clients say after 30 days.",
     "ctaBadge": "Government support available — limited intake each quarter",
-    "ctaDesc": "Book a 45-minute strategy call. We'll assess your workflows, identify the highest-impact AI opportunities, and tell you exactly which government grants you qualify for.",
     "solTag": "Most popular",
     "sol1Title": "30-Day AI Adoption Sprint",
     "sol1Desc": "We embed for 30 days, map your workflows, deploy 1–2 AI-powered processes, train your team, and hand over a full adoption roadmap. Eligible for National AI Fund support.",
@@ -118,14 +111,6 @@
     "sol5Desc": "One business unit, fully transformed. We prove the model works before you scale it across the organisation.",
     "sol6Title": "Managed Transformation",
     "sol6Desc": "An embedded partner for 6–12 months. We run the transformation programme so your leadership team doesn't have to.",
-    "step1Title": "Strategy call",
-    "step1Desc": "45 minutes. We assess your workflows, identify the highest-impact AI opportunities, and tell you honestly whether we're the right fit — and which grants you qualify for.",
-    "step2Title": "Workflow mapping",
-    "step2Desc": "We spend the first week documenting how your operations actually work — not how you think they work. The gap is usually significant.",
-    "step3Title": "Deploy and train",
-    "step3Desc": "We configure and deploy AI tools into your real workflows, then run structured training sessions until your team is using them independently.",
-    "step4Title": "Measure and hand over",
-    "step4Desc": "We track adoption rates and time savings, produce an ROI summary, and hand over a roadmap for what to do next.",
     "ind1Name": "Manufacturing & Processing",
     "ind1Desc": "Quality control automation, production scheduling, supplier communication",
     "ind2Name": "Logistics & Supply Chain",
@@ -194,11 +179,11 @@
     "noRoleTitle": "Don't see your role?",
     "noRoleDesc": "We hire on attitude and ability. If you're sharp, driven, and want to work on AI transformation in Vietnam, send your CV and tell us what you can contribute.",
     "speculativeApply": "Send a Speculative Application",
-    "careersEmail": "careers@fetch.tech \u00b7 We read every application.",
+    "careersEmail": "careers@fetch.tech · We read every application.",
     "job1Title": "Business Analyst",
     "job1Location": "Ho Chi Minh City",
     "job1Req1": "Bachelor's degree in Game Design, Computer Science, Business Administration or related field; Master's degree is a strong advantage.",
-    "job1Req2": "1\u20132 years of experience as a business analyst in the software industry, focused on game development projects.",
+    "job1Req2": "1–2 years of experience as a business analyst in the software industry, focused on game development projects.",
     "job1Req3": "Strong understanding of game design principles, including 2D and 3D design concepts, animation, and visual effects.",
     "job1Req4": "Experience with game development tools and platforms such as Cocos, Spine, etc.",
     "job1Req5": "Excellent communication and interpersonal skills, able to collaborate effectively with cross-functional teams.",
@@ -221,14 +206,14 @@
     "job3Req5": "Experience with cloud services (AWS, GCP, or Azure).",
     "job3Req6": "Good English communication skills.",
     "job4Title": "Office Administrator",
-    "job4Location": "H\u00e0 N\u1ed9i",
-    "job4Req1": "1\u20133 years of experience in an administrative or office role.",
+    "job4Location": "Hà Nội",
+    "job4Req1": "1–3 years of experience in an administrative or office role.",
     "job4Req2": "Excellent organisational and time management skills.",
     "job4Req3": "Proficient in Microsoft Office (Word, Excel, PowerPoint).",
     "job4Req4": "Good communication skills in Vietnamese and English.",
     "job4Req5": "Proactive attitude and ability to work independently.",
-    "job5Title": "Project Manager (H\u00e0 N\u1ed9i)",
-    "job5Location": "H\u00e0 N\u1ed9i",
+    "job5Title": "Project Manager (Hà Nội)",
+    "job5Location": "Hà Nội",
     "job5Req1": "Bachelor's degree in Project Management, Information Systems or related field.",
     "job5Req2": "3+ years of experience managing technology or digital transformation projects.",
     "job5Req3": "Experience with Agile/Scrum methodology.",
@@ -336,7 +321,62 @@
     "locationTitle": "Based in Vietnam. Focused on Vietnam.",
     "hcm": "Ho Chi Minh City",
     "hn": "Hà Nội",
-    "remote": "Remote"
+    "remote": "Remote",
+    "teamDesc": "Every Fetch team member has worked inside Vietnamese businesses, not just consulted to them. We understand the operational reality.",
+    "focusLabel": "Our focus",
+    "focusDesc": "AI adoption has to be practical, measurable, and embedded in how your team actually works. That's the only kind that lasts.",
+    "marketLabel": "Our market",
+    "marketDesc": "Vietnamese businesses with 30–500 employees, operational complexity, and genuine intent to change how they work.",
+    "storyP4": "That's the only way this works. And it's the only thing we do.",
+    "whyNowLabel": "Why now",
+    "whyNowTitle": "The timing isn't accidental.",
+    "whyNow1Title": "AI is now practical, not experimental",
+    "whyNow1Body": "The tools that were experimental two years ago are now reliable, affordable, and deployable in real business workflows. The window for early adoption is open — but not indefinitely.",
+    "whyNow2Title": "Vietnamese businesses are ready but stuck",
+    "whyNow2Body": "Vietnamese enterprises have the operational complexity, the growing digital infrastructure, and the leadership intent. What they lack is an execution partner who understands the local context.",
+    "whyNow3Title": "The execution gap is the only gap that matters",
+    "whyNow3Body": "The gap between AI ambition and AI adoption isn't a strategy gap. It's an execution gap. That's what Fetch closes.",
+    "ctaTitle": "Ready to work with us?",
+    "ctaDesc": "Start with a strategy call. We'll assess your situation and tell you honestly whether Fetch is the right fit.",
+    "ctaBtn": "Book a Strategy Call",
+    "team": {
+      "adrianLim": {
+        "name": "Adrian Lim",
+        "role": "Founder & Managing Director",
+        "bio": "Former operations lead at a regional logistics company. Built and sold two process automation businesses before founding Fetch.",
+        "title": "Founder & Managing Director"
+      },
+      "tungTran": {
+        "name": "Tung Tran",
+        "role": "Head of Vietnam Operations",
+        "bio": "10 years in Vietnamese enterprise operations. Led digital transformation programmes at two of Vietnam's largest manufacturing groups.",
+        "title": "Head of Vietnam Operations"
+      },
+      "luck": {
+        "name": "Luck Pornpitakpan",
+        "role": "AI Implementation Lead",
+        "bio": "Former AI engineer at a Singapore fintech. Specialises in deploying LLM-based workflow tools in operationally complex environments.",
+        "title": "AI Implementation Lead"
+      },
+      "hillary": {
+        "name": "Hillary Tan",
+        "role": "Workflow Design Lead",
+        "bio": "Process redesign specialist with a background in management consulting. Joined Fetch to work on implementation, not strategy decks.",
+        "title": "Workflow Design Lead"
+      },
+      "mia": {
+        "name": "Mia Nguyen",
+        "role": "Client Success Manager",
+        "bio": "Manages client relationships and adoption tracking across all active engagements. Based in Ho Chi Minh City.",
+        "title": "Client Success Manager"
+      },
+      "curtis": {
+        "name": "Curtis Wong",
+        "role": "Training & Upskilling Lead",
+        "bio": "Designs and delivers the team upskilling programmes that accompany every Fetch engagement.",
+        "title": "Training & Upskilling Lead"
+      }
+    }
   },
   "solutions": {
     "heroLabel": "Solutions",
@@ -344,12 +384,143 @@
     "heroDesc": "Every engagement is scoped to your business. But the approach is always the same: map first, then redesign, then deploy.",
     "learnMore": "Learn more",
     "bookCall": "Book a strategy call",
-    "grantsNote": "Most solutions are eligible for Vietnam government AI grants covering up to 70% of costs."
+    "grantsNote": "Most solutions are eligible for Vietnam government AI grants covering up to 70% of costs.",
+    "mostPopular": "Most popular",
+    "theProblem": "The problem",
+    "whatWeDo": "What we do",
+    "whoFor": "Who it's for",
+    "outcomes": "Outcomes",
+    "deliverables": "Deliverables",
+    "learnSprint": "Learn about the Sprint",
+    "enquire": "Enquire about this solution",
+    "ctaTitle": "Not sure which solution fits?",
+    "ctaDesc": "Book a 45-minute strategy call. We'll assess your situation and recommend the right engagement structure.",
+    "sprint": {
+      "title": "AI Adoption Sprint",
+      "tagline": "30 days from ambition to deployed AI workflow.",
+      "problem": "You know AI matters but don't know where to start — or you've explored it before and nothing stuck.",
+      "whatWeDo": "We embed a transformation pod for 30 days. We map your workflows, identify the highest-impact automation opportunities, deploy 1–2 AI-powered processes, train your team, and hand over a full adoption roadmap.",
+      "whoFor": "Vietnamese SMEs and mid-market businesses that want to prove AI value quickly before committing to a larger programme.",
+      "outcomes": [
+        "1–2 deployed AI workflows in production",
+        "Team trained and using AI independently",
+        "Clear ROI measurement from day one",
+        "Full adoption roadmap for next 6 months",
+        "Grant application support included"
+      ],
+      "deliverables": [
+        "Workflow mapping document",
+        "AI tool configuration and deployment",
+        "Team training sessions (4 structured sessions)",
+        "30-day adoption report with ROI summary",
+        "6-month roadmap",
+        "Grant application support"
+      ]
+    },
+    "workflow": {
+      "title": "Workflow Redesign",
+      "tagline": "Map and redesign your operations before you automate anything.",
+      "problem": "You're considering AI but your workflows aren't designed for it. Automating a broken process makes it worse.",
+      "whatWeDo": "We spend 2–3 weeks documenting how your operations actually work — not how you think they work. Then we redesign them for AI readiness.",
+      "whoFor": "Businesses that want to get AI-ready before committing to implementation. Often the first step before a larger engagement.",
+      "outcomes": [
+        "Clear picture of your actual operational workflows",
+        "Identified automation opportunities ranked by impact",
+        "Redesigned workflows ready for AI deployment",
+        "Implementation roadmap with cost and timeline estimates"
+      ],
+      "deliverables": [
+        "Current-state workflow maps",
+        "Gap analysis and opportunity assessment",
+        "Future-state workflow designs",
+        "Implementation roadmap"
+      ]
+    },
+    "implementation": {
+      "title": "AI Implementation",
+      "tagline": "Deploy AI into your operations. We handle everything.",
+      "problem": "You know what you want to automate but don't have the technical capability to deploy and integrate AI tools.",
+      "whatWeDo": "We handle tool selection, configuration, integration with your existing systems, and go-live. We don't hand over a manual and leave.",
+      "whoFor": "Businesses that have identified specific workflows to automate and need an implementation partner.",
+      "outcomes": [
+        "AI tools deployed and integrated with existing systems",
+        "Team trained on new workflows",
+        "Documented processes for ongoing management",
+        "Post-deployment support period"
+      ],
+      "deliverables": [
+        "Tool selection and configuration",
+        "System integration",
+        "Team training",
+        "Deployment documentation",
+        "30-day post-deployment support"
+      ]
+    },
+    "upskilling": {
+      "title": "Team Upskilling",
+      "tagline": "Four sessions. AI-confident team.",
+      "problem": "Your team is AI-sceptical or AI-curious but not AI-capable. Tools get deployed and abandoned because nobody knows how to use them.",
+      "whatWeDo": "Four structured sessions that take your team from AI-sceptical to AI-confident. Includes role-specific playbooks they can use the next day.",
+      "whoFor": "Teams that have or are about to have AI tools deployed and need structured training to actually use them.",
+      "outcomes": [
+        "Team confident using AI tools in their daily work",
+        "Role-specific playbooks for ongoing reference",
+        "Measurable adoption rate improvement",
+        "Internal AI champion identified and developed"
+      ],
+      "deliverables": [
+        "4 structured training sessions",
+        "Role-specific AI playbooks",
+        "Adoption tracking report",
+        "Internal champion development plan"
+      ]
+    },
+    "department": {
+      "title": "Department Rollout",
+      "tagline": "One business unit, fully transformed.",
+      "problem": "You want to prove the AI model works in one part of your business before scaling it across the organisation.",
+      "whatWeDo": "We take one business unit through the full transformation cycle: workflow mapping, redesign, AI deployment, team training, and measurement.",
+      "whoFor": "Mid-market and enterprise businesses that want a proven model before organisation-wide rollout.",
+      "outcomes": [
+        "One department fully AI-enabled",
+        "Proven model ready for organisation-wide scaling",
+        "Documented ROI for board-level reporting",
+        "Internal capability to manage ongoing AI operations"
+      ],
+      "deliverables": [
+        "Full workflow mapping and redesign",
+        "AI deployment across department",
+        "Team training programme",
+        "ROI measurement and reporting",
+        "Scaling playbook for other departments"
+      ]
+    },
+    "managed": {
+      "title": "Managed Transformation",
+      "tagline": "An embedded partner for 6–12 months.",
+      "problem": "You want to transform your entire organisation but don't have the internal capacity to run the programme.",
+      "whatWeDo": "An embedded partner for 6–12 months. We run the transformation programme so your leadership team doesn't have to.",
+      "whoFor": "Mid-market and enterprise businesses committed to organisation-wide AI transformation.",
+      "outcomes": [
+        "Organisation-wide AI adoption",
+        "Multiple departments transformed",
+        "Internal AI capability built",
+        "Measurable operational improvement across the business"
+      ],
+      "deliverables": [
+        "Programme management and governance",
+        "Department-by-department rollout",
+        "Ongoing training and upskilling",
+        "Quarterly ROI reporting",
+        "Internal capability transfer"
+      ]
+    }
   },
   "whyFetch": {
     "heroLabel": "Why Fetch",
     "heroTitle": "There are three ways to adopt AI. Two of them don't work.",
     "heroDesc": "Consultants give you a strategy. Vendors give you software. Neither stays until the AI is actually being used by your team.",
+    "differenceLabel": "What makes us different",
     "differenceTitle": "The Fetch difference",
     "consultants": "Consultants",
     "vendors": "Vendors",
@@ -365,7 +536,49 @@
     "measures": "Measures",
     "consultantsMeasures": "Recommendations delivered",
     "vendorsMeasures": "Licences activated",
-    "fetchMeasures": "Adoption rate and time saved"
+    "fetchMeasures": "Adoption rate and time saved",
+    "pillar": {
+      "vietnam": {
+        "title": "Understanding Vietnamese Business",
+        "desc": "We understand how Vietnamese enterprises operate — the operational complexity, workforce dynamics, regulatory environment, and decision-making pace. Our engagements are designed for this context, not adapted from foreign playbooks."
+      },
+      "execution": {
+        "title": "Execution-first, not theory",
+        "desc": "Every Fetch engagement ends with deployed AI workflows and a trained team — not a strategy document. We measure success by operational outcomes, not deliverable volume."
+      },
+      "workflow": {
+        "title": "Workflow-first approach",
+        "desc": "We redesign the workflow before deploying AI. This means the tools we deploy fit your actual operations, not a generic process template. The result is AI that gets used, not AI that gets abandoned."
+      },
+      "upskilling": {
+        "title": "Integrated team upskilling",
+        "desc": "AI adoption fails when teams aren't trained. Every Fetch engagement includes a structured upskilling programme. Your team doesn't just get new tools — they get the confidence and capability to use them."
+      },
+      "measurable": {
+        "title": "Measurable outcomes",
+        "desc": "We agree on success metrics before the engagement starts and measure throughout. You get a clear ROI summary at the end of every engagement, not vague transformation claims."
+      },
+      "lowerRisk": {
+        "title": "Lower risk than going it alone",
+        "desc": "Ad-hoc AI experimentation is expensive and slow. Fetch provides a structured, proven approach that reduces the risk of failed deployments and accelerates the path to measurable results."
+      }
+    },
+    "honestLabel": "An honest perspective",
+    "honestTitle": "We'll tell you straight if we're not the right fit.",
+    "honestP1": "Fetch works best with businesses that have operational workflows genuinely in need of redesign, leadership committed to AI adoption, and teams willing to engage in the change process. That's a specific type of client.",
+    "honestP2": "If you want a vendor to install tools and leave, or a consultant to write a strategy and disappear, we're not the right fit. We'll say that in the first call. If you want an execution team that stays until the AI is working, we are.",
+    "fitLabel": "Fetch is right for you if...",
+    "fit1": "You have manual, slow, or error-prone operational workflows",
+    "fit2": "You want AI deployed and working, not just recommended",
+    "fit3": "You're willing to commit internal time to the engagement",
+    "fit4": "You want your team trained and capable, not dependent on external support",
+    "fit5": "You want measurable ROI, not vague transformation claims",
+    "testimonialQuote": "\"What I appreciated was that they pushed back when we wanted to automate the wrong things. They redesigned the process first. That's the reason it worked.\"",
+    "testimonialName": "Marcus Tan, Head of Operations",
+    "testimonialCompany": "Regional financial services firm",
+    "ctaTitle": "Ready to find out if Fetch is the right fit?",
+    "ctaDesc": "Book a strategy call. We'll assess your situation honestly and tell you whether Fetch is the right choice.",
+    "ctaBtn": "Book a Strategy Call"
   },
   "industries": {
     "heroLabel": "Industries",
@@ -381,50 +594,122 @@
     "logistics": {
       "name": "Logistics & Distribution",
       "tagline": "From manual dispatch to AI-assisted operations",
-      "painPoints": ["Manual route planning consuming hours daily", "Exception handling done through WhatsApp and spreadsheets", "Reporting built manually from multiple disconnected systems"],
-      "howAIHelps": ["AI-assisted route optimisation", "Automated exception detection and escalation", "Real-time reporting dashboards replacing manual builds"],
+      "painPoints": [
+        "Manual route planning consuming hours daily",
+        "Exception handling done through WhatsApp and spreadsheets",
+        "Reporting built manually from multiple disconnected systems"
+      ],
+      "howAIHelps": [
+        "AI-assisted route optimisation",
+        "Automated exception detection and escalation",
+        "Real-time reporting dashboards replacing manual builds"
+      ],
       "podApproach": "An Operations AI Pod maps your dispatch and reporting workflows, identifies the highest-impact automation opportunities, and deploys AI tools that integrate with your existing systems.",
-      "outcomes": ["40-60% reduction in manual dispatch time", "Real-time operational visibility", "Faster exception resolution"]
+      "outcomes": [
+        "40-60% reduction in manual dispatch time",
+        "Real-time operational visibility",
+        "Faster exception resolution"
+      ]
     },
     "customerOps": {
       "name": "Customer Service Operations",
       "tagline": "Faster responses, less manual handling",
-      "painPoints": ["High volume of repetitive customer enquiries handled manually", "Slow first-response times due to manual ticket triage", "Knowledge scattered across documents and email"],
-      "howAIHelps": ["AI-assisted response drafting for common enquiry types", "Automated ticket categorisation and routing", "Centralised AI knowledge base for instant agent retrieval"],
+      "painPoints": [
+        "High volume of repetitive customer enquiries handled manually",
+        "Slow first-response times due to manual ticket triage",
+        "Knowledge scattered across documents and email"
+      ],
+      "howAIHelps": [
+        "AI-assisted response drafting for common enquiry types",
+        "Automated ticket categorisation and routing",
+        "Centralised AI knowledge base for instant agent retrieval"
+      ],
       "podApproach": "A Customer Service AI Pod analyses your enquiry patterns, redesigns your response workflows, and deploys AI tools that reduce manual handling while keeping your team in control.",
-      "outcomes": ["50% reduction in first-response time", "30% reduction in manual handling per ticket", "Higher agent satisfaction"]
+      "outcomes": [
+        "50% reduction in first-response time",
+        "30% reduction in manual handling per ticket",
+        "Higher agent satisfaction"
+      ]
     },
     "professionalServices": {
       "name": "Professional Services",
       "tagline": "Less admin, more billable work",
-      "painPoints": ["Significant non-billable time on document drafting and admin", "Proposal and report creation taking days instead of hours", "Knowledge management fragmented across email and shared drives"],
-      "howAIHelps": ["AI-assisted document drafting, summarisation, and review", "Automated proposal and report generation from templates", "AI-powered knowledge retrieval across firm documents"],
+      "painPoints": [
+        "Significant non-billable time on document drafting and admin",
+        "Proposal and report creation taking days instead of hours",
+        "Knowledge management fragmented across email and shared drives"
+      ],
+      "howAIHelps": [
+        "AI-assisted document drafting, summarisation, and review",
+        "Automated proposal and report generation from templates",
+        "AI-powered knowledge retrieval across firm documents"
+      ],
       "podApproach": "A Back Office Productivity Pod maps your highest-cost admin workflows, identifies where AI can reduce non-billable time, and deploys tools that let your team focus on client work.",
-      "outcomes": ["25-35% reduction in non-billable admin time", "Faster proposal and report turnaround", "Senior staff freed for higher-value work"]
+      "outcomes": [
+        "25-35% reduction in non-billable admin time",
+        "Faster proposal and report turnaround",
+        "Senior staff freed for higher-value work"
+      ]
     },
     "healthcare": {
       "name": "Healthcare Administration",
       "tagline": "Streamlined admin so clinical teams can focus on care",
-      "painPoints": ["Appointment scheduling consuming admin staff time", "Clinical documentation requiring manual transcription", "Claims processing and insurance coordination done manually"],
-      "howAIHelps": ["Automated appointment scheduling and reminder workflows", "AI-assisted clinical documentation and note summarisation", "Automated claims preparation and status tracking"],
+      "painPoints": [
+        "Appointment scheduling consuming admin staff time",
+        "Clinical documentation requiring manual transcription",
+        "Claims processing and insurance coordination done manually"
+      ],
+      "howAIHelps": [
+        "Automated appointment scheduling and reminder workflows",
+        "AI-assisted clinical documentation and note summarisation",
+        "Automated claims preparation and status tracking"
+      ],
       "podApproach": "A specialised healthcare admin pod maps your administrative workflows with full attention to compliance requirements, then deploys AI tools that reduce admin burden without compromising data governance.",
-      "outcomes": ["Reduced admin burden on clinical staff", "Faster claims processing", "Improved appointment adherence"]
+      "outcomes": [
+        "Reduced admin burden on clinical staff",
+        "Faster claims processing",
+        "Improved appointment adherence"
+      ]
     },
     "finance": {
       "name": "Finance & Back Office",
       "tagline": "Automate the repetitive, focus on the analytical",
-      "painPoints": ["Invoice processing and reconciliation done manually", "Financial reporting built from scratch each period", "Approval workflows managed through email chains"],
-      "howAIHelps": ["Automated invoice capture, matching, and processing", "AI-assisted reconciliation and exception flagging", "Automated report generation from connected data sources"],
+      "painPoints": [
+        "Invoice processing and reconciliation done manually",
+        "Financial reporting built from scratch each period",
+        "Approval workflows managed through email chains"
+      ],
+      "howAIHelps": [
+        "Automated invoice capture, matching, and processing",
+        "AI-assisted reconciliation and exception flagging",
+        "Automated report generation from connected data sources"
+      ],
       "podApproach": "A Back Office Productivity Pod focuses on your highest-volume finance workflows and deploys AI tools that reduce manual effort and error rates.",
-      "outcomes": ["60-70% reduction in manual invoice processing time", "Faster month-end close", "Fewer data entry errors"]
+      "outcomes": [
+        "60-70% reduction in manual invoice processing time",
+        "Faster month-end close",
+        "Fewer data entry errors"
+      ]
     },
     "distribution": {
       "name": "Distribution & Multi-site",
       "tagline": "Coordination and visibility across complex operations",
-      "painPoints": ["Inventory management across multiple locations done manually", "Cross-site coordination relying on phone calls and spreadsheets", "Performance reporting aggregated manually from site-level data"],
-      "howAIHelps": ["AI-assisted inventory monitoring and reorder triggering", "Automated cross-site coordination and status workflows", "Automated performance reporting across all sites"],
+      "painPoints": [
+        "Inventory management across multiple locations done manually",
+        "Cross-site coordination relying on phone calls and spreadsheets",
+        "Performance reporting aggregated manually from site-level data"
+      ],
+      "howAIHelps": [
+        "AI-assisted inventory monitoring and reorder triggering",
+        "Automated cross-site coordination and status workflows",
+        "Automated performance reporting across all sites"
+      ],
       "podApproach": "An Operations AI Pod maps your multi-site coordination workflows and deploys AI tools that give you visibility and coordination capability without adding headcount.",
-      "outcomes": ["Reduced inventory errors and stockouts", "Faster cross-site coordination", "Real-time performance visibility across all sites"]
+      "outcomes": [
+        "Reduced inventory errors and stockouts",
+        "Faster cross-site coordination",
+        "Real-time performance visibility across all sites"
+      ]
     }
   },
   "pods": {
@@ -435,14 +720,35 @@
     "whatIsPodTitle": "Not consultants. Not contractors. An execution team.",
     "whatIsPodDesc1": "A Fetch transformation pod is a small, focused team assembled specifically for your engagement. Each pod includes the roles required to deliver your transformation — strategy, analysis, implementation, and change management.",
     "whatIsPodDesc2": "Pods work inside your operations, not from a distance. They interview your team, map your workflows, deploy tools in your environment, and train your people. When the engagement ends, the results stay.",
-    "podFeatures": ["Assembled specifically for your engagement", "Embedded inside your operations", "Multi-role: strategy, analysis, implementation, training", "Outcome-driven with clear deliverables", "Engagements from 30 days to 18 months"],
+    "podFeatures": [
+      "Assembled specifically for your engagement",
+      "Embedded inside your operations",
+      "Multi-role: strategy, analysis, implementation, training",
+      "Outcome-driven with clear deliverables",
+      "Engagements from 30 days to 18 months"
+    ],
     "compositionLabel": "Standard Pod Composition",
     "roles": [
-      { "title": "AI Workflow Strategist", "desc": "Leads the engagement. Maps workflows, identifies AI opportunities, and designs the transformation approach." },
-      { "title": "Business Process Analyst", "desc": "Documents current-state processes, interviews stakeholders, and builds the workflow maps and redesign specifications." },
-      { "title": "Implementation Specialist", "desc": "Configures and deploys AI tools, manages integrations, and ensures technical go-live." },
-      { "title": "Training & Change Lead", "desc": "Designs and delivers the team upskilling programme and manages change adoption throughout the engagement." },
-      { "title": "Specialist Support (Optional)", "desc": "Domain experts added for specific needs — industry specialists, data engineers, or sector-specific AI tool experts." }
+      {
+        "title": "AI Workflow Strategist",
+        "desc": "Leads the engagement. Maps workflows, identifies AI opportunities, and designs the transformation approach."
+      },
+      {
+        "title": "Business Process Analyst",
+        "desc": "Documents current-state processes, interviews stakeholders, and builds the workflow maps and redesign specifications."
+      },
+      {
+        "title": "Implementation Specialist",
+        "desc": "Configures and deploys AI tools, manages integrations, and ensures technical go-live."
+      },
+      {
+        "title": "Training & Change Lead",
+        "desc": "Designs and delivers the team upskilling programme and manages change adoption throughout the engagement."
+      },
+      {
+        "title": "Specialist Support (Optional)",
+        "desc": "Domain experts added for specific needs — industry specialists, data engineers, or sector-specific AI tool experts."
+      }
     ],
     "typesLabel": "Pod Types",
     "typesTitle": "Example pod compositions for different business needs",
@@ -450,10 +756,51 @@
     "durationLabel": "Duration",
     "bestForLabel": "Best For",
     "podTypes": [
-      { "name": "Operations AI Pod", "focus": "Logistics, dispatch, inventory, reporting, and operational workflows", "roles": ["AI Workflow Strategist", "Process Analyst", "Implementation Specialist", "Training Lead"], "duration": "4\u20138 weeks", "bestFor": "Logistics, distribution, manufacturing, and multi-site operations" },
-      { "name": "Customer Service AI Pod", "focus": "Response automation, ticket routing, knowledge retrieval, and customer-facing workflows", "roles": ["AI Workflow Strategist", "Process Analyst", "Implementation Specialist", "Training Lead"], "duration": "4\u20136 weeks", "bestFor": "Customer operations, service businesses, and support-heavy teams" },
-      { "name": "Back Office Productivity Pod", "focus": "Document processing, admin automation, reporting, and internal workflow efficiency", "roles": ["AI Workflow Strategist", "Process Analyst", "Implementation Specialist"], "duration": "3\u20136 weeks", "bestFor": "Finance, HR, professional services, and admin-heavy operations" },
-      { "name": "Leadership AI Enablement Pod", "focus": "Executive AI literacy, strategic AI adoption planning, and leadership team upskilling", "roles": ["AI Workflow Strategist", "Training & Change Lead"], "duration": "2\u20134 weeks", "bestFor": "Leadership teams preparing for organisation-wide AI adoption" }
+      {
+        "name": "Operations AI Pod",
+        "focus": "Logistics, dispatch, inventory, reporting, and operational workflows",
+        "roles": [
+          "AI Workflow Strategist",
+          "Process Analyst",
+          "Implementation Specialist",
+          "Training Lead"
+        ],
+        "duration": "4–8 weeks",
+        "bestFor": "Logistics, distribution, manufacturing, and multi-site operations"
+      },
+      {
+        "name": "Customer Service AI Pod",
+        "focus": "Response automation, ticket routing, knowledge retrieval, and customer-facing workflows",
+        "roles": [
+          "AI Workflow Strategist",
+          "Process Analyst",
+          "Implementation Specialist",
+          "Training Lead"
+        ],
+        "duration": "4–6 weeks",
+        "bestFor": "Customer operations, service businesses, and support-heavy teams"
+      },
+      {
+        "name": "Back Office Productivity Pod",
+        "focus": "Document processing, admin automation, reporting, and internal workflow efficiency",
+        "roles": [
+          "AI Workflow Strategist",
+          "Process Analyst",
+          "Implementation Specialist"
+        ],
+        "duration": "3–6 weeks",
+        "bestFor": "Finance, HR, professional services, and admin-heavy operations"
+      },
+      {
+        "name": "Leadership AI Enablement Pod",
+        "focus": "Executive AI literacy, strategic AI adoption planning, and leadership team upskilling",
+        "roles": [
+          "AI Workflow Strategist",
+          "Training & Change Lead"
+        ],
+        "duration": "2–4 weeks",
+        "bestFor": "Leadership teams preparing for organisation-wide AI adoption"
+      }
     ],
     "whyPodsLabel": "Why Pods",
     "whyPodsTitle": "Pods vs consulting-only vs staffing-only",
@@ -462,12 +809,42 @@
     "tableConsulting": "Consulting Only",
     "tableStaffing": "Staffing Only",
     "comparisons": [
-      { "aspect": "Approach", "pod": "Embedded execution inside your operations", "consulting": "External strategy and recommendations", "staffing": "Headcount supply without transformation mandate" },
-      { "aspect": "Outcome", "pod": "Deployed AI workflows and trained teams", "consulting": "Strategy documents and roadmaps", "staffing": "Additional capacity, no guaranteed outcomes" },
-      { "aspect": "Speed", "pod": "Results in 30\u201360 days", "consulting": "3\u20136 month strategy cycles", "staffing": "Ramp-up time with no transformation timeline" },
-      { "aspect": "Team upskilling", "pod": "Built into every engagement", "consulting": "Rarely included", "staffing": "Not included" },
-      { "aspect": "Risk", "pod": "Low \u2014 outcome-driven with clear deliverables", "consulting": "Medium \u2014 strategy without execution support", "staffing": "High \u2014 no accountability for transformation results" },
-      { "aspect": "ROI measurement", "pod": "Measured and reported", "consulting": "Projected but rarely measured", "staffing": "Not measured" }
+      {
+        "aspect": "Approach",
+        "pod": "Embedded execution inside your operations",
+        "consulting": "External strategy and recommendations",
+        "staffing": "Headcount supply without transformation mandate"
+      },
+      {
+        "aspect": "Outcome",
+        "pod": "Deployed AI workflows and trained teams",
+        "consulting": "Strategy documents and roadmaps",
+        "staffing": "Additional capacity, no guaranteed outcomes"
+      },
+      {
+        "aspect": "Speed",
+        "pod": "Results in 30–60 days",
+        "consulting": "3–6 month strategy cycles",
+        "staffing": "Ramp-up time with no transformation timeline"
+      },
+      {
+        "aspect": "Team upskilling",
+        "pod": "Built into every engagement",
+        "consulting": "Rarely included",
+        "staffing": "Not included"
+      },
+      {
+        "aspect": "Risk",
+        "pod": "Low — outcome-driven with clear deliverables",
+        "consulting": "Medium — strategy without execution support",
+        "staffing": "High — no accountability for transformation results"
+      },
+      {
+        "aspect": "ROI measurement",
+        "pod": "Measured and reported",
+        "consulting": "Projected but rarely measured",
+        "staffing": "Not measured"
+      }
     ],
     "ctaTitle": "Ready to deploy a transformation pod?",
     "ctaDesc": "Start with a strategy call. We'll recommend the right pod composition and engagement model for your business.",
@@ -478,7 +855,7 @@
     "week1Desc": "Workflow mapping and stakeholder interviews",
     "week2": "Week 2",
     "week2Desc": "AI opportunity scoring and process redesign",
-    "weeks34": "Weeks 3\u20134",
+    "weeks34": "Weeks 3–4",
     "weeks34Desc": "Deployment, integration, and team training",
     "ongoing": "Ongoing",
     "ongoingDesc": "Adoption tracking and optimisation"
@@ -490,10 +867,26 @@
     "heroCtaBtn": "Start Your Sprint",
     "heroSecondaryBtn": "See How It Works",
     "stats": [
-      { "value": "30", "unit": "days", "label": "Fixed engagement duration" },
-      { "value": "1-2", "unit": "workflows", "label": "Deployed and operational" },
-      { "value": "6+", "unit": "deliverables", "label": "Included in every sprint" },
-      { "value": "2 weeks", "unit": "to start", "label": "Typical time to kick off" }
+      {
+        "value": "30",
+        "unit": "days",
+        "label": "Fixed engagement duration"
+      },
+      {
+        "value": "1-2",
+        "unit": "workflows",
+        "label": "Deployed and operational"
+      },
+      {
+        "value": "6+",
+        "unit": "deliverables",
+        "label": "Included in every sprint"
+      },
+      {
+        "value": "2 weeks",
+        "unit": "to start",
+        "label": "Typical time to kick off"
+      }
     ],
     "forLabel": "Who It's For",
     "forTitle": "The Sprint is designed for businesses at a specific moment",
@@ -576,12 +969,30 @@
       }
     ],
     "deliverables": [
-      { "title": "Workflow Assessment Report", "desc": "Complete documentation of your current-state workflows with bottleneck analysis." },
-      { "title": "AI Opportunity Matrix", "desc": "Scored and prioritised list of AI opportunities across your operations." },
-      { "title": "Deployed AI Workflows", "desc": "1-2 redesigned workflows with AI tools integrated and operational." },
-      { "title": "Trained Team", "desc": "Your team trained and confident using the new AI-assisted workflows." },
-      { "title": "AI Adoption Roadmap", "desc": "A 6-12 month roadmap for continued AI adoption across the organisation." },
-      { "title": "ROI Impact Summary", "desc": "Measured outcomes from the implemented workflows with projected future impact." }
+      {
+        "title": "Workflow Assessment Report",
+        "desc": "Complete documentation of your current-state workflows with bottleneck analysis."
+      },
+      {
+        "title": "AI Opportunity Matrix",
+        "desc": "Scored and prioritised list of AI opportunities across your operations."
+      },
+      {
+        "title": "Deployed AI Workflows",
+        "desc": "1-2 redesigned workflows with AI tools integrated and operational."
+      },
+      {
+        "title": "Trained Team",
+        "desc": "Your team trained and confident using the new AI-assisted workflows."
+      },
+      {
+        "title": "AI Adoption Roadmap",
+        "desc": "A 6-12 month roadmap for continued AI adoption across the organisation."
+      },
+      {
+        "title": "ROI Impact Summary",
+        "desc": "Measured outcomes from the implemented workflows with projected future impact."
+      }
     ]
   },
   "caseStudies": {
@@ -598,34 +1009,58 @@
     "patternLabel": "The pattern",
     "patternTitle": "The same three things show up in every engagement.",
     "ctaTitle": "Want to see what this looks like for your business?",
-    "ctaDesc": "Book a 45-minute strategy call. We\u2019ll assess your workflows and tell you honestly what a Fetch engagement would look like.",
+    "ctaDesc": "Book a 45-minute strategy call. We’ll assess your workflows and tell you honestly what a Fetch engagement would look like.",
     "ctaBtn": "Book a Strategy Call",
     "ctaSecondary": "See the 30-Day Sprint",
     "patterns": [
-      { "num": "01", "title": "The problem was never the AI tool", "body": "In every case, the client already had access to AI tools. ChatGPT was free. Copilot was built into their Office subscription. The problem was that nobody had redesigned the workflows those tools were supposed to improve. We always start with workflow mapping, not tool deployment." },
-      { "num": "02", "title": "The first failure point is always adoption", "body": "Every client who had previously attempted an AI implementation had failed at adoption. The tool was deployed, the team was given a login, and within weeks they\u2019d reverted to their manual processes. We treat adoption as the primary deliverable, not an afterthought." },
-      { "num": "03", "title": "The ROI is measurable within 60 days", "body": "In every engagement, we establish a baseline measurement before we start and track time savings weekly post-deployment. The ROI is never theoretical \u2014 it\u2019s measured in hours recovered and costs eliminated." }
+      {
+        "num": "01",
+        "title": "The problem was never the AI tool",
+        "body": "In every case, the client already had access to AI tools. ChatGPT was free. Copilot was built into their Office subscription. The problem was that nobody had redesigned the workflows those tools were supposed to improve. We always start with workflow mapping, not tool deployment."
+      },
+      {
+        "num": "02",
+        "title": "The first failure point is always adoption",
+        "body": "Every client who had previously attempted an AI implementation had failed at adoption. The tool was deployed, the team was given a login, and within weeks they’d reverted to their manual processes. We treat adoption as the primary deliverable, not an afterthought."
+      },
+      {
+        "num": "03",
+        "title": "The ROI is measurable within 60 days",
+        "body": "In every engagement, we establish a baseline measurement before we start and track time savings weekly post-deployment. The ROI is never theoretical — it’s measured in hours recovered and costs eliminated."
+      }
     ],
     "studies": [
       {
         "id": "fleet",
         "tag": "Logistics & Fleet Management",
         "headline": "A commercial fleet operator cut route planning time by 70% and reduced fuel costs by $190K annually.",
-        "subheadline": "30-Day AI Adoption Sprint \u00b7 Ho Chi Minh City \u00b7 120 vehicles, 18 operations staff",
-        "situation": "The operations team at a Ho Chi Minh City-based commercial vehicle fleet company was managing 120 vehicles across multiple client contracts. Route planning was done manually each morning by three senior dispatchers, each spending two to three hours building daily schedules in spreadsheets and cross-referencing against driver availability, vehicle maintenance windows, and client delivery windows.\n\nBeyond planning, the team was drowning in administrative overhead: driver briefing documents, client delivery reports, fuel reconciliation, and compliance paperwork for regulatory requirements. The operations manager estimated that 60% of her team\u2019s day was spent on tasks that required no judgement \u2014 just data entry, formatting, and distribution.\n\nThe company had explored off-the-shelf fleet management software but found the implementation costs prohibitive and the tools too rigid for their mix of contract types. They needed AI that worked within their existing systems, not a platform replacement.",
+        "subheadline": "30-Day AI Adoption Sprint · Ho Chi Minh City · 120 vehicles, 18 operations staff",
+        "situation": "The operations team at a Ho Chi Minh City-based commercial vehicle fleet company was managing 120 vehicles across multiple client contracts. Route planning was done manually each morning by three senior dispatchers, each spending two to three hours building daily schedules in spreadsheets and cross-referencing against driver availability, vehicle maintenance windows, and client delivery windows.\n\nBeyond planning, the team was drowning in administrative overhead: driver briefing documents, client delivery reports, fuel reconciliation, and compliance paperwork for regulatory requirements. The operations manager estimated that 60% of her team’s day was spent on tasks that required no judgement — just data entry, formatting, and distribution.\n\nThe company had explored off-the-shelf fleet management software but found the implementation costs prohibitive and the tools too rigid for their mix of contract types. They needed AI that worked within their existing systems, not a platform replacement.",
         "whatWeDid": [
-          "Spent the first week embedded with the dispatch team, riding along on the morning planning process and documenting every step. Identified that route planning alone was consuming 63 dispatcher-hours per week \u2014 the single largest time sink in the operation.",
-          "Redesigned the route planning workflow to use AI-assisted optimisation within the team\u2019s existing tools, eliminating the manual spreadsheet process while preserving dispatcher control over final decisions.",
-          "Automated the generation of driver briefing documents, client delivery reports, and fuel reconciliation summaries \u2014 three high-volume, low-judgement tasks consuming an estimated 20 hours per week.",
+          "Spent the first week embedded with the dispatch team, riding along on the morning planning process and documenting every step. Identified that route planning alone was consuming 63 dispatcher-hours per week — the single largest time sink in the operation.",
+          "Redesigned the route planning workflow to use AI-assisted optimisation within the team’s existing tools, eliminating the manual spreadsheet process while preserving dispatcher control over final decisions.",
+          "Automated the generation of driver briefing documents, client delivery reports, and fuel reconciliation summaries — three high-volume, low-judgement tasks consuming an estimated 20 hours per week.",
           "Ran two structured training sessions with all 18 operations staff, including a dispatcher-specific playbook. Tracked adoption and time savings daily for the first three weeks post-deployment."
         ],
         "results": [
-          { "metric": "70%", "label": "reduction in daily route planning time" },
-          { "metric": "$190K", "label": "annual fuel cost reduction from optimised routes" },
-          { "metric": "63 hrs/wk", "label": "dispatcher time recovered" },
-          { "metric": "4 weeks", "label": "to full deployment across all contracts" }
+          {
+            "metric": "70%",
+            "label": "reduction in daily route planning time"
+          },
+          {
+            "metric": "$190K",
+            "label": "annual fuel cost reduction from optimised routes"
+          },
+          {
+            "metric": "63 hrs/wk",
+            "label": "dispatcher time recovered"
+          },
+          {
+            "metric": "4 weeks",
+            "label": "to full deployment across all contracts"
+          }
         ],
-        "quote": "Our dispatchers were spending half their morning building routes that AI can now draft in minutes. They still make the final call \u2014 but they\u2019re making it in 20 minutes instead of two hours.",
+        "quote": "Our dispatchers were spending half their morning building routes that AI can now draft in minutes. They still make the final call — but they’re making it in 20 minutes instead of two hours.",
         "quoteName": "Raymond Ong",
         "quoteTitle": "Operations Manager",
         "quotePhoto": "",
@@ -637,7 +1072,7 @@
         "id": "freight",
         "tag": "Logistics & Supply Chain",
         "headline": "A freight forwarder recovered 14 hours per operations manager per week.",
-        "subheadline": "30-Day AI Adoption Sprint \u00b7 Ho Chi Minh City \u00b7 45 staff",
+        "subheadline": "30-Day AI Adoption Sprint · Ho Chi Minh City · 45 staff",
         "situation": "The operations team at a mid-sized Vietnamese freight forwarder was spending the majority of their working day on tasks that required no judgement: pulling shipment status updates from carrier portals, copying data into customer emails, chasing vendors for ETAs, and compiling weekly performance reports from five different spreadsheets.\n\nEach operations manager was spending an estimated 3.2 hours per day on these tasks. With seven managers, that was 22 hours of senior operational capacity lost every day to copy-paste work.\n\nThe company had purchased a ChatGPT Enterprise licence six months earlier. Nobody was using it in a structured way.",
         "whatWeDid": [
           "Spent week one embedded with the operations team, documenting every workflow step-by-step. We found 23 distinct manual touchpoints across the shipment lifecycle.",
@@ -646,12 +1081,24 @@
           "Ran three training sessions with the operations team, including a role-specific playbook for each manager. Tracked adoption daily for the first two weeks post-deployment."
         ],
         "results": [
-          { "metric": "14 hrs/week", "label": "recovered per operations manager" },
-          { "metric": "$280K", "label": "annualised admin cost eliminated" },
-          { "metric": "91%", "label": "team adoption rate at 30 days" },
-          { "metric": "4 weeks", "label": "to first workflow in production" }
+          {
+            "metric": "14 hrs/week",
+            "label": "recovered per operations manager"
+          },
+          {
+            "metric": "$280K",
+            "label": "annualised admin cost eliminated"
+          },
+          {
+            "metric": "91%",
+            "label": "team adoption rate at 30 days"
+          },
+          {
+            "metric": "4 weeks",
+            "label": "to first workflow in production"
+          }
         ],
-        "quote": "We\u2019d been talking about AI for 18 months. Fetch came in, mapped our operations in a week, and had two workflows running in production by week four. The team actually uses them.",
+        "quote": "We’d been talking about AI for 18 months. Fetch came in, mapped our operations in a week, and had two workflows running in production by week four. The team actually uses them.",
         "quoteName": "David Lim",
         "quoteTitle": "COO",
         "quotePhoto": "",
@@ -663,21 +1110,33 @@
         "id": "consulting",
         "tag": "Professional Services",
         "headline": "A boutique consulting firm eliminated $180K in annual admin cost.",
-        "subheadline": "AI Implementation + Team Upskilling \u00b7 H\u00e0 N\u1ed9i \u00b7 28 consultants",
-        "situation": "The firm\u2019s 28 consultants were collectively spending an estimated 40% of their billable hours on non-billable administrative work: writing proposals from scratch for similar engagements, reconciling billing across multiple clients, compiling client reports from raw data, and drafting status updates.\n\nThe managing director had calculated that if she could recover half of that time and redirect it to billable work, the firm would generate an additional $360K in annual revenue without hiring a single additional person.\n\nThe challenge was that every consultant worked slightly differently. There was no standardised process for proposals, no template library, and no shared knowledge base. Any AI solution had to work across the existing diversity of working styles.",
+        "subheadline": "AI Implementation + Team Upskilling · Hà Nội · 28 consultants",
+        "situation": "The firm’s 28 consultants were collectively spending an estimated 40% of their billable hours on non-billable administrative work: writing proposals from scratch for similar engagements, reconciling billing across multiple clients, compiling client reports from raw data, and drafting status updates.\n\nThe managing director had calculated that if she could recover half of that time and redirect it to billable work, the firm would generate an additional $360K in annual revenue without hiring a single additional person.\n\nThe challenge was that every consultant worked slightly differently. There was no standardised process for proposals, no template library, and no shared knowledge base. Any AI solution had to work across the existing diversity of working styles.",
         "whatWeDid": [
           "Conducted a workflow audit across all 28 consultants over two weeks, identifying the five highest-volume administrative tasks and documenting the variation in how each was performed.",
           "Built a shared prompt library and template system covering proposal generation, billing reconciliation, client reporting, and status updates.",
-          "Integrated the AI tooling with the firm\u2019s existing project management and billing systems, eliminating the need for manual data transfer.",
+          "Integrated the AI tooling with the firm’s existing project management and billing systems, eliminating the need for manual data transfer.",
           "Ran four structured upskilling sessions over two weeks, with role-specific playbooks. Followed up with a 30-day adoption check-in and additional coaching for the three consultants who were slowest to adopt."
         ],
         "results": [
-          { "metric": "$180K", "label": "annual admin cost eliminated" },
-          { "metric": "40% \u2192 15%", "label": "time spent on non-billable admin" },
-          { "metric": "$360K", "label": "additional billable capacity unlocked" },
-          { "metric": "6 weeks", "label": "to full team adoption" }
+          {
+            "metric": "$180K",
+            "label": "annual admin cost eliminated"
+          },
+          {
+            "metric": "40% → 15%",
+            "label": "time spent on non-billable admin"
+          },
+          {
+            "metric": "$360K",
+            "label": "additional billable capacity unlocked"
+          },
+          {
+            "metric": "6 weeks",
+            "label": "to full team adoption"
+          }
         ],
-        "quote": "Our consultants were spending 40% of their time on admin. After the sprint, that\u2019s down to about 15%. The ROI calculation was straightforward \u2014 we saw payback in the first month.",
+        "quote": "Our consultants were spending 40% of their time on admin. After the sprint, that’s down to about 15%. The ROI calculation was straightforward — we saw payback in the first month.",
         "quoteName": "Priya Menon",
         "quoteTitle": "Managing Director",
         "quotePhoto": "",
@@ -689,8 +1148,8 @@
         "id": "finance",
         "tag": "Financial Services",
         "headline": "A regional financial services firm cut compliance documentation time by 58%.",
-        "subheadline": "Workflow Redesign + AI Implementation \u00b7 Ho Chi Minh City \u00b7 3 business units",
-        "situation": "The firm\u2019s compliance and operations teams were producing a high volume of documentation: client onboarding packs, KYC summaries, regulatory filing narratives, and internal audit reports. Each document required significant manual effort.\n\nThe head of operations estimated that compliance documentation was consuming 35% of the operations team\u2019s capacity. During peak regulatory periods, the team was regularly working evenings and weekends to meet deadlines.\n\nThe firm had previously attempted to implement an AI tool. The project stalled after three months because the tool had been deployed without redesigning the underlying workflows, and the team had reverted to their manual processes.",
+        "subheadline": "Workflow Redesign + AI Implementation · Ho Chi Minh City · 3 business units",
+        "situation": "The firm’s compliance and operations teams were producing a high volume of documentation: client onboarding packs, KYC summaries, regulatory filing narratives, and internal audit reports. Each document required significant manual effort.\n\nThe head of operations estimated that compliance documentation was consuming 35% of the operations team’s capacity. During peak regulatory periods, the team was regularly working evenings and weekends to meet deadlines.\n\nThe firm had previously attempted to implement an AI tool. The project stalled after three months because the tool had been deployed without redesigning the underlying workflows, and the team had reverted to their manual processes.",
         "whatWeDid": [
           "Started with a workflow redesign engagement before any AI was deployed. Documented the existing documentation processes in detail, identified the bottlenecks, and redesigned the workflows to be AI-ready.",
           "Identified that the previous AI implementation had failed because it had been layered on top of broken processes. The new design eliminated three redundant steps before automation was introduced.",
@@ -698,12 +1157,24 @@
           "Worked closely with the compliance team to ensure all AI-generated outputs met regulatory standards. Built a review and sign-off process that maintained human oversight while eliminating the manual drafting work."
         ],
         "results": [
-          { "metric": "58%", "label": "reduction in compliance documentation time" },
-          { "metric": "Zero", "label": "regulatory deadlines missed post-deployment" },
-          { "metric": "VND 5.8B", "label": "estimated annual staff time recovered" },
-          { "metric": "8 weeks", "label": "full deployment across 3 business units" }
+          {
+            "metric": "58%",
+            "label": "reduction in compliance documentation time"
+          },
+          {
+            "metric": "Zero",
+            "label": "regulatory deadlines missed post-deployment"
+          },
+          {
+            "metric": "VND 5.8B",
+            "label": "estimated annual staff time recovered"
+          },
+          {
+            "metric": "8 weeks",
+            "label": "full deployment across 3 business units"
+          }
         ],
-        "quote": "What I appreciated was that they pushed back when we wanted to automate the wrong things. They redesigned the process first. That\u2019s the reason it worked.",
+        "quote": "What I appreciated was that they pushed back when we wanted to automate the wrong things. They redesigned the process first. That’s the reason it worked.",
         "quoteName": "Marcus Tan",
         "quoteTitle": "Head of Operations",
         "quotePhoto": "",
@@ -711,7 +1182,14 @@
         "duration": "8 weeks",
         "teamSize": "3 business units"
       }
-    ]
+    ],
+    "readFull": "Read full case study",
+    "industry": "Industry",
+    "teamSize": "Team size",
+    "result": "Result",
+    "challenge": "The challenge",
+    "solution": "The solution",
+    "outcome": "The outcome"
   },
   "resources": {
     "heroLabel": "Resources & Insights",
@@ -719,7 +1197,15 @@
     "articlesAndTools": "Articles & Tools",
     "heroTitle": "Practical guides for AI adoption",
     "heroDesc": "No hype. No theory. Practical insights for Vietnamese enterprises navigating AI adoption, workflow redesign, and operational transformation.",
-    "categories": ["All", "AI Adoption", "Workflow Redesign", "Team Upskilling", "Enterprise AI", "Operations", "Leadership"],
+    "categories": [
+      "All",
+      "AI Adoption",
+      "Workflow Redesign",
+      "Team Upskilling",
+      "Enterprise AI",
+      "Operations",
+      "Leadership"
+    ],
     "featured": "Featured",
     "articleSingular": "article",
     "articlesPlural": "articles",
@@ -730,9 +1216,9 @@
     "toolsDesc": "Templates, frameworks, and calculators used by Fetch transformation pods. Available to Vietnamese enterprises on request.",
     "requestAccess": "Request access",
     "checklistTitle": "Get the AI Readiness Checklist",
-    "checklistDesc": "A practical checklist for Vietnamese enterprises assessing their readiness for AI adoption. Free to download \u2014 no spam, no follow-up calls.",
+    "checklistDesc": "A practical checklist for Vietnamese enterprises assessing their readiness for AI adoption. Free to download — no spam, no follow-up calls.",
     "checklistBtn": "Get Checklist",
-    "checklistSent": "Checklist on its way \u2014 check your inbox.",
+    "checklistSent": "Checklist on its way — check your inbox.",
     "emailPlaceholder": "your@email.com",
     "emailError": "Please enter a valid email address.",
     "emailSuccess": "Checklist sent! Check your inbox shortly.",
@@ -746,7 +1232,7 @@
         "excerpt": "Most AI adoption advice is written for large enterprises with dedicated transformation teams. This guide is for Vietnamese SMEs that need to adopt AI while keeping the business running.",
         "readTime": "8 min read",
         "featured": true,
-        "body": "Most AI adoption advice assumes you have a dedicated transformation team, a six-figure implementation budget, and the luxury of running a pilot that doesn't affect day-to-day operations. Vietnamese SMEs rarely have any of those things.\n\n**The core challenge for SMEs**\n\nThe challenge isn't access to AI tools \u2014 ChatGPT is free, Copilot is built into Office, and there are hundreds of AI-powered SaaS products targeting every business function. The challenge is that adopting AI while running a business requires you to change how work gets done without stopping the work.\n\n**Start with one workflow, not a strategy**\n\nThe most common mistake SMEs make is trying to develop an \"AI strategy\" before they've deployed anything. Strategy is useful once you have evidence. Before that, it's speculation. Pick one workflow that is repetitive, time-consuming, and well-documented. Map how it currently works. Then redesign it with AI in the loop.\n\n**The three-week rule**\n\nIf an AI tool isn't embedded in your team's daily workflow within three weeks of deployment, it won't be. The window for adoption is short. This means the tool needs to be configured for your specific context, your team needs structured training (not just a login), and someone needs to be accountable for adoption metrics.\n\n**Measure from day one**\n\nBefore you deploy anything, agree on what you're measuring. Time saved per task. Error rate reduction. Volume handled without additional headcount. These numbers are what justify the next investment and what tell you whether the first one worked."
+        "body": "Most AI adoption advice assumes you have a dedicated transformation team, a six-figure implementation budget, and the luxury of running a pilot that doesn't affect day-to-day operations. Vietnamese SMEs rarely have any of those things.\n\n**The core challenge for SMEs**\n\nThe challenge isn't access to AI tools — ChatGPT is free, Copilot is built into Office, and there are hundreds of AI-powered SaaS products targeting every business function. The challenge is that adopting AI while running a business requires you to change how work gets done without stopping the work.\n\n**Start with one workflow, not a strategy**\n\nThe most common mistake SMEs make is trying to develop an \"AI strategy\" before they've deployed anything. Strategy is useful once you have evidence. Before that, it's speculation. Pick one workflow that is repetitive, time-consuming, and well-documented. Map how it currently works. Then redesign it with AI in the loop.\n\n**The three-week rule**\n\nIf an AI tool isn't embedded in your team's daily workflow within three weeks of deployment, it won't be. The window for adoption is short. This means the tool needs to be configured for your specific context, your team needs structured training (not just a login), and someone needs to be accountable for adoption metrics.\n\n**Measure from day one**\n\nBefore you deploy anything, agree on what you're measuring. Time saved per task. Error rate reduction. Volume handled without additional headcount. These numbers are what justify the next investment and what tell you whether the first one worked."
       },
       {
         "category": "Workflow Redesign",
@@ -754,7 +1240,7 @@
         "excerpt": "The pod model is different from consulting and different from staffing. This article explains exactly how a transformation pod works inside a business and why the model produces better outcomes.",
         "readTime": "6 min read",
         "featured": true,
-        "body": "The transformation pod model sits between two things that don't work: strategy consulting (which produces recommendations but doesn't implement them) and software vendors (which implement tools but don't change how work gets done).\n\n**What a pod is**\n\nA transformation pod is a small, embedded team \u2014 typically two to four people \u2014 that works inside your business for a defined period. They're not there to advise. They're there to do: map workflows, configure tools, train teams, and measure outcomes.\n\n**The four-week cycle**\n\nWeek one is workflow mapping. Not how you think your operations work \u2014 how they actually work. The gap between the two is almost always significant, and it's the reason most AI implementations fail.\n\nWeek two and three are configuration and deployment. The pod selects and configures tools against the mapped workflow, integrates them with existing systems, and runs structured training sessions with the team that will use them.\n\nWeek four is measurement and handover. The pod tracks adoption rates and time savings, produces an ROI summary, and hands over a roadmap for what to do next.\n\n**Why it works**\n\nThe pod model works because it combines the things that consulting and software vendors each do well, while eliminating the handover problem. There's no point at which the pod says \"here's your strategy\" or \"here's your software\" and leaves."
+        "body": "The transformation pod model sits between two things that don't work: strategy consulting (which produces recommendations but doesn't implement them) and software vendors (which implement tools but don't change how work gets done).\n\n**What a pod is**\n\nA transformation pod is a small, embedded team — typically two to four people — that works inside your business for a defined period. They're not there to advise. They're there to do: map workflows, configure tools, train teams, and measure outcomes.\n\n**The four-week cycle**\n\nWeek one is workflow mapping. Not how you think your operations work — how they actually work. The gap between the two is almost always significant, and it's the reason most AI implementations fail.\n\nWeek two and three are configuration and deployment. The pod selects and configures tools against the mapped workflow, integrates them with existing systems, and runs structured training sessions with the team that will use them.\n\nWeek four is measurement and handover. The pod tracks adoption rates and time savings, produces an ROI summary, and hands over a roadmap for what to do next.\n\n**Why it works**\n\nThe pod model works because it combines the things that consulting and software vendors each do well, while eliminating the handover problem. There's no point at which the pod says \"here's your strategy\" or \"here's your software\" and leaves."
       },
       {
         "category": "Workflow Redesign",
@@ -762,7 +1248,7 @@
         "excerpt": "Buying AI software without redesigning workflows is one of the most common and expensive mistakes in enterprise AI adoption. Here's why workflow redesign must come first.",
         "readTime": "5 min read",
         "featured": false,
-        "body": "The most common pattern in failed AI implementations is this: a business buys an AI tool, deploys it on top of existing workflows, and then wonders why the team isn't using it.\n\n**The workflow problem**\n\nAI tools are designed to automate or assist with specific tasks. If the workflow those tasks sit within is poorly designed \u2014 with redundant steps, unclear ownership, and manual handoffs \u2014 the AI tool will automate the wrong things or fail to integrate with how work actually gets done.\n\n**Redesign before you automate**\n\nThe right sequence is: document the current workflow, identify the bottlenecks and inefficiencies, redesign the workflow to be AI-ready, and then select and deploy tools against the redesigned workflow. This sequence is slower upfront but produces dramatically better outcomes.\n\n**The cost of skipping redesign**\n\nBusinesses that skip workflow redesign and go straight to tool deployment typically spend 3-4x more on implementation, achieve 40-60% lower adoption rates, and abandon the tool within six months. The cost of redesign is almost always lower than the cost of a failed implementation."
+        "body": "The most common pattern in failed AI implementations is this: a business buys an AI tool, deploys it on top of existing workflows, and then wonders why the team isn't using it.\n\n**The workflow problem**\n\nAI tools are designed to automate or assist with specific tasks. If the workflow those tasks sit within is poorly designed — with redundant steps, unclear ownership, and manual handoffs — the AI tool will automate the wrong things or fail to integrate with how work actually gets done.\n\n**Redesign before you automate**\n\nThe right sequence is: document the current workflow, identify the bottlenecks and inefficiencies, redesign the workflow to be AI-ready, and then select and deploy tools against the redesigned workflow. This sequence is slower upfront but produces dramatically better outcomes.\n\n**The cost of skipping redesign**\n\nBusinesses that skip workflow redesign and go straight to tool deployment typically spend 3-4x more on implementation, achieve 40-60% lower adoption rates, and abandon the tool within six months. The cost of redesign is almost always lower than the cost of a failed implementation."
       },
       {
         "category": "Team Upskilling",
@@ -770,7 +1256,7 @@
         "excerpt": "Most AI training programmes fail because they focus on tools rather than workflows. This article explains what effective AI upskilling looks like and how to measure it.",
         "readTime": "7 min read",
         "featured": false,
-        "body": "The standard approach to AI upskilling is a one-day workshop, a login to a new tool, and a hope that the team figures it out. This approach has a predictable outcome: the tool gets used for a week and then abandoned.\n\n**Why standard training fails**\n\nStandard AI training fails for three reasons. First, it focuses on tool features rather than workflow application \u2014 teams learn what the tool can do in the abstract, not how to use it in their specific daily work. Second, it doesn't account for the change management dimension \u2014 adoption is as much about behaviour change as it is about technical knowledge. Third, it doesn't build in accountability \u2014 there's no measurement of whether the training translated into changed behaviour.\n\n**What effective upskilling looks like**\n\nEffective AI upskilling has four components: workflow-specific training (not generic tool training), structured practice in the actual work context, a designated AI champion who supports adoption after training, and measurement of adoption metrics at 30 and 60 days.\n\n**The champion model**\n\nThe most effective upskilling programmes identify and develop AI champions within each team \u2014 people who become the go-to resource for their colleagues and who are accountable for adoption outcomes. Champions need both technical depth and change management skills."
+        "body": "The standard approach to AI upskilling is a one-day workshop, a login to a new tool, and a hope that the team figures it out. This approach has a predictable outcome: the tool gets used for a week and then abandoned.\n\n**Why standard training fails**\n\nStandard AI training fails for three reasons. First, it focuses on tool features rather than workflow application — teams learn what the tool can do in the abstract, not how to use it in their specific daily work. Second, it doesn't account for the change management dimension — adoption is as much about behaviour change as it is about technical knowledge. Third, it doesn't build in accountability — there's no measurement of whether the training translated into changed behaviour.\n\n**What effective upskilling looks like**\n\nEffective AI upskilling has four components: workflow-specific training (not generic tool training), structured practice in the actual work context, a designated AI champion who supports adoption after training, and measurement of adoption metrics at 30 and 60 days.\n\n**The champion model**\n\nThe most effective upskilling programmes identify and develop AI champions within each team — people who become the go-to resource for their colleagues and who are accountable for adoption outcomes. Champions need both technical depth and change management skills."
       },
       {
         "category": "Operations",
@@ -778,7 +1264,7 @@
         "excerpt": "Operations leaders worry that AI automation will create black boxes they can't manage. Here's how to design AI-assisted operations that maintain visibility and control.",
         "readTime": "6 min read",
         "featured": false,
-        "body": "The most common concern operations leaders have about AI automation is loss of control. If AI is making decisions or taking actions in your operations, how do you know what's happening and why?\n\n**Design for transparency**\n\nThe answer is to design AI-assisted workflows with transparency as a first principle. Every AI action should be logged. Every AI decision should be explainable. Every AI output should be reviewable by a human before it triggers downstream action.\n\n**The human-in-the-loop principle**\n\nFor high-stakes operational decisions \u2014 route changes, exception handling, vendor escalations \u2014 AI should assist rather than decide. The AI drafts the recommendation; the human approves it. This maintains accountability while still capturing the efficiency gains.\n\n**Monitoring and intervention**\n\nEffective AI-assisted operations require monitoring dashboards that surface anomalies and exceptions for human review. The goal is not to remove humans from the loop but to focus human attention where it adds the most value \u2014 on exceptions, edge cases, and decisions that require judgement."
+        "body": "The most common concern operations leaders have about AI automation is loss of control. If AI is making decisions or taking actions in your operations, how do you know what's happening and why?\n\n**Design for transparency**\n\nThe answer is to design AI-assisted workflows with transparency as a first principle. Every AI action should be logged. Every AI decision should be explainable. Every AI output should be reviewable by a human before it triggers downstream action.\n\n**The human-in-the-loop principle**\n\nFor high-stakes operational decisions — route changes, exception handling, vendor escalations — AI should assist rather than decide. The AI drafts the recommendation; the human approves it. This maintains accountability while still capturing the efficiency gains.\n\n**Monitoring and intervention**\n\nEffective AI-assisted operations require monitoring dashboards that surface anomalies and exceptions for human review. The goal is not to remove humans from the loop but to focus human attention where it adds the most value — on exceptions, edge cases, and decisions that require judgement."
       },
       {
         "category": "Enterprise AI",
@@ -786,7 +1272,7 @@
         "excerpt": "Most enterprise AI implementations fail to deliver the expected returns. This article examines the five most common failure modes and how to avoid them.",
         "readTime": "9 min read",
         "featured": false,
-        "body": "Enterprise AI implementation has a high failure rate. Estimates vary, but most research suggests that 70-80% of enterprise AI projects fail to deliver the expected business value. Understanding why they fail is the first step to avoiding the same mistakes.\n\n**Failure mode 1: Automating broken processes**\n\nThe most common failure mode is deploying AI on top of poorly designed processes. AI amplifies what's already there \u2014 if the underlying process is inefficient or poorly structured, AI will make it efficiently inefficient.\n\n**Failure mode 2: Underestimating the change management requirement**\n\nAI implementation is a change management challenge as much as a technical one. Teams that have been doing work a certain way for years don't change their behaviour because a new tool is available. Adoption requires structured training, clear accountability, and sustained support.\n\n**Failure mode 3: Measuring the wrong things**\n\nMany AI implementations are declared successful based on technical metrics (the tool is deployed, the integration works) rather than business metrics (time saved, cost reduced, quality improved). If you're not measuring business outcomes from day one, you won't know whether the implementation worked.\n\n**Failure mode 4: Insufficient stakeholder alignment**\n\nAI implementations that lack clear executive sponsorship and cross-functional alignment consistently underperform. Without visible leadership commitment and clear ownership, adoption stalls and the implementation loses momentum.\n\n**Failure mode 5: Scope creep**\n\nStarting with too broad a scope is a reliable path to failure. The most successful implementations start with one workflow, prove the model, and then scale. Trying to transform multiple workflows simultaneously almost always results in none of them being done well."
+        "body": "Enterprise AI implementation has a high failure rate. Estimates vary, but most research suggests that 70-80% of enterprise AI projects fail to deliver the expected business value. Understanding why they fail is the first step to avoiding the same mistakes.\n\n**Failure mode 1: Automating broken processes**\n\nThe most common failure mode is deploying AI on top of poorly designed processes. AI amplifies what's already there — if the underlying process is inefficient or poorly structured, AI will make it efficiently inefficient.\n\n**Failure mode 2: Underestimating the change management requirement**\n\nAI implementation is a change management challenge as much as a technical one. Teams that have been doing work a certain way for years don't change their behaviour because a new tool is available. Adoption requires structured training, clear accountability, and sustained support.\n\n**Failure mode 3: Measuring the wrong things**\n\nMany AI implementations are declared successful based on technical metrics (the tool is deployed, the integration works) rather than business metrics (time saved, cost reduced, quality improved). If you're not measuring business outcomes from day one, you won't know whether the implementation worked.\n\n**Failure mode 4: Insufficient stakeholder alignment**\n\nAI implementations that lack clear executive sponsorship and cross-functional alignment consistently underperform. Without visible leadership commitment and clear ownership, adoption stalls and the implementation loses momentum.\n\n**Failure mode 5: Scope creep**\n\nStarting with too broad a scope is a reliable path to failure. The most successful implementations start with one workflow, prove the model, and then scale. Trying to transform multiple workflows simultaneously almost always results in none of them being done well."
       },
       {
         "category": "Leadership",
@@ -794,17 +1280,43 @@
         "excerpt": "AI transformation requires a specific kind of leadership. This article defines what AI-ready leadership looks like and how executives can develop it.",
         "readTime": "5 min read",
         "featured": false,
-        "body": "AI transformation is a leadership challenge before it's a technology challenge. The organisations that successfully adopt AI are almost always led by executives who have a clear and specific understanding of what AI can and can't do, and who are willing to make the structural changes required to capture the value.\n\n**What AI-ready leaders understand**\n\nAI-ready leaders understand that AI is not a technology project \u2014 it's an operational change programme. They understand that the bottleneck is almost never the technology; it's the workflow design, the change management, and the adoption. They understand that ROI from AI is measurable and that they should be measuring it.\n\n**What AI-ready leaders do differently**\n\nAI-ready leaders start with specific operational problems rather than general AI ambitions. They invest in workflow documentation before they invest in AI tools. They treat adoption metrics as a leadership accountability, not an IT metric. They identify and develop AI champions within their teams.\n\n**How to develop AI readiness**\n\nThe most effective path to AI readiness for executives is direct exposure to a working AI implementation \u2014 not a demo, but a real deployment in a real operational context. Understanding what it actually takes to get AI working in an organisation is the foundation for leading the transformation."
+        "body": "AI transformation is a leadership challenge before it's a technology challenge. The organisations that successfully adopt AI are almost always led by executives who have a clear and specific understanding of what AI can and can't do, and who are willing to make the structural changes required to capture the value.\n\n**What AI-ready leaders understand**\n\nAI-ready leaders understand that AI is not a technology project — it's an operational change programme. They understand that the bottleneck is almost never the technology; it's the workflow design, the change management, and the adoption. They understand that ROI from AI is measurable and that they should be measuring it.\n\n**What AI-ready leaders do differently**\n\nAI-ready leaders start with specific operational problems rather than general AI ambitions. They invest in workflow documentation before they invest in AI tools. They treat adoption metrics as a leadership accountability, not an IT metric. They identify and develop AI champions within their teams.\n\n**How to develop AI readiness**\n\nThe most effective path to AI readiness for executives is direct exposure to a working AI implementation — not a demo, but a real deployment in a real operational context. Understanding what it actually takes to get AI working in an organisation is the foundation for leading the transformation."
       }
     ],
     "tools": [
-      { "title": "AI Readiness Assessment", "desc": "A structured self-assessment covering workflow documentation, data quality, change management capacity, and leadership alignment. Identify your gaps before you start.", "tag": "Template" },
-      { "title": "Workflow Mapping Template", "desc": "A step-by-step template for documenting operational workflows in the format required for AI redesign. Includes worked examples from logistics, professional services, and financial services.", "tag": "Template" },
-      { "title": "AI Adoption Sprint Playbook", "desc": "The complete 30-day playbook used by Fetch transformation pods. Covers workflow mapping, tool configuration, team training, and ROI measurement.", "tag": "Playbook" },
-      { "title": "Team Upskilling Framework", "desc": "A four-session training framework for upskilling teams during AI implementation. Includes session outlines, exercises, and adoption measurement tools.", "tag": "Framework" },
-      { "title": "AI ROI Calculator", "desc": "A spreadsheet model for calculating the ROI of operational AI implementations. Input your baseline metrics and implementation costs to project payback period and three-year ROI.", "tag": "Calculator" },
-      { "title": "AI Governance Policy Template", "desc": "A customisable policy template covering AI use, data governance, and accountability. Designed for Vietnamese enterprises and aligned with local regulatory requirements.", "tag": "Template" }
-    ]
+      {
+        "title": "AI Readiness Assessment",
+        "desc": "A structured self-assessment covering workflow documentation, data quality, change management capacity, and leadership alignment. Identify your gaps before you start.",
+        "tag": "Template"
+      },
+      {
+        "title": "Workflow Mapping Template",
+        "desc": "A step-by-step template for documenting operational workflows in the format required for AI redesign. Includes worked examples from logistics, professional services, and financial services.",
+        "tag": "Template"
+      },
+      {
+        "title": "AI Adoption Sprint Playbook",
+        "desc": "The complete 30-day playbook used by Fetch transformation pods. Covers workflow mapping, tool configuration, team training, and ROI measurement.",
+        "tag": "Playbook"
+      },
+      {
+        "title": "Team Upskilling Framework",
+        "desc": "A four-session training framework for upskilling teams during AI implementation. Includes session outlines, exercises, and adoption measurement tools.",
+        "tag": "Framework"
+      },
+      {
+        "title": "AI ROI Calculator",
+        "desc": "A spreadsheet model for calculating the ROI of operational AI implementations. Input your baseline metrics and implementation costs to project payback period and three-year ROI.",
+        "tag": "Calculator"
+      },
+      {
+        "title": "AI Governance Policy Template",
+        "desc": "A customisable policy template covering AI use, data governance, and accountability. Designed for Vietnamese enterprises and aligned with local regulatory requirements.",
+        "tag": "Template"
+      }
+    ],
+    "readArticle": "Read article",
+    "downloadTool": "Download tool"
   },
   "grants": {
     "heroPill": "Vietnam Government AI Grants",
@@ -824,21 +1336,33 @@
     "ctaDesc": "Book a 45-minute strategy call. We'll review your business, identify the right programs, and tell you exactly what to prepare.",
     "ctaBtn": "Book a Strategy Call",
     "summaryCards": [
-      { "label": "Total fund size", "value": "VND 30T", "sub": "~$1.18 billion USD" },
-      { "label": "SMEs targeted", "value": "500,000", "sub": "by 2030 under Decision 433" },
-      { "label": "Max cost coverage", "value": "70%", "sub": "of qualifying project cost" }
+      {
+        "label": "Total fund size",
+        "value": "VND 30T",
+        "sub": "~$1.18 billion USD"
+      },
+      {
+        "label": "SMEs targeted",
+        "value": "500,000",
+        "sub": "by 2030 under Decision 433"
+      },
+      {
+        "label": "Max cost coverage",
+        "value": "70%",
+        "sub": "of qualifying project cost"
+      }
     ],
     "grants": [
       {
         "id": "national-ai-fund",
         "name": "National AI Development Fund",
-        "nameVi": "Qu\u1ef9 Ph\u00e1t tri\u1ec3n AI Qu\u1ed1c gia",
+        "nameVi": "Quỹ Phát triển AI Quốc gia",
         "badge": "FLAGSHIP PROGRAM",
         "badgeColor": "#DA251D",
         "amount": "Up to 70% of project cost",
         "totalFund": "VND 30 trillion (~$1.18B)",
         "authority": "Ministry of Science & Technology (MOST)",
-        "decree": "Draft decree under finalisation \u2014 2025",
+        "decree": "Draft decree under finalisation — 2025",
         "timeline": "Applications open Q3 2025",
         "eligibility": [
           "Registered Vietnamese enterprise",
@@ -866,14 +1390,14 @@
       {
         "id": "sme-digital",
         "name": "SME Digital Transformation Program",
-        "nameVi": "Ch\u01b0\u01a1ng tr\u00ecnh Chuy\u1ec3n \u0111\u1ed5i s\u1ed1 cho DNNVV",
+        "nameVi": "Chương trình Chuyển đổi số cho DNNVV",
         "badge": "SME PROGRAM",
         "badgeColor": "#17264E",
         "amount": "Free consulting + deployment support",
         "totalFund": "500,000 SMEs targeted by 2030",
         "authority": "Ministry of Planning & Investment (MPI)",
-        "decree": "Decision 433/Q\u0110-TTg (2026-2030 Plan)",
-        "timeline": "Rolling applications \u2014 open now",
+        "decree": "Decision 433/QĐ-TTg (2026-2030 Plan)",
+        "timeline": "Rolling applications — open now",
         "eligibility": [
           "Registered Vietnamese SME",
           "Fewer than 300 employees OR revenue under VND 300 billion",
@@ -899,14 +1423,14 @@
       {
         "id": "tax-incentive",
         "name": "Technology Investment Tax Incentive",
-        "nameVi": "\u01afu \u0111\u00e3i thu\u1ebf \u0111\u1ea7u t\u01b0 c\u00f4ng ngh\u1ec7",
+        "nameVi": "Ưu đãi thuế đầu tư công nghệ",
         "badge": "TAX INCENTIVE",
         "badgeColor": "#FFBE16",
         "badgeTextColor": "#091738",
         "amount": "CIT reduction or full exemption",
         "totalFund": "Decree 20/2026",
         "authority": "Ministry of Finance (MOF)",
-        "decree": "Decree 20/2026 \u2014 effective January 2026",
+        "decree": "Decree 20/2026 — effective January 2026",
         "timeline": "Applicable to FY2026 onwards",
         "eligibility": [
           "SME investing in technology or AI innovation",
@@ -933,15 +1457,15 @@
     "faqs": [
       {
         "q": "Can a foreign-owned company operating in Vietnam access these grants?",
-        "a": "Yes \u2014 foreign-invested enterprises (FIEs) registered in Vietnam are eligible for most programs, including the SME Digital Transformation Program and the tax incentives. The National AI Fund has some additional requirements for FIEs; we assess this on a case-by-case basis."
+        "a": "Yes — foreign-invested enterprises (FIEs) registered in Vietnam are eligible for most programs, including the SME Digital Transformation Program and the tax incentives. The National AI Fund has some additional requirements for FIEs; we assess this on a case-by-case basis."
       },
       {
         "q": "How long does the grant application process take?",
-        "a": "The SME Digital Transformation Program can be initiated within 1-2 weeks. The National AI Fund review takes 30-45 days from submission. Tax incentives are applied at year-end filing. We handle the paperwork \u2014 you focus on running your business."
+        "a": "The SME Digital Transformation Program can be initiated within 1-2 weeks. The National AI Fund review takes 30-45 days from submission. Tax incentives are applied at year-end filing. We handle the paperwork — you focus on running your business."
       },
       {
         "q": "Do we need to apply for grants before starting the AI transformation?",
-        "a": "For the National AI Fund, yes \u2014 approval must precede expenditure. For the SME program and tax incentives, costs can often be backdated to the start of the financial year. We advise on timing during the strategy call."
+        "a": "For the National AI Fund, yes — approval must precede expenditure. For the SME program and tax incentives, costs can often be backdated to the start of the financial year. We advise on timing during the strategy call."
       },
       {
         "q": "What if we don't qualify for any grants?",
@@ -951,12 +1475,25 @@
         "q": "Does Fetch charge extra for grant application support?",
         "a": "No. Grant application support is included in all our engagements at no additional cost. We've done this enough times that it's part of our standard process."
       }
-    ]
+    ],
+    "heroLabel": "Vietnam AI Grants",
+    "checkEligibility": "Check your eligibility",
+    "program1Title": "National AI Development Fund",
+    "program1Desc": "Vietnam's flagship AI fund. Covers AI deployment, process automation, and team training for eligible businesses.",
+    "program2Title": "SME Digital Transformation Programme",
+    "program2Desc": "Free digital readiness assessment, AI consulting, and implementation support for small and medium enterprises.",
+    "program3Title": "Technology Investment Tax Incentives",
+    "program3Desc": "Reduced or full corporate income tax exemption for SMEs investing in technology and AI innovation.",
+    "howFetchHelps": "How Fetch helps you access grants",
+    "step1": "We assess your eligibility in the first strategy call — no forms required.",
+    "step2": "We structure the engagement to maximise grant coverage.",
+    "step3": "We prepare and submit the grant application on your behalf.",
+    "step4": "We manage reporting requirements throughout the engagement."
   },
   "terms": {
     "legalLabel": "Legal",
     "title": "Terms of Service",
-    "effectiveDate": "Effective date: 1 April 2025 \u00b7 Fetch Technology Vietnam",
+    "effectiveDate": "Effective date: 1 April 2025 · Fetch Technology Vietnam",
     "intro": "These Terms of Service govern your use of the Fetch Technology website and your engagement with Fetch Technology Pte. Ltd. for services. Please read them carefully. If you have questions, contact us at legal@fetch.tech before proceeding.",
     "sections": [
       {
@@ -965,27 +1502,27 @@
       },
       {
         "title": "2. Services",
-        "content": "Fetch Technology provides AI transformation and workflow implementation services to businesses, including but not limited to:\n\n\u2014 Workflow mapping and AI opportunity assessment\n\u2014 AI tool selection, configuration, and deployment\n\u2014 Team upskilling and training programmes\n\u2014 Ongoing support and optimisation\n\u2014 The 30-Day AI Adoption Sprint and other packaged engagements\n\nThe specific scope, deliverables, timelines, and fees for any engagement are set out in a separate Statement of Work or Service Agreement signed by both parties. These Terms govern the general relationship between Fetch and its clients and website users."
+        "content": "Fetch Technology provides AI transformation and workflow implementation services to businesses, including but not limited to:\n\n— Workflow mapping and AI opportunity assessment\n— AI tool selection, configuration, and deployment\n— Team upskilling and training programmes\n— Ongoing support and optimisation\n— The 30-Day AI Adoption Sprint and other packaged engagements\n\nThe specific scope, deliverables, timelines, and fees for any engagement are set out in a separate Statement of Work or Service Agreement signed by both parties. These Terms govern the general relationship between Fetch and its clients and website users."
       },
       {
         "title": "3. Website use",
-        "content": "You may use our website for lawful purposes only. You agree not to:\n\n\u2014 Use the website in any way that violates applicable laws or regulations\n\u2014 Attempt to gain unauthorised access to any part of the website or its underlying systems\n\u2014 Transmit any unsolicited or unauthorised advertising or promotional material\n\u2014 Introduce any malicious code, viruses, or other harmful material\n\u2014 Scrape, copy, or reproduce website content without our prior written consent\n\u2014 Use the website to impersonate any person or entity\n\nWe reserve the right to restrict or terminate access to the website for any user who violates these Terms."
+        "content": "You may use our website for lawful purposes only. You agree not to:\n\n— Use the website in any way that violates applicable laws or regulations\n— Attempt to gain unauthorised access to any part of the website or its underlying systems\n— Transmit any unsolicited or unauthorised advertising or promotional material\n— Introduce any malicious code, viruses, or other harmful material\n— Scrape, copy, or reproduce website content without our prior written consent\n— Use the website to impersonate any person or entity\n\nWe reserve the right to restrict or terminate access to the website for any user who violates these Terms."
       },
       {
         "title": "4. Intellectual property",
-        "content": "All content on this website \u2014 including text, graphics, logos, images, and software \u2014 is the property of Fetch Technology Vietnam or its content suppliers and is protected by applicable intellectual property laws.\n\nYou may view and print pages from the website for your personal, non-commercial use. You may not reproduce, distribute, modify, create derivative works from, or commercially exploit any content from this website without our prior written consent.\n\nAny methodologies, frameworks, tools, templates, or processes developed by Fetch in the course of delivering services remain the intellectual property of Fetch, unless otherwise agreed in writing. Clients receive a licence to use deliverables for their internal business purposes."
+        "content": "All content on this website — including text, graphics, logos, images, and software — is the property of Fetch Technology Vietnam or its content suppliers and is protected by applicable intellectual property laws.\n\nYou may view and print pages from the website for your personal, non-commercial use. You may not reproduce, distribute, modify, create derivative works from, or commercially exploit any content from this website without our prior written consent.\n\nAny methodologies, frameworks, tools, templates, or processes developed by Fetch in the course of delivering services remain the intellectual property of Fetch, unless otherwise agreed in writing. Clients receive a licence to use deliverables for their internal business purposes."
       },
       {
         "title": "5. Client engagements",
-        "content": "When you engage Fetch for services, the following general terms apply unless superseded by a signed Service Agreement:\n\n\u2014 **Payment:** Fees are as set out in the relevant Statement of Work. Invoices are payable within 14 days of issue unless otherwise agreed.\n\u2014 **Confidentiality:** Both parties agree to keep confidential any proprietary information disclosed during the engagement. This obligation survives termination of the engagement.\n\u2014 **Client responsibilities:** Clients are responsible for providing timely access to relevant systems, data, and personnel. Delays caused by the client may affect timelines and deliverables.\n\u2014 **Warranties:** Fetch warrants that services will be performed with reasonable skill and care. We do not warrant specific business outcomes, as these depend on factors outside our control including client team adoption and organisational change.\n\u2014 **Termination:** Either party may terminate an engagement with 14 days\u2019 written notice. Fees for work completed up to the termination date remain payable."
+        "content": "When you engage Fetch for services, the following general terms apply unless superseded by a signed Service Agreement:\n\n— **Payment:** Fees are as set out in the relevant Statement of Work. Invoices are payable within 14 days of issue unless otherwise agreed.\n— **Confidentiality:** Both parties agree to keep confidential any proprietary information disclosed during the engagement. This obligation survives termination of the engagement.\n— **Client responsibilities:** Clients are responsible for providing timely access to relevant systems, data, and personnel. Delays caused by the client may affect timelines and deliverables.\n— **Warranties:** Fetch warrants that services will be performed with reasonable skill and care. We do not warrant specific business outcomes, as these depend on factors outside our control including client team adoption and organisational change.\n— **Termination:** Either party may terminate an engagement with 14 days’ written notice. Fees for work completed up to the termination date remain payable."
       },
       {
         "title": "6. Limitation of liability",
-        "content": "To the maximum extent permitted by applicable law:\n\n\u2014 Fetch\u2019s total liability to you for any claim arising out of or in connection with these Terms or our services shall not exceed the total fees paid by you to Fetch in the three months preceding the claim.\n\u2014 Fetch shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of profits, loss of data, or loss of business opportunity, even if we have been advised of the possibility of such damages.\n\u2014 Nothing in these Terms limits or excludes liability for death or personal injury caused by negligence, fraud, or any other liability that cannot be excluded by law."
+        "content": "To the maximum extent permitted by applicable law:\n\n— Fetch’s total liability to you for any claim arising out of or in connection with these Terms or our services shall not exceed the total fees paid by you to Fetch in the three months preceding the claim.\n— Fetch shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of profits, loss of data, or loss of business opportunity, even if we have been advised of the possibility of such damages.\n— Nothing in these Terms limits or excludes liability for death or personal injury caused by negligence, fraud, or any other liability that cannot be excluded by law."
       },
       {
         "title": "7. Indemnification",
-        "content": "You agree to indemnify and hold harmless Fetch Technology Vietnam and its directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising out of or in connection with:\n\n\u2014 Your use of our website or services in violation of these Terms\n\u2014 Your violation of any applicable law or regulation\n\u2014 Any content or information you provide to us that is inaccurate, misleading, or infringes the rights of any third party"
+        "content": "You agree to indemnify and hold harmless Fetch Technology Vietnam and its directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising out of or in connection with:\n\n— Your use of our website or services in violation of these Terms\n— Your violation of any applicable law or regulation\n— Any content or information you provide to us that is inaccurate, misleading, or infringes the rights of any third party"
       },
       {
         "title": "8. Third-party links and tools",
@@ -993,7 +1530,7 @@
       },
       {
         "title": "9. Disclaimers",
-        "content": "Our website and its content are provided on an \u201cas is\u201d and \u201cas available\u201d basis without any warranties of any kind, either express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.\n\nWe do not warrant that the website will be uninterrupted, error-free, or free of viruses or other harmful components. We reserve the right to modify, suspend, or discontinue the website at any time without notice."
+        "content": "Our website and its content are provided on an “as is” and “as available” basis without any warranties of any kind, either express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.\n\nWe do not warrant that the website will be uninterrupted, error-free, or free of viruses or other harmful components. We reserve the right to modify, suspend, or discontinue the website at any time without notice."
       },
       {
         "title": "10. Governing law and dispute resolution",
@@ -1012,8 +1549,8 @@
   "privacy": {
     "legalLabel": "Legal",
     "title": "Privacy Policy",
-    "effectiveDate": "Effective date: 1 April 2025 \u00b7 Fetch Technology Vietnam",
-    "intro": "Fetch Technology Vietnam is committed to protecting your personal data. This policy describes what data we collect, why we collect it, and how we use and protect it \u2014 in plain language, without unnecessary legal jargon.",
+    "effectiveDate": "Effective date: 1 April 2025 · Fetch Technology Vietnam",
+    "intro": "Fetch Technology Vietnam is committed to protecting your personal data. This policy describes what data we collect, why we collect it, and how we use and protect it — in plain language, without unnecessary legal jargon.",
     "sections": [
       {
         "title": "1. Who we are",
@@ -1021,31 +1558,31 @@
       },
       {
         "title": "2. What personal data we collect",
-        "content": "We collect personal data that you provide directly to us and data collected automatically when you use our website.\n\n**Data you provide directly:**\n\u2014 Name, job title, and company name when you submit an enquiry or book a call\n\u2014 Email address and phone number when you contact us\n\u2014 Information you share during discovery calls, strategy sessions, or client engagements\n\u2014 Any other information you choose to provide in correspondence with us\n\n**Data collected automatically:**\n\u2014 IP address and approximate location\n\u2014 Browser type, operating system, and device information\n\u2014 Pages visited, time spent on pages, and referring URLs\n\u2014 Anonymised analytics data collected via our website analytics provider"
+        "content": "We collect personal data that you provide directly to us and data collected automatically when you use our website.\n\n**Data you provide directly:**\n— Name, job title, and company name when you submit an enquiry or book a call\n— Email address and phone number when you contact us\n— Information you share during discovery calls, strategy sessions, or client engagements\n— Any other information you choose to provide in correspondence with us\n\n**Data collected automatically:**\n— IP address and approximate location\n— Browser type, operating system, and device information\n— Pages visited, time spent on pages, and referring URLs\n— Anonymised analytics data collected via our website analytics provider"
       },
       {
         "title": "3. How we use your personal data",
-        "content": "We use your personal data for the following purposes:\n\n\u2014 To respond to your enquiries and schedule calls or meetings\n\u2014 To provide our services to you as a client\n\u2014 To send you information about our services that you have requested\n\u2014 To improve our website and understand how visitors use it\n\u2014 To comply with our legal and regulatory obligations\n\u2014 To protect our legitimate business interests\n\nWe do not sell your personal data to third parties. We do not use your personal data for automated decision-making or profiling."
+        "content": "We use your personal data for the following purposes:\n\n— To respond to your enquiries and schedule calls or meetings\n— To provide our services to you as a client\n— To send you information about our services that you have requested\n— To improve our website and understand how visitors use it\n— To comply with our legal and regulatory obligations\n— To protect our legitimate business interests\n\nWe do not sell your personal data to third parties. We do not use your personal data for automated decision-making or profiling."
       },
       {
         "title": "4. Legal basis for processing",
-        "content": "We process your personal data on the following legal bases under Vietnam\u2019s Law on Cybersecurity 2018, Decree 13/2023/ND-CP on Personal Data Protection, and, where applicable, the EU General Data Protection Regulation (GDPR):\n\n\u2014 **Consent:** Where you have given us explicit consent to process your data (e.g., by submitting an enquiry form)\n\u2014 **Contractual necessity:** Where processing is necessary to perform a contract with you or to take steps at your request before entering into a contract\n\u2014 **Legitimate interests:** Where processing is necessary for our legitimate business interests, provided those interests are not overridden by your rights\n\u2014 **Legal obligation:** Where we are required to process your data to comply with applicable law"
+        "content": "We process your personal data on the following legal bases under Vietnam’s Law on Cybersecurity 2018, Decree 13/2023/ND-CP on Personal Data Protection, and, where applicable, the EU General Data Protection Regulation (GDPR):\n\n— **Consent:** Where you have given us explicit consent to process your data (e.g., by submitting an enquiry form)\n— **Contractual necessity:** Where processing is necessary to perform a contract with you or to take steps at your request before entering into a contract\n— **Legitimate interests:** Where processing is necessary for our legitimate business interests, provided those interests are not overridden by your rights\n— **Legal obligation:** Where we are required to process your data to comply with applicable law"
       },
       {
         "title": "5. How we share your personal data",
-        "content": "We may share your personal data with the following categories of third parties:\n\n\u2014 **Service providers:** Third-party vendors who help us operate our website and deliver our services (e.g., cloud hosting providers, email platforms, scheduling tools). These providers are contractually bound to process your data only on our instructions.\n\u2014 **Professional advisers:** Lawyers, accountants, and auditors where necessary for our legal and compliance obligations.\n\u2014 **Regulatory authorities:** Government bodies, law enforcement agencies, or courts where we are required to disclose information by law.\n\nWe do not share your personal data with any other third parties without your explicit consent."
+        "content": "We may share your personal data with the following categories of third parties:\n\n— **Service providers:** Third-party vendors who help us operate our website and deliver our services (e.g., cloud hosting providers, email platforms, scheduling tools). These providers are contractually bound to process your data only on our instructions.\n— **Professional advisers:** Lawyers, accountants, and auditors where necessary for our legal and compliance obligations.\n— **Regulatory authorities:** Government bodies, law enforcement agencies, or courts where we are required to disclose information by law.\n\nWe do not share your personal data with any other third parties without your explicit consent."
       },
       {
         "title": "6. Data retention",
-        "content": "We retain your personal data for as long as necessary to fulfil the purposes for which it was collected, including to satisfy any legal, accounting, or reporting requirements.\n\n\u2014 Enquiry and contact data: up to 2 years from the date of last contact\n\u2014 Client engagement data: up to 5 years from the end of the engagement, in accordance with Vietnamese business record-keeping requirements\n\u2014 Website analytics data: up to 13 months on a rolling basis\n\nWhen personal data is no longer required, we securely delete or anonymise it."
+        "content": "We retain your personal data for as long as necessary to fulfil the purposes for which it was collected, including to satisfy any legal, accounting, or reporting requirements.\n\n— Enquiry and contact data: up to 2 years from the date of last contact\n— Client engagement data: up to 5 years from the end of the engagement, in accordance with Vietnamese business record-keeping requirements\n— Website analytics data: up to 13 months on a rolling basis\n\nWhen personal data is no longer required, we securely delete or anonymise it."
       },
       {
         "title": "7. Your rights",
-        "content": "Under Vietnam\u2019s Decree 13/2023/ND-CP and, where applicable, the GDPR, you have the following rights regarding your personal data:\n\n\u2014 **Access:** You may request a copy of the personal data we hold about you.\n\u2014 **Correction:** You may request that we correct any inaccurate or incomplete personal data.\n\u2014 **Withdrawal of consent:** Where processing is based on consent, you may withdraw your consent at any time.\n\u2014 **Erasure:** In certain circumstances, you may request that we delete your personal data.\n\u2014 **Data portability:** Where applicable, you may request that we provide your data in a structured, machine-readable format.\n\nTo exercise any of these rights, please contact us at the address below. We will respond within 30 days."
+        "content": "Under Vietnam’s Decree 13/2023/ND-CP and, where applicable, the GDPR, you have the following rights regarding your personal data:\n\n— **Access:** You may request a copy of the personal data we hold about you.\n— **Correction:** You may request that we correct any inaccurate or incomplete personal data.\n— **Withdrawal of consent:** Where processing is based on consent, you may withdraw your consent at any time.\n— **Erasure:** In certain circumstances, you may request that we delete your personal data.\n— **Data portability:** Where applicable, you may request that we provide your data in a structured, machine-readable format.\n\nTo exercise any of these rights, please contact us at the address below. We will respond within 30 days."
       },
       {
         "title": "8. Cookies and tracking",
-        "content": "Our website uses cookies and similar tracking technologies to improve your experience and collect anonymised analytics data. Cookies are small text files stored on your device.\n\nWe use the following types of cookies:\n\u2014 **Essential cookies:** Required for the website to function correctly. These cannot be disabled.\n\u2014 **Analytics cookies:** Used to understand how visitors interact with our website. All data collected is anonymised.\n\nYou can control cookies through your browser settings. Disabling cookies may affect the functionality of our website."
+        "content": "Our website uses cookies and similar tracking technologies to improve your experience and collect anonymised analytics data. Cookies are small text files stored on your device.\n\nWe use the following types of cookies:\n— **Essential cookies:** Required for the website to function correctly. These cannot be disabled.\n— **Analytics cookies:** Used to understand how visitors interact with our website. All data collected is anonymised.\n\nYou can control cookies through your browser settings. Disabling cookies may affect the functionality of our website."
       },
       {
         "title": "9. Data security",
@@ -1053,7 +1590,7 @@
       },
       {
         "title": "10. International transfers",
-        "content": "Our primary operations are based in Vietnam. If we transfer your personal data outside Vietnam, we will ensure that appropriate safeguards are in place in accordance with Vietnam\u2019s data protection requirements, including ensuring that the recipient country provides a comparable level of data protection."
+        "content": "Our primary operations are based in Vietnam. If we transfer your personal data outside Vietnam, we will ensure that appropriate safeguards are in place in accordance with Vietnam’s data protection requirements, including ensuring that the recipient country provides a comparable level of data protection."
       },
       {
         "title": "11. Changes to this policy",
