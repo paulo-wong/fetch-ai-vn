@@ -71,7 +71,7 @@ function NavDropdown({
   return (
     <div ref={ref} className="relative">
       <button
-        className="flex items-center gap-1 px-3 py-2 text-sm font-medium transition-colors rounded-sm font-body"
+        className="flex items-center gap-1 px-2.5 py-2 text-xs font-medium transition-colors rounded-sm font-body"
         style={{ color: isActive ? "#FFBE16" : "rgba(255,255,255,0.7)" }}
         onClick={() => setOpen(!open)}
         onMouseEnter={() => setOpen(true)}
@@ -169,7 +169,7 @@ function Navbar() {
             </span>
           </Link>
 
-          <nav className="hidden lg:flex items-center gap-0.5">
+          <nav className="hidden lg:flex items-center gap-0">
             {navLinks.map((link) => {
               if (link.dropdown) {
                 return (
@@ -184,7 +184,7 @@ function Navbar() {
               return (
                 <Link key={link.href} href={link.href!}>
                   <span
-                    className="px-3 py-2 text-sm font-medium transition-colors rounded-sm font-body cursor-pointer"
+                    className="px-2.5 py-2 text-xs font-medium transition-colors rounded-sm font-body cursor-pointer"
                     style={{ color: location === link.href ? "#FFBE16" : "rgba(255,255,255,0.7)" }}
                   >
                     {link.label}
@@ -194,27 +194,18 @@ function Navbar() {
             })}
           </nav>
 
-          <div className="hidden lg:flex items-center gap-3">
-            {/* Fetch Group hub link */}
+          <div className="hidden lg:flex items-center gap-2">
+            {/* Fetch Group hub link — icon only to save space */}
             <a
               href="https://fetch.tech"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-1.5 text-xs font-medium font-body px-3 py-2 rounded-sm transition-colors hover:border-white/25"
-              style={{ color: "rgba(255,255,255,0.5)", border: "1px solid rgba(255,255,255,0.12)" }}
+              className="flex items-center justify-center w-8 h-8 rounded-sm transition-colors hover:bg-white/10"
+              style={{ color: "rgba(255,255,255,0.4)", border: "1px solid rgba(255,255,255,0.12)" }}
               title="Fetch Singapore — Group HQ"
             >
-              <Globe className="w-3 h-3" />
-              Fetch Singapore ↗
+              <Globe className="w-4 h-4" />
             </a>
-            <Link href="/grants">
-              <span
-                className="text-sm font-medium font-body px-4 py-2.5 rounded-sm transition-colors"
-                style={{ color: "#DA251D", border: "1px solid rgba(218,37,29,0.4)", backgroundColor: "transparent" }}
-              >
-                AI Grants →
-              </span>
-            </Link>
             <Link href="/contact">
               <span className="btn-amber text-sm px-5 py-2.5">
                 Book a Call

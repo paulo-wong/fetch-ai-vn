@@ -48,3 +48,6 @@
 - [ ] Add Vietnam-adapted Careers page (sourced from Singapore site, redesigned for Vietnam)
 - [ ] Wire /careers route in App.tsx
 - [ ] Add Careers link to Layout nav
+
+## Nav Fix (Apr 23)
+- [x] Fix Vietnam nav overcrowding: too many header buttons causing layout overflow — consolidated by removing "AI Grants" standalone button (it's in Resources dropdown), slim down "Fetch Singapore" to just a globe icon, nav now fits on one line
