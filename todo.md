@@ -51,3 +51,12 @@
 
 ## Nav Fix (Apr 23)
 - [x] Fix Vietnam nav overcrowding: too many header buttons causing layout overflow — consolidated by removing "AI Grants" standalone button (it's in Resources dropdown), slim down "Fetch Singapore" to just a globe icon, nav now fits on one line
+
+## Vietnam Site Audit (Apr 23)
+- [ ] Remove "Flexibility" card (hybrid/remote) from Careers page — not offered in Vietnam office
+- [ ] Full audit: replace all +65 phone numbers with +84 Vietnam numbers across all pages
+- [ ] Full audit: replace all "Singapore" references with Vietnam equivalents across all pages
+- [ ] Full audit: replace S$ currency with USD where appropriate
+- [ ] Full audit: check Contact page for SG address/number
+- [ ] Full audit: check About page for SG-specific content
+- [ ] Full audit: check all other pages (Solutions, Industries, Why Fetch, Case Studies, Resources, Pods, Grants)

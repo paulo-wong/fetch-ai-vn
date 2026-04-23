@@ -27,7 +27,7 @@ const solutions = [
     tagline: "30 days from ambition to deployed AI workflows.",
     problem: "You know AI matters but don't know where to start — or you've been exploring it for months without concrete progress.",
     whatWeDo: "We embed a transformation pod for 30 days. We map your workflows, identify AI opportunities, deploy 1–2 redesigned processes, train your team, and deliver a complete adoption roadmap.",
-    whoFor: "Singapore SMEs and mid-market businesses that want to prove AI value quickly before committing to a larger engagement.",
+    whoFor: "Vietnamese SMEs and mid-market businesses that want to prove AI value quickly before committing to a larger engagement.",
     outcomes: ["1–2 deployed AI workflows", "Team trained and confident", "AI opportunity matrix across all operations", "6–12 month adoption roadmap", "ROI impact summary"],
     deliverables: ["Workflow assessment report", "AI opportunity matrix", "Deployed AI workflows", "Training programme (3–4 sessions)", "AI adoption roadmap", "ROI impact summary"],
     href: "/ai-adoption-sprint",

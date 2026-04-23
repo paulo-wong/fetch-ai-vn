@@ -1,13 +1,13 @@
 /* =============================================================
    FETCH TECHNOLOGY — AI Chat Widget
    On-site AI qualifies leads, then hands off to WhatsApp
-   WhatsApp number: +6592295853 (update WHATSAPP_NUMBER to change)
+   WhatsApp number: +84 (Vietnam) — update WHATSAPP_NUMBER to change
    ============================================================= */
 import { useState, useRef, useEffect } from "react";
 import { MessageCircle, X, Send, Loader2 } from "lucide-react";
 import { trpc } from "@/lib/trpc";
 
-const WHATSAPP_NUMBER = "6586069949"; // Change this to update the handoff number
+const WHATSAPP_NUMBER = "84901234567"; // Vietnam WhatsApp — update to actual Vietnam contact number
 
 type Message = {
   role: "user" | "assistant";

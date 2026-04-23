@@ -15,7 +15,7 @@ function useScrollReveal() {
 }
 
 const pillars = [
-  { icon: Globe, title: "Singapore business understanding", desc: "We know how Singapore enterprises operate — the operational complexity, the workforce dynamics, the regulatory environment, and the pace of decision-making. Our engagements are designed for this context, not adapted from overseas playbooks." },
+  { icon: Globe, title: "Vietnam business understanding", desc: "We know how Vietnamese enterprises operate — the operational complexity, the workforce dynamics, the regulatory environment, and the pace of decision-making. Our engagements are designed for this context, not adapted from overseas playbooks." },
   { icon: Zap, title: "Execution-oriented, not theoretical", desc: "Every Fetch engagement ends with deployed AI workflows and trained teams — not strategy documents. We measure success by operational results, not deliverable volume." },
   { icon: Target, title: "Workflow-first approach", desc: "We redesign workflows before we deploy AI. This means the tools we implement fit your actual operations, not a generic process template. The result is AI that gets used, not AI that sits idle." },
   { icon: Users, title: "Team upskilling built in", desc: "AI adoption fails when teams aren't trained. Every Fetch engagement includes a structured upskilling programme. Your team doesn't just get new tools — they get the confidence and capability to use them." },

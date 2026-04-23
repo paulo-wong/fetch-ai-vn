@@ -6,7 +6,7 @@
 import { useState } from "react";
 import { Link } from "wouter";
 import Layout from "@/components/Layout";
-import { MapPin, Clock, DollarSign, ChevronDown, ChevronUp, ArrowRight, Briefcase, Users, TrendingUp, Heart } from "lucide-react";
+import { MapPin, Clock, DollarSign, ChevronDown, ChevronUp, ArrowRight, Briefcase, Users, TrendingUp } from "lucide-react";
 
 const jobs = [
   {
@@ -169,7 +169,6 @@ const perks = [
   { icon: DollarSign, title: "Competitive Pay", desc: "Market-rate salaries in USD or VND, reviewed annually with performance bonuses." },
   { icon: TrendingUp, title: "Fast Growth", desc: "Work directly with clients across Vietnam and Southeast Asia. Promotions based on merit, not tenure." },
   { icon: Users, title: "Great Team", desc: "A small, high-trust team where your work is visible and your ideas are heard from day one." },
-  { icon: Heart, title: "Flexibility", desc: "Hybrid and remote options for most roles. We care about output, not office hours." },
 ];
 
 const locTagColors: Record<string, string> = {
@@ -326,7 +325,7 @@ export default function Careers() {
       {/* ── PERKS ── */}
       <section className="py-16 bg-white">
         <div className="container">
-          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {perks.map(({ icon: Icon, title, desc }) => (
               <div key={title} className="p-6 rounded-2xl bg-gray-50 border border-gray-100">
                 <div

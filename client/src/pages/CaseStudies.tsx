@@ -23,9 +23,9 @@ const caseStudies = [
   {
     id: "fleet",
     tag: "Logistics & Fleet Management",
-    headline: "A commercial fleet operator cut route planning time by 70% and reduced fuel costs by S$190K annually.",
-    subheadline: "30-Day AI Adoption Sprint · Singapore · 120 vehicles, 18 operations staff",
-    situation: `The operations team at a Singapore-based commercial vehicle fleet company was managing 120 vehicles across multiple client contracts. Route planning was done manually each morning by three senior dispatchers, each spending two to three hours building daily schedules in spreadsheets and cross-referencing against driver availability, vehicle maintenance windows, and client delivery windows.\n\nBeyond planning, the team was drowning in administrative overhead: driver briefing documents, client delivery reports, fuel reconciliation, and compliance paperwork for LTA requirements. The operations manager estimated that 60% of her team's day was spent on tasks that required no judgement — just data entry, formatting, and distribution.\n\nThe company had explored off-the-shelf fleet management software but found the implementation costs prohibitive and the tools too rigid for their mix of contract types. They needed AI that worked within their existing systems, not a platform replacement.`,
+    headline: "A commercial fleet operator cut route planning time by 70% and reduced fuel costs by $190K annually.",
+    subheadline: "30-Day AI Adoption Sprint · Ho Chi Minh City · 120 vehicles, 18 operations staff",
+    situation: `The operations team at a Ho Chi Minh City-based commercial vehicle fleet company was managing 120 vehicles across multiple client contracts. Route planning was done manually each morning by three senior dispatchers, each spending two to three hours building daily schedules in spreadsheets and cross-referencing against driver availability, vehicle maintenance windows, and client delivery windows.\n\nBeyond planning, the team was drowning in administrative overhead: driver briefing documents, client delivery reports, fuel reconciliation, and compliance paperwork for regulatory requirements. The operations manager estimated that 60% of her team's day was spent on tasks that required no judgement — just data entry, formatting, and distribution.\n\nThe company had explored off-the-shelf fleet management software but found the implementation costs prohibitive and the tools too rigid for their mix of contract types. They needed AI that worked within their existing systems, not a platform replacement.`,
     whatWeDid: [
       "Spent the first week embedded with the dispatch team, riding along on the morning planning process and documenting every step. Identified that route planning alone was consuming 63 dispatcher-hours per week — the single largest time sink in the operation.",
       "Redesigned the route planning workflow to use AI-assisted optimisation within the team's existing tools, eliminating the manual spreadsheet process while preserving dispatcher control over final decisions. Dispatchers went from building routes from scratch to reviewing and approving AI-generated schedules.",
@@ -34,7 +34,7 @@ const caseStudies = [
     ],
     results: [
       { metric: "70%", label: "reduction in daily route planning time" },
-      { metric: "S$190K", label: "annual fuel cost reduction from optimised routes" },
+      { metric: "$190K", label: "annual fuel cost reduction from optimised routes" },
       { metric: "63 hrs/wk", label: "dispatcher time recovered" },
       { metric: "4 weeks", label: "to full deployment across all contracts" },
     ],
@@ -50,8 +50,8 @@ const caseStudies = [
     id: "freight",
     tag: "Logistics & Supply Chain",
     headline: "A freight forwarder recovered 14 hours per operations manager per week.",
-    subheadline: "30-Day AI Adoption Sprint · Singapore · 45 staff",
-    situation: `The operations team at a mid-sized Singapore freight forwarder was spending the majority of their working day on tasks that required no judgement: pulling shipment status updates from carrier portals, copying data into customer emails, chasing vendors for ETAs, and compiling weekly performance reports from five different spreadsheets.\n\nEach operations manager was spending an estimated 3.2 hours per day on these tasks. With seven managers, that was 22 hours of senior operational capacity lost every day to copy-paste work.\n\nThe company had purchased a ChatGPT Enterprise licence six months earlier. Nobody was using it in a structured way.`,
+    subheadline: "30-Day AI Adoption Sprint · Ho Chi Minh City · 45 staff",
+    situation: `The operations team at a mid-sized Vietnamese freight forwarder was spending the majority of their working day on tasks that required no judgement: pulling shipment status updates from carrier portals, copying data into customer emails, chasing vendors for ETAs, and compiling weekly performance reports from five different spreadsheets.\n\nEach operations manager was spending an estimated 3.2 hours per day on these tasks. With seven managers, that was 22 hours of senior operational capacity lost every day to copy-paste work.\n\nThe company had purchased a ChatGPT Enterprise licence six months earlier. Nobody was using it in a structured way.`,
     whatWeDid: [
       "Spent week one embedded with the operations team, documenting every workflow step-by-step. We found 23 distinct manual touchpoints across the shipment lifecycle.",
       "Scored each touchpoint against our AI opportunity framework: impact, feasibility, and implementation speed. Identified four high-priority workflows for immediate redesign.",
@@ -60,7 +60,7 @@ const caseStudies = [
     ],
     results: [
       { metric: "14 hrs/week", label: "recovered per operations manager" },
-      { metric: "S$280K", label: "annualised admin cost eliminated" },
+      { metric: "$280K", label: "annualised admin cost eliminated" },
       { metric: "91%", label: "team adoption rate at 30 days" },
       { metric: "4 weeks", label: "to first workflow in production" },
     ],
@@ -75,9 +75,9 @@ const caseStudies = [
   {
     id: "consulting",
     tag: "Professional Services",
-    headline: "A boutique consulting firm eliminated S$180K in annual admin cost.",
-    subheadline: "AI Implementation + Team Upskilling · Singapore · 28 consultants",
-    situation: `The firm's 28 consultants were collectively spending an estimated 40% of their billable hours on non-billable administrative work: writing proposals from scratch for similar engagements, reconciling billing across multiple clients, compiling client reports from raw data, and drafting status updates.\n\nThe managing director had calculated that if she could recover half of that time and redirect it to billable work, the firm would generate an additional S$360K in annual revenue without hiring a single additional person.\n\nThe challenge was that every consultant worked slightly differently. There was no standardised process for proposals, no template library, and no shared knowledge base. Any AI solution had to work across the existing diversity of working styles.`,
+    headline: "A boutique consulting firm eliminated $180K in annual admin cost.",
+    subheadline: "AI Implementation + Team Upskilling · Hà Nội · 28 consultants",
+    situation: `The firm's 28 consultants were collectively spending an estimated 40% of their billable hours on non-billable administrative work: writing proposals from scratch for similar engagements, reconciling billing across multiple clients, compiling client reports from raw data, and drafting status updates.\n\nThe managing director had calculated that if she could recover half of that time and redirect it to billable work, the firm would generate an additional $360K in annual revenue without hiring a single additional person.\n\nThe challenge was that every consultant worked slightly differently. There was no standardised process for proposals, no template library, and no shared knowledge base. Any AI solution had to work across the existing diversity of working styles.`,
     whatWeDid: [
       "Conducted a workflow audit across all 28 consultants over two weeks, identifying the five highest-volume administrative tasks and documenting the variation in how each was performed.",
       "Built a shared prompt library and template system covering proposal generation, billing reconciliation, client reporting, and status updates — standardised enough to work at scale, flexible enough to accommodate individual styles.",
@@ -85,9 +85,9 @@ const caseStudies = [
       "Ran four structured upskilling sessions over two weeks, with role-specific playbooks. Followed up with a 30-day adoption check-in and additional coaching for the three consultants who were slowest to adopt.",
     ],
     results: [
-      { metric: "S$180K", label: "annual admin cost eliminated" },
+      { metric: "$180K", label: "annual admin cost eliminated" },
       { metric: "40% → 15%", label: "time spent on non-billable admin" },
-      { metric: "S$360K", label: "additional billable capacity unlocked" },
+      { metric: "$360K", label: "additional billable capacity unlocked" },
       { metric: "6 weeks", label: "to full team adoption" },
     ],
     quote: "Our consultants were spending 40% of their time on admin. After the sprint, that's down to about 15%. The ROI calculation was straightforward — we saw payback in the first month.",
@@ -102,7 +102,7 @@ const caseStudies = [
     id: "finance",
     tag: "Financial Services",
     headline: "A regional financial services firm cut compliance documentation time by 58%.",
-    subheadline: "Workflow Redesign + AI Implementation · Singapore · 3 business units",
+    subheadline: "Workflow Redesign + AI Implementation · Ho Chi Minh City · 3 business units",
     situation: `The firm's compliance and operations teams were producing a high volume of documentation: client onboarding packs, KYC summaries, regulatory filing narratives, and internal audit reports. Each document required significant manual effort — pulling data from multiple systems, writing structured narratives, and formatting outputs to meet regulatory standards.\n\nThe head of operations estimated that compliance documentation was consuming 35% of the operations team's capacity. During peak regulatory periods, the team was regularly working evenings and weekends to meet deadlines.\n\nThe firm had previously attempted to implement an AI tool. The project stalled after three months because the tool had been deployed without redesigning the underlying workflows, and the team had reverted to their manual processes.`,
     whatWeDid: [
       "Started with a workflow redesign engagement before any AI was deployed. Documented the existing documentation processes in detail, identified the bottlenecks, and redesigned the workflows to be AI-ready.",

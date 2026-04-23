@@ -23,7 +23,7 @@ const team = [
   {
     name: "Adrian Lim",
     title: "Founder & CEO",
-    bio: "Founded Fetch after spending over a decade working inside Singapore enterprises and watching the same AI failure pattern repeat itself — good strategy, broken execution. Built Fetch to be the execution partner he never had: embedded, accountable, and measured on outcomes.",
+    bio: "Founded Fetch after spending over a decade working inside enterprises across Southeast Asia and watching the same AI failure pattern repeat itself — good strategy, broken execution. Built Fetch to be the execution partner he never had: embedded, accountable, and measured on outcomes.",
     photo: "/images/adrian-lim-ceo.jpeg",
   },
   {
@@ -82,7 +82,7 @@ export default function About() {
               We do the work that makes AI actually stick.
             </h1>
             <p className="text-white/60 text-xl font-body animate-on-scroll leading-relaxed">
-              Fetch Technology is a Singapore-based AI transformation execution firm. We embed inside your operations, redesign your workflows, deploy AI, and train your team — until the change is permanent.
+              Fetch Technology Vietnam is an AI transformation execution firm operating across Ho Chi Minh City and Hà Nội. We embed inside your operations, redesign your workflows, deploy AI, and train your team — until the change is permanent.
             </p>
           </div>
         </div>
@@ -102,7 +102,7 @@ export default function About() {
               </h2>
               <div className="space-y-5 animate-on-scroll">
                 <p className="text-gray-600 leading-relaxed font-body">
-                  Fetch Technology has spent years working inside Singapore enterprises — understanding how they operate, where their friction points are, and what makes operational change succeed or fail.
+                  Fetch Technology Vietnam has spent years working inside Vietnamese enterprises — understanding how they operate, where their friction points are, and what makes operational change succeed or fail.
                 </p>
                 <p className="text-gray-600 leading-relaxed font-body">
                   When AI tools became practical, we watched the same pattern play out across dozens of businesses: a consultant delivers a strategy deck, a vendor sells a licence, the team gets a login and a manual, and within three months the tool is abandoned. The AI was fine. The execution was broken.
@@ -134,7 +134,7 @@ export default function About() {
                 <div className="p-6 rounded-xl" style={{ backgroundColor: "#17264E" }}>
                   <div className="section-label mb-3" style={{ color: "#FFBE16" }}>Our Market</div>
                   <p className="text-white/75 text-sm leading-relaxed font-body">
-                    Singapore enterprises with 30–500 staff, operationally complex, and serious about AI adoption — not just experimenting with it.
+                    Vietnamese enterprises with 30–500 staff, operationally complex, and serious about AI adoption — not just experimenting with it.
                   </p>
                 </div>
               </div>
@@ -155,7 +155,7 @@ export default function About() {
               People who've done this before.
             </h2>
             <p className="text-gray-500 animate-on-scroll font-body">
-              Every Fetch team member has worked inside Singapore enterprises, not just advised them. That operational background is what makes the difference.
+              Every Fetch team member has worked inside Vietnamese enterprises, not just advised them. That operational background is what makes the difference.
             </p>
           </div>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-8">
@@ -202,8 +202,8 @@ export default function About() {
                 },
                 {
                   num: "02",
-                  title: "Singapore enterprises are ready but stuck",
-                  body: "Singapore businesses have the operational complexity, the digital infrastructure, and the leadership intent to adopt AI. What they lack is an execution partner who will stay until the AI is embedded — not just deployed.",
+                  title: "Vietnamese enterprises are ready but stuck",
+                  body: "Vietnamese businesses have the operational complexity, the growing digital infrastructure, and the leadership intent to adopt AI. What they lack is an execution partner who will stay until the AI is embedded — not just deployed.",
                 },
                 {
                   num: "03",

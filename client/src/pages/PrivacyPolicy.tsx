@@ -31,7 +31,7 @@ const sections = [
   },
   {
     title: "4. Legal basis for processing",
-    content: `We process your personal data on the following legal bases under the Singapore Personal Data Protection Act 2012 (PDPA) and, where applicable, the EU General Data Protection Regulation (GDPR):\n\n— **Consent:** Where you have given us explicit consent to process your data (e.g., by submitting an enquiry form)\n— **Contractual necessity:** Where processing is necessary to perform a contract with you or to take steps at your request before entering into a contract\n— **Legitimate interests:** Where processing is necessary for our legitimate business interests, provided those interests are not overridden by your rights\n— **Legal obligation:** Where we are required to process your data to comply with applicable law`,
+    content: `We process your personal data on the following legal bases under Vietnam's Law on Cybersecurity 2018, Decree 13/2023/ND-CP on Personal Data Protection, and, where applicable, the EU General Data Protection Regulation (GDPR):\n\n— **Consent:** Where you have given us explicit consent to process your data (e.g., by submitting an enquiry form)\n— **Contractual necessity:** Where processing is necessary to perform a contract with you or to take steps at your request before entering into a contract\n— **Legitimate interests:** Where processing is necessary for our legitimate business interests, provided those interests are not overridden by your rights\n— **Legal obligation:** Where we are required to process your data to comply with applicable law`,
   },
   {
     title: "5. How we share your personal data",
@@ -39,11 +39,11 @@ const sections = [
   },
   {
     title: "6. Data retention",
-    content: `We retain your personal data for as long as necessary to fulfil the purposes for which it was collected, including to satisfy any legal, accounting, or reporting requirements.\n\n— Enquiry and contact data: up to 2 years from the date of last contact\n— Client engagement data: up to 7 years from the end of the engagement, in accordance with Singapore's business record-keeping requirements\n— Website analytics data: up to 13 months on a rolling basis\n\nWhen personal data is no longer required, we securely delete or anonymise it.`,
+    content: `We retain your personal data for as long as necessary to fulfil the purposes for which it was collected, including to satisfy any legal, accounting, or reporting requirements.\n\n— Enquiry and contact data: up to 2 years from the date of last contact\n— Client engagement data: up to 5 years from the end of the engagement, in accordance with Vietnamese business record-keeping requirements\n— Website analytics data: up to 13 months on a rolling basis\n\nWhen personal data is no longer required, we securely delete or anonymise it.`,
   },
   {
     title: "7. Your rights",
-    content: `Under the PDPA and, where applicable, the GDPR, you have the following rights regarding your personal data:\n\n— **Access:** You may request a copy of the personal data we hold about you.\n— **Correction:** You may request that we correct any inaccurate or incomplete personal data.\n— **Withdrawal of consent:** Where processing is based on consent, you may withdraw your consent at any time.\n— **Erasure:** In certain circumstances, you may request that we delete your personal data.\n— **Data portability:** Where applicable, you may request that we provide your data in a structured, machine-readable format.\n\nTo exercise any of these rights, please contact us at the address below. We will respond within 30 days.`,
+    content: `Under Vietnam's Decree 13/2023/ND-CP and, where applicable, the GDPR, you have the following rights regarding your personal data:\n\n— **Access:** You may request a copy of the personal data we hold about you.\n— **Correction:** You may request that we correct any inaccurate or incomplete personal data.\n— **Withdrawal of consent:** Where processing is based on consent, you may withdraw your consent at any time.\n— **Erasure:** In certain circumstances, you may request that we delete your personal data.\n— **Data portability:** Where applicable, you may request that we provide your data in a structured, machine-readable format.\n\nTo exercise any of these rights, please contact us at the address below. We will respond within 30 days.`,
   },
   {
     title: "8. Cookies and tracking",
@@ -55,7 +55,7 @@ const sections = [
   },
   {
     title: "10. International transfers",
-    content: `Our primary operations are based in Singapore. If we transfer your personal data outside Singapore, we will ensure that appropriate safeguards are in place in accordance with the PDPA's data transfer requirements, including ensuring that the recipient country provides a comparable level of data protection.`,
+    content: `Our primary operations are based in Vietnam. If we transfer your personal data outside Vietnam, we will ensure that appropriate safeguards are in place in accordance with Vietnam's data protection requirements, including ensuring that the recipient country provides a comparable level of data protection.`,
   },
   {
     title: "11. Changes to this policy",
@@ -63,7 +63,7 @@ const sections = [
   },
   {
     title: "12. Contact us",
-    content: `If you have any questions about this Privacy Policy, wish to exercise your rights, or wish to make a complaint, please contact us:\n\n**Fetch Technology Pte. Ltd.**\nEmail: privacy@fetch.tech\nSingapore\n\nIf you are not satisfied with our response, you may contact the Personal Data Protection Commission (PDPC) of Singapore at www.pdpc.gov.sg.`,
+    content: `If you have any questions about this Privacy Policy, wish to exercise your rights, or wish to make a complaint, please contact us:\n\n**Fetch Technology Vietnam**\nEmail: privacy@fetch.tech\nHo Chi Minh City, Vietnam\n\nIf you are not satisfied with our response, you may contact the Ministry of Public Security of Vietnam (A05 Department) regarding personal data protection matters.`,
   },
 ];
 
@@ -91,7 +91,7 @@ export default function PrivacyPolicy() {
               Privacy Policy
             </h1>
             <p className="text-white/50 text-sm font-body animate-on-scroll">
-              Effective date: 1 April 2025 &nbsp;·&nbsp; Fetch Technology Pte. Ltd.
+              Effective date: 1 April 2025 &nbsp;·&nbsp; Fetch Technology Vietnam
             </p>
           </div>
         </div>
@@ -102,7 +102,7 @@ export default function PrivacyPolicy() {
         <div className="container">
           <div className="max-w-3xl">
             <p className="text-gray-500 text-sm leading-relaxed font-body mb-12 pb-8 border-b border-gray-100">
-              Fetch Technology Pte. Ltd. is committed to protecting your personal data. This policy describes what data we collect, why we collect it, and how we use and protect it — in plain language, without unnecessary legal jargon.
+              Fetch Technology Vietnam is committed to protecting your personal data. This policy describes what data we collect, why we collect it, and how we use and protect it — in plain language, without unnecessary legal jargon.
             </p>
             <div className="space-y-12">
               {sections.map(({ title, content }) => (

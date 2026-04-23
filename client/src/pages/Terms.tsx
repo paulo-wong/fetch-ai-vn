@@ -31,7 +31,7 @@ const sections = [
   },
   {
     title: "4. Intellectual property",
-    content: `All content on this website — including text, graphics, logos, images, and software — is the property of Fetch Technology Pte. Ltd. or its content suppliers and is protected by applicable intellectual property laws.\n\nYou may view and print pages from the website for your personal, non-commercial use. You may not reproduce, distribute, modify, create derivative works from, or commercially exploit any content from this website without our prior written consent.\n\nAny methodologies, frameworks, tools, templates, or processes developed by Fetch in the course of delivering services remain the intellectual property of Fetch, unless otherwise agreed in writing. Clients receive a licence to use deliverables for their internal business purposes.`,
+    content: `All content on this website — including text, graphics, logos, images, and software — is the property of Fetch Technology Vietnam or its content suppliers and is protected by applicable intellectual property laws.\n\nYou may view and print pages from the website for your personal, non-commercial use. You may not reproduce, distribute, modify, create derivative works from, or commercially exploit any content from this website without our prior written consent.\n\nAny methodologies, frameworks, tools, templates, or processes developed by Fetch in the course of delivering services remain the intellectual property of Fetch, unless otherwise agreed in writing. Clients receive a licence to use deliverables for their internal business purposes.`,
   },
   {
     title: "5. Client engagements",
@@ -43,7 +43,7 @@ const sections = [
   },
   {
     title: "7. Indemnification",
-    content: `You agree to indemnify and hold harmless Fetch Technology Pte. Ltd. and its directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising out of or in connection with:\n\n— Your use of our website or services in violation of these Terms\n— Your violation of any applicable law or regulation\n— Any content or information you provide to us that is inaccurate, misleading, or infringes the rights of any third party`,
+    content: `You agree to indemnify and hold harmless Fetch Technology Vietnam and its directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising out of or in connection with:\n\n— Your use of our website or services in violation of these Terms\n— Your violation of any applicable law or regulation\n— Any content or information you provide to us that is inaccurate, misleading, or infringes the rights of any third party`,
   },
   {
     title: "8. Third-party links and tools",
@@ -55,7 +55,7 @@ const sections = [
   },
   {
     title: "10. Governing law and dispute resolution",
-    content: `These Terms are governed by and construed in accordance with the laws of Singapore, without regard to its conflict of law provisions.\n\nAny dispute arising out of or in connection with these Terms, including any question regarding their existence, validity, or termination, shall first be referred to mediation administered by the Singapore Mediation Centre. If the dispute is not resolved through mediation within 60 days, it shall be referred to and finally resolved by arbitration in Singapore in accordance with the Arbitration Rules of the Singapore International Arbitration Centre (SIAC).`,
+    content: `These Terms are governed by and construed in accordance with the laws of Vietnam, without regard to its conflict of law provisions.\n\nAny dispute arising out of or in connection with these Terms, including any question regarding their existence, validity, or termination, shall first be referred to mediation in accordance with Vietnamese law. If the dispute is not resolved through mediation within 60 days, it shall be referred to and finally resolved by the competent courts of Vietnam.`,
   },
   {
     title: "11. Changes to these terms",
@@ -63,7 +63,7 @@ const sections = [
   },
   {
     title: "12. Contact",
-    content: `If you have any questions about these Terms, please contact us:\n\n**Fetch Technology Pte. Ltd.**\nEmail: legal@fetch.tech\nSingapore`,
+    content: `If you have any questions about these Terms, please contact us:\n\n**Fetch Technology Vietnam**\nEmail: legal@fetch.tech\nHo Chi Minh City, Vietnam`,
   },
 ];
 
@@ -91,7 +91,7 @@ export default function Terms() {
               Terms of Service
             </h1>
             <p className="text-white/50 text-sm font-body animate-on-scroll">
-              Effective date: 1 April 2025 &nbsp;·&nbsp; Fetch Technology Pte. Ltd.
+              Effective date: 1 April 2025 &nbsp;·&nbsp; Fetch Technology Vietnam
             </p>
           </div>
         </div>

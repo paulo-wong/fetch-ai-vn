@@ -33,7 +33,7 @@ export default function Industries() {
           <div className="max-w-3xl">
             <div className="inline-flex items-center gap-2 mb-6"><div className="w-8 h-px bg-[#FFBE16]" /><span className="section-label" style={{ color: "#FFBE16" }}>Industries</span></div>
             <h1 className="font-display text-white mb-6" style={{ fontSize: "clamp(2.5rem, 5vw, 4.5rem)", fontWeight: 800, lineHeight: 1.05 }}>Built for operationally complex businesses</h1>
-            <p className="text-white/70 text-xl leading-relaxed font-body max-w-2xl">Fetch works with Singapore enterprises across six industries where operational complexity makes AI adoption both challenging and high-value.</p>
+            <p className="text-white/70 text-xl leading-relaxed font-body max-w-2xl">Fetch works with Vietnamese enterprises across six industries where operational complexity makes AI adoption both challenging and high-value.</p>
           </div>
         </div>
       </section>
@@ -57,7 +57,7 @@ export default function Industries() {
       <section className="py-20 bg-[#FFBE16]">
         <div className="container text-center">
           <h2 className="font-display text-[#091738] mb-4 animate-on-scroll" style={{ fontSize: "clamp(1.8rem, 3vw, 2.5rem)", fontWeight: 800 }}>Don't see your industry?</h2>
-          <p className="text-[#091738]/70 text-lg mb-8 max-w-xl mx-auto animate-on-scroll font-body">Fetch works with any operationally complex Singapore business. Book a strategy call to discuss your specific situation.</p>
+          <p className="text-[#091738]/70 text-lg mb-8 max-w-xl mx-auto animate-on-scroll font-body">Fetch works with any operationally complex Vietnamese business. Book a strategy call to discuss your specific situation.</p>
           <Link href="/contact"><span className="inline-flex items-center gap-2 px-8 py-4 rounded-sm font-bold text-base bg-[#091738] text-white hover:bg-[#17264E] transition-colors animate-on-scroll">Book a Strategy Call<ArrowRight className="w-5 h-5" /></span></Link>
         </div>
       </section>

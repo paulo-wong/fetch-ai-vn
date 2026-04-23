@@ -28,11 +28,11 @@ type Article = {
 const articles: Article[] = [
   {
     category: "AI Adoption",
-    title: "How Singapore SMEs should adopt AI without breaking operations",
-    excerpt: "Most AI adoption advice is written for large enterprises with dedicated transformation teams. This guide is for Singapore SMEs that need to adopt AI while keeping the business running.",
+    title: "How Vietnamese SMEs should adopt AI without breaking operations",
+    excerpt: "Most AI adoption advice is written for large enterprises with dedicated transformation teams. This guide is for Vietnamese SMEs that need to adopt AI while keeping the business running.",
     readTime: "8 min read",
     featured: true,
-    body: `Most AI adoption advice assumes you have a dedicated transformation team, a six-figure implementation budget, and the luxury of running a pilot that doesn't affect day-to-day operations. Singapore SMEs rarely have any of those things.
+    body: `Most AI adoption advice assumes you have a dedicated transformation team, a six-figure implementation budget, and the luxury of running a pilot that doesn't affect day-to-day operations. Vietnamese SMEs rarely have any of those things.
 
 **The core challenge for SMEs**
 
@@ -134,7 +134,7 @@ The metric for upskilling is not "did the team complete the training." It's "is 
     featured: false,
     body: `When a business starts an AI adoption programme, one of the first questions is: where do we start? The answer matters because early wins build momentum and justify further investment, while early failures create resistance that can set back the entire programme.
 
-These five workflow types consistently deliver the highest ROI when redesigned for AI, based on implementations across Singapore enterprises in logistics, professional services, financial services, healthcare, and retail.
+These five workflow types consistently deliver the highest ROI when redesigned for AI, based on implementations across Vietnamese enterprises in logistics, professional services, financial services, healthcare, and retail.
 
 **1. Document processing and data extraction**
 
@@ -186,11 +186,11 @@ AI tools need to be configured and refined based on how they're actually being u
   },
   {
     category: "Leadership",
-    title: "What Singapore business leaders need to understand about AI adoption",
-    excerpt: "AI adoption is not a technology project. It's an operational change programme. This guide is for Singapore business leaders who need to lead AI adoption without becoming AI experts.",
+    title: "What Vietnamese business leaders need to understand about AI adoption",
+    excerpt: "AI adoption is not a technology project. It's an operational change programme. This guide is for Vietnamese business leaders who need to lead AI adoption without becoming AI experts.",
     readTime: "7 min read",
     featured: false,
-    body: `Business leaders in Singapore are under significant pressure to adopt AI. The pressure comes from multiple directions: competitive pressure from businesses that are already using AI to reduce costs and improve service, talent pressure from employees who expect to work with modern tools, and investor pressure from shareholders who see AI as a value driver.
+    body: `Business leaders in Vietnam are under significant pressure to adopt AI. The pressure comes from multiple directions: competitive pressure from businesses that are already using AI to reduce costs and improve service, talent pressure from employees who expect to work with modern tools, and investor pressure from shareholders who see AI as a value driver.
 
 The challenge is that most business leaders are not AI experts and don't need to be. What they need to understand is how to lead an AI adoption programme effectively — which is a leadership and change management challenge, not a technology challenge.
 
@@ -208,7 +208,7 @@ The single most powerful driver of AI adoption is visible leadership engagement.
   },
   {
     category: "AI Adoption",
-    title: "The AI readiness checklist for Singapore enterprises",
+    title: "The AI readiness checklist for Vietnamese enterprises",
     excerpt: "Before you start an AI adoption programme, there are six things you need to have in place. This checklist helps you assess your readiness and identify the gaps.",
     readTime: "5 min read",
     featured: false,
@@ -268,7 +268,7 @@ The basic ROI calculation for operational AI is: (time saved per task × volume 
   },
   {
     category: "Enterprise AI",
-    title: "Building an AI governance framework for Singapore enterprises",
+    title: "Building an AI governance framework for Vietnamese enterprises",
     excerpt: "As AI becomes embedded in operations, governance becomes critical. This guide covers the key elements of an AI governance framework that balances innovation with risk management.",
     readTime: "11 min read",
     featured: false,
@@ -280,7 +280,7 @@ An AI governance framework covers four areas: decision rights (who can approve A
 
 **The minimum viable governance framework**
 
-For most Singapore enterprises, the minimum viable governance framework has three components. First, an AI use policy that defines what AI tools can be used for, what data can be shared with AI systems, and what decisions require human review. Second, a deployment approval process that ensures new AI deployments are reviewed against the use policy before going live. Third, an incident response process that defines how AI-related incidents are identified, reported, and resolved.
+For most Vietnamese enterprises, the minimum viable governance framework has three components. First, an AI use policy that defines what AI tools can be used for, what data can be shared with AI systems, and what decisions require human review. Second, a deployment approval process that ensures new AI deployments are reviewed against the use policy before going live. Third, an incident response process that defines how AI-related incidents are identified, reported, and resolved.
 
 **Governance for generative AI**
 
@@ -316,8 +316,8 @@ Champions need three things to be effective: time (they need protected time to s
   },
   {
     category: "AI Adoption",
-    title: "Selecting AI tools for Singapore SMEs: a practical framework",
-    excerpt: "With hundreds of AI tools available, selection is a major challenge. This framework cuts through the noise and helps Singapore SMEs choose tools that will actually get used.",
+    title: "Selecting AI tools for Vietnamese SMEs: a practical framework",
+    excerpt: "With hundreds of AI tools available, selection is a major challenge. This framework cuts through the noise and helps Vietnamese SMEs choose tools that will actually get used.",
     readTime: "6 min read",
     featured: false,
     body: `There are hundreds of AI tools available for every business function. Most of them will not get used by your team. The selection challenge is not finding tools that are technically capable — it's finding tools that will be adopted by your specific team in your specific operational context.
@@ -342,7 +342,7 @@ const tools = [
   { icon: BookOpen, title: "AI Adoption Sprint Playbook", desc: "The complete 30-day playbook used by Fetch transformation pods. Covers workflow mapping, tool configuration, team training, and ROI measurement.", tag: "Playbook", color: "#FFBE16" },
   { icon: Video, title: "Team Upskilling Framework", desc: "A four-session training framework for upskilling teams during AI implementation. Includes session outlines, exercises, and adoption measurement tools.", tag: "Framework", color: "#17264E" },
   { icon: Wrench, title: "AI ROI Calculator", desc: "A spreadsheet model for calculating the ROI of operational AI implementations. Input your baseline metrics and implementation costs to project payback period and three-year ROI.", tag: "Calculator", color: "#FFBE16" },
-  { icon: FileText, title: "AI Governance Policy Template", desc: "A customisable policy template covering AI use, data governance, and accountability. Designed for Singapore enterprises and aligned with MAS guidelines.", tag: "Template", color: "#17264E" },
+  { icon: FileText, title: "AI Governance Policy Template", desc: "A customisable policy template covering AI use, data governance, and accountability. Designed for Vietnamese enterprises and aligned with local regulatory requirements.", tag: "Template", color: "#17264E" },
 ];
 
 export default function Resources() {
@@ -383,7 +383,7 @@ export default function Resources() {
               Practical guides for AI adoption
             </h1>
             <p className="text-white/70 text-xl leading-relaxed font-body max-w-2xl">
-              No hype. No theory. Practical insights for Singapore enterprises navigating AI adoption, workflow redesign, and operational transformation.
+              No hype. No theory. Practical insights for Vietnamese enterprises navigating AI adoption, workflow redesign, and operational transformation.
             </p>
           </div>
         </div>
@@ -454,7 +454,7 @@ export default function Resources() {
               Practical tools for your AI programme
             </h2>
             <p className="text-gray-600 font-body max-w-2xl">
-              Templates, frameworks, and calculators used by Fetch transformation pods. Available to Singapore enterprises on request.
+              Templates, frameworks, and calculators used by Fetch transformation pods. Available to Vietnamese enterprises on request.
             </p>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -490,7 +490,7 @@ export default function Resources() {
               Get the AI Readiness Checklist
             </h2>
             <p className="text-white/65 mb-8 animate-on-scroll font-body">
-              A practical checklist for Singapore enterprises assessing their readiness for AI adoption. Free to download — no spam, no follow-up calls.
+              A practical checklist for Vietnamese enterprises assessing their readiness for AI adoption. Free to download — no spam, no follow-up calls.
             </p>
             {submitted ? (
               <div className="inline-flex items-center gap-2 px-6 py-4 rounded-sm animate-on-scroll" style={{ backgroundColor: "rgba(255,190,22,0.15)", border: "1px solid rgba(255,190,22,0.3)" }}>
